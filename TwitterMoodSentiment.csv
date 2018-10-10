@@ -1,716 +1,666 @@
 ,User,Date,Tweet,Tweets Ago,Compound,Negative,Neutral,Positive
-0,@BTC,Thu Sep 13 08:49:51 +0000 2018,"RIP #Ethereum. “World computer,” we barely knew you.",1,0.0,1.0,0.0,0.0
-1,@BTC,Thu Sep 13 05:58:31 +0000 2018,RT @bitcoinister: The Unflippening: #Bitcoin’s Resurgent Dominance Showing Who’s King https://t.co/YYbK72afKA,2,0.2023,0.847,0.0,0.153
-2,@BTC,Thu Sep 13 05:27:33 +0000 2018,"RT @LeahWald: QA to Roger Ver:
-Q: #BCH down 50% to #BTC in past 3 months. Why would an institutional investor pick BCash over BTC when it's…",3,0.0,1.0,0.0,0.0
-3,@BTC,Tue Sep 11 17:12:54 +0000 2018,Bcash is fiat. Money by decree and created out of thin air. https://t.co/JDgBHJOYmZ,4,0.25,0.857,0.0,0.143
-4,@BTC,Tue Sep 11 07:54:19 +0000 2018,There’s nothing to debate. There is #Bitcoin and several copies pretending to be related to Bitcoin. None have any… https://t.co/lBJMh3v7fx,5,0.1027,0.931,0.0,0.069
-5,@BTC,Tue Sep 11 05:05:53 +0000 2018,"RT @alistairmilne: Things Bcash'ers say:
+0,@Quantstamp,Tue Oct 09 03:55:19 +0000 2018,"RT @Fluence_One: Ed Zulkoski, Senior Security Engineer at @Quantstamp: decentralized approaches to smart contract analysis
+@SFBWofficial #s…",1,0.6249,0.746,0.0,0.254
+1,@Quantstamp,Tue Oct 09 02:56:27 +0000 2018,RT @golemproject: Full house at the @polychaincap meetup feat. @Fluence_One @nucypher @Quantstamp @PerlinNetwork &amp; us! https://t.co/G4uj6gn…,2,0.0,1.0,0.0,0.0
+2,@Quantstamp,Mon Oct 08 16:22:05 +0000 2018,"Join us at @polychaincap for “Web3 stack, what’s next for developers?”
+Monday evening with our friends @nucypher… https://t.co/IXd3xysRlw",3,0.6486,0.751,0.0,0.249
+3,@Quantstamp,Mon Oct 08 16:19:14 +0000 2018,RT @golemproject: PSA! In #SFBW? Join us today at the @polychaincap alongside @Quantstamp @Fluence_One @nucypher @PerlinNetwork for a meetu…,4,0.3595,0.872,0.0,0.128
+4,@Quantstamp,Mon Oct 08 00:33:52 +0000 2018,Our Community Manager @JaredHarrill announces our bounty winner at @EthSanFrancisco https://t.co/k3BMafqxxu,5,0.5859,0.725,0.0,0.275
+5,@Quantstamp,Sun Oct 07 22:57:04 +0000 2018,Congratulations to our engineer Michael Teixeira and his team Blocusign for winning a @Bloom bounty for their merkl… https://t.co/q3OzXYp99v,6,0.8074,0.687,0.0,0.313
+6,@Quantstamp,Sun Oct 07 22:32:54 +0000 2018,Congratulations to @jacobmort and his project Quantstamp Badge for winning the @ETHSanfrancisco Quantstamp bounty f… https://t.co/2inNAfHPah,7,0.8074,0.657,0.0,0.343
+7,@Quantstamp,Sat Oct 06 05:30:49 +0000 2018,Hacking at @ETHSanFrancisco this weekend? Check out our bounties - over $5K in prizes to make smart contracts safer… https://t.co/2cXXGxna4e,8,0.6908,0.749,0.0,0.251
+8,@Quantstamp,Fri Oct 05 22:32:02 +0000 2018,"As mentioned, we’re now enlisting node operators for Betanet! Apply below and we’ll be in touch if you meet all the… https://t.co/ztEiGVMO5l",9,0.0,1.0,0.0,0.0
+9,@Quantstamp,Fri Oct 05 22:30:25 +0000 2018,Protocol Weekly is a newsletter to showcase the progress of Ethereum layer-2 protocols. Thanks for including us… https://t.co/85MYvZOM85,10,0.6908,0.725,0.0,0.275
+10,@Quantstamp,Fri Oct 05 20:50:05 +0000 2018,Our VP of Strategy @OlgaVMack will be at @TEDxSFbay Oct 9 sharing about  #SmartContracts on the #Blockchain &amp; its i… https://t.co/Z7vFR4B3vB,11,0.4215,0.872,0.0,0.128
+11,@Quantstamp,Fri Oct 05 16:10:05 +0000 2018,Interested in working in the #blockchain industry? Join Quantstamp today 2:30pm - 4:30pm at the DC Fishbowl for All… https://t.co/NTpvfN0MZM,12,0.5994,0.776,0.0,0.224
+12,@Quantstamp,Tue Oct 02 16:00:48 +0000 2018,"This past Friday, two blockchain bills were passed in CA. Thank you @OlgaVMack, Quantstamp’s VP of Strategy, for ed… https://t.co/NXUpJYFTmc",13,0.3612,0.884,0.0,0.116
+13,@Quantstamp,Mon Oct 01 23:07:03 +0000 2018,Quantstamp will be talking All About Blockchains at the University of Waterloo this Friday Oct 5th 2:30pm - 4:30pm… https://t.co/UyuZa9uS8F,14,0.0,1.0,0.0,0.0
+14,@Quantstamp,Fri Sep 28 23:07:01 +0000 2018,"Congratulations to @chain_security, for open sourcing securify. https://t.co/BgwgAPgDmm",15,0.5994,0.642,0.0,0.358
+15,@Quantstamp,Thu Sep 27 19:00:11 +0000 2018,"Betanet release, awards, ETHBerlin - here's what we've been up to recently
+https://t.co/IgaHJybYNq https://t.co/lbBE8Q6M9u",16,0.4588,0.8,0.0,0.2
+16,@Quantstamp,Tue Sep 25 18:28:38 +0000 2018,We recently signed an MOU with the Mythril team to focus on synergies between our protocol + the Mythril Platform a… https://t.co/iU4OUtkqC0,17,0.0,1.0,0.0,0.0
+17,@Quantstamp,Mon Sep 24 01:03:08 +0000 2018,RT @TEDxSFbay: #DareToKnow @Quantstamp's VP Strategy @OlgaVMack &amp; learn more about #SmartContract on the #Blockchain &amp; its intersection wit…,18,0.0,1.0,0.0,0.0
+18,@Quantstamp,Sat Sep 22 02:24:39 +0000 2018,We were thrilled to have our CTO and co-founder Steven Stewart present at CodeX @Stanford today. CodeX is a collabo… https://t.co/MOaCFXp0uO,19,0.4404,0.868,0.0,0.132
+19,@Quantstamp,Thu Sep 20 04:30:43 +0000 2018,"Quantstamp will be holding a roundtable at GCV Asia Congress today in Hong Kong, to facilitate discussions on mains… https://t.co/zLnLARU8rK",20,0.0,1.0,0.0,0.0
+20,@Quantstamp,Thu Sep 20 04:27:22 +0000 2018,RT @zilliqa: Our Chief Scientific Advisor @prateekatcs's vision CRYSTALlised through new blockchain academic research lab and think tank at…,21,0.25,0.9,0.0,0.1
+21,@Quantstamp,Wed Sep 19 15:45:06 +0000 2018,"Proud to be sponsoring the Crystal Center- an NUS think tank leading research in blockchain security.
+
+""We believe… https://t.co/Z97gxfe2Ry",22,0.6705,0.756,0.0,0.244
+22,@Quantstamp,Tue Sep 18 14:24:42 +0000 2018,Live from SuperReturn Asia! https://t.co/MtCMK0kVqQ,23,0.0,1.0,0.0,0.0
+23,@Quantstamp,Fri Sep 14 23:33:25 +0000 2018,@jimmytr40736630 @AnirudhaPanda Betanet is on mainnet,24,0.0,1.0,0.0,0.0
+24,@Quantstamp,Fri Sep 14 23:08:50 +0000 2018,RT @ETHBerlin: While we are wrapping up our event - there's still SO MUCH to do! hackers &amp; volunteers are already experiencing hackathon wi…,25,0.0,1.0,0.0,0.0
+25,@Quantstamp,Fri Sep 14 19:01:09 +0000 2018,Ever wondered about the need for smart contract security or audits?  Here is a framework for understanding the Quan… https://t.co/8Bcr6l5Ia1,26,0.6249,0.769,0.0,0.231
+26,@Quantstamp,Wed Sep 12 19:00:40 +0000 2018,"Part engineer, part lawyer, Quantstamp’s Linda Selker is an adaptive leader and lifetime student. Our Head of Legal… https://t.co/o7TZgmPcFh",27,0.0,1.0,0.0,0.0
+27,@Quantstamp,Tue Sep 11 17:00:53 +0000 2018,We’re honored to have our CEO Richard Ma on this recent list of Top 10 Cornell Grads and Faculty in the Cryptocurre… https://t.co/a2KEOtq1Ye,28,0.6808,0.789,0.0,0.211
+28,@Quantstamp,Mon Sep 10 08:07:14 +0000 2018,"RT @wanchain_org: Excited to announce Wanchain 3.0 Alpha Testnet (Bridging Bitcoin &amp; Ethereum) is live, ahead of schedule! So proud of our…",29,0.7257,0.767,0.0,0.233
+29,@Quantstamp,Fri Sep 07 03:20:05 +0000 2018,"Quantstamp just won the Global Startup award at Plug and Play Japan demo day!
+We were voted international Fintech c… https://t.co/UgHyNnxu07",30,0.8718,0.645,0.0,0.355
+30,@Quantstamp,Wed Sep 05 16:27:33 +0000 2018,@Will74Iam Thank you so much!,31,0.4199,0.589,0.0,0.411
+31,@Quantstamp,Wed Sep 05 15:45:13 +0000 2018,Berlin is a gateway to Europe - an epicenter and melting pot of creativity and technology. We are participating in… https://t.co/17XAJkAgLf,32,0.3818,0.874,0.0,0.126
+32,@Quantstamp,Wed Sep 05 03:35:14 +0000 2018,@TopSpottyDog ♥️ All is great! How are you?,33,0.6588,0.614,0.0,0.386
+33,@Quantstamp,Tue Sep 04 23:09:14 +0000 2018,"Thank you all for the incredible support!
+We really hope you love using our betanet.
+Give it a try @… https://t.co/AbX7RmDFbl",34,0.9209,0.549,0.0,0.451
+34,@Quantstamp,Tue Sep 04 22:44:19 +0000 2018,"@3abaseet Feel free to apply to any open listings here https://t.co/rPm6J1PGMK
+We take pride in our team, because w… https://t.co/eI4xtzWQEW",35,0.6908,0.759,0.0,0.241
+35,@Quantstamp,Sun Sep 02 22:35:38 +0000 2018,"RT @walitwit: @Quantstamp ""Users are now able to submit audit requests directly to the beta net. All completed audits will be publically vi…",36,0.0,1.0,0.0,0.0
+36,@Quantstamp,Sun Sep 02 22:35:25 +0000 2018,RT @crypto_ninjas: https://t.co/7Kxk8ZWgDG | Quantstamp betanet protocol released on Ethereum mainnet @Quantstamp $QSP,37,0.0,1.0,0.0,0.0
+37,@Quantstamp,Sun Sep 02 15:41:12 +0000 2018,RT @ethereumecf: Out in the wild! Congrats to ECF member @Quantstamp for their getaner mainnet launch. Our members are working hard and set…,38,0.5093,0.805,0.054,0.141
+38,@Quantstamp,Sat Sep 01 20:00:29 +0000 2018,"RT @BobSummerwill: Go @Quantstamp!  Huge milestone :-)
+#ethereum #community https://t.co/c94F7agNtU",39,0.5983,0.621,0.0,0.379
+39,@Quantstamp,Sat Sep 01 20:00:18 +0000 2018,"RT @SVK_Crypto: ### THE @SVK_Crypto 15 MINUTES OF CRYPTO FAME PODCAST ###
+
+QUANTSTAMP LAUNCHED ON THE ETHEREUM MAINNET LIVE WITH RICHARD MA…",40,0.7065,0.773,0.0,0.227
+40,@Quantstamp,Sat Sep 01 19:59:59 +0000 2018,RT @nucypher: Congrats @Quantstamp on this news! Keep #buidling 🙌 https://t.co/ogHBeRcnvr,41,0.5707,0.709,0.0,0.291
+41,@Quantstamp,Sat Sep 01 19:59:53 +0000 2018,RT @ConsenSysVC: Congratulations to @Quantstamp on reaching this milestone! Their Betanet Protocol is now released on Ethereum Mainnet. htt…,42,0.7177,0.739,0.0,0.261
+42,@Quantstamp,Sat Sep 01 19:31:12 +0000 2018,"RT @HashingItOutPod: Episode 20 is out! This week @corpetty and @CollinCusce talk to Kacper Bąk, senior research engineer at @Quantstamp.…",43,0.0,1.0,0.0,0.0
+43,@Quantstamp,Sat Sep 01 19:31:07 +0000 2018,RT @robindube: .@BDO_Canada partner Graham Marjoribanks recently discussed #Blockchain and #Cryptocurrency  on a panel hosted by @Quantstam…,44,0.0,1.0,0.0,0.0
+44,@Quantstamp,Sat Sep 01 19:30:33 +0000 2018,@CollinCusce @HashingItOutPod @thebtcpodcast Thank you so much for the invite! Was an incredible interview,45,0.5255,0.732,0.0,0.268
+45,@Quantstamp,Sat Sep 01 19:28:24 +0000 2018,@SVK_Crypto ♥️,46,0.0,1.0,0.0,0.0
+46,@Quantstamp,Sat Sep 01 19:28:11 +0000 2018,@ICODrops ♥️,47,0.0,1.0,0.0,0.0
+47,@Quantstamp,Sat Sep 01 19:27:22 +0000 2018,@ConsenSysVC ♥️,48,0.0,1.0,0.0,0.0
+48,@Quantstamp,Sat Sep 01 19:09:46 +0000 2018,@nucypher ♥️,49,0.0,1.0,0.0,0.0
+49,@Quantstamp,Sat Sep 01 19:09:27 +0000 2018,@BobSummerwill ♥️,50,0.0,1.0,0.0,0.0
+50,@Quantstamp,Sat Sep 01 01:20:10 +0000 2018,@Geedora_ Thank you so much for your support!,51,0.6696,0.522,0.0,0.478
+51,@Quantstamp,Sat Sep 01 01:20:00 +0000 2018,@Killersmurf10 Thank you so much :),52,0.6983,0.409,0.0,0.591
+52,@Quantstamp,Fri Aug 31 21:10:16 +0000 2018,Exciting news: Quantstamp’s Blockchain Security Protocol is now officially released on the #Ethereum Mainnet. Check… https://t.co/v1pjZZniwt,53,0.6808,0.714,0.0,0.286
+53,@Quantstamp,Fri Aug 31 13:03:03 +0000 2018,Interested in the nitty gritty of Smart Contract Security? Check out this podcast with our Senior Research Engineer… https://t.co/b6CInzqauD,54,0.7783,0.672,0.0,0.328
+54,@Quantstamp,Tue Aug 28 22:00:37 +0000 2018,We've been working hard to get ready for our upcoming Betanet Release. Here's a preview of the new version of the Q… https://t.co/YT7RgSj8SH,55,0.2732,0.837,0.059,0.105
+55,@Quantstamp,Fri Aug 24 18:30:15 +0000 2018,Come around to our Telegram group today at noon PST (in 30 mins) for our weekly Q&amp;A session with CEO and Co-founder… https://t.co/QgieSPxZ9y,56,0.0,1.0,0.0,0.0
+56,@Quantstamp,Fri Aug 24 03:12:42 +0000 2018,RT @shiyankoh: Don of @Quantstamp #cryptoshift #dontgethacked https://t.co/42nPYwpQYt,57,0.0,1.0,0.0,0.0
+57,@Quantstamp,Fri Aug 24 03:12:35 +0000 2018,Wow! Our Forward Deployed Engineer Yohei out our Tokyo office is #22 in @capturetheether! Go Go Go!!… https://t.co/fY4xEkz9NE,58,0.7156,0.774,0.0,0.226
+58,@Quantstamp,Thu Aug 23 23:47:04 +0000 2018,@DieterDhondt83 Friday’s noon pacific,59,0.0,1.0,0.0,0.0
+59,@Quantstamp,Thu Aug 23 23:46:22 +0000 2018,Don’t miss our very own VP of Strategy @OlgaVMack speaking at @TEDxSFbay in October! #SmartContracts #Ethereum… https://t.co/vObJdNmUrz,60,-0.2244,0.894,0.106,0.0
+60,@Quantstamp,Thu Aug 23 18:34:02 +0000 2018,"It was a pleasure to see so many new faces last Friday at our Telegram AMA.
+
+If you missed it, come around to our T… https://t.co/kKhkX8Eg33",61,0.3612,0.796,0.076,0.128
+61,@Quantstamp,Thu Aug 23 15:45:11 +0000 2018,Join us TODAY at the @THEMUSEUM. Check out the speakers list! #Kitchener #Waterloo Get you tickets here… https://t.co/XSqdh5kqcP,62,0.3595,0.872,0.0,0.128
+62,@Quantstamp,Thu Aug 23 00:04:21 +0000 2018,Join us tomorrow at the @THEMUSEUM. Check out the speakers list! #Kitchener #Waterloo Get you tickets here… https://t.co/6BU7n2oLTn,63,0.3595,0.872,0.0,0.128
+63,@Quantstamp,Wed Aug 22 23:07:02 +0000 2018,"We're helping to protect the blockchain. 
+Coin Telegraph Japan wrote us up - and created this cool graphic of CEO R… https://t.co/qe8OHs2P29",64,0.8139,0.643,0.0,0.357
+64,@Quantstamp,Wed Aug 22 20:34:39 +0000 2018,"RT @robbiebent1: 1) Collaboration is @ethereum's major strength.  In four months, the ETHSecurity community has grown to 138 members with a…",65,0.4939,0.862,0.0,0.138
+65,@Quantstamp,Tue Aug 21 05:32:36 +0000 2018,"RT @nitinsharma1: @ethereum @dfinity @ethstatus @Quantstamp @KeneticCapital @mechanism_labs @MakerDAO @DharmaProtocol @Balance_io 
+
+@sumshe…",66,0.0,1.0,0.0,0.0
+66,@Quantstamp,Tue Aug 21 05:32:14 +0000 2018,"RT @nitinsharma1: Amazing interactions at @ethindiaco last weekend, and enjoyed being a judge. Asia's largest Ethereum hackathon in India i…",67,0.7964,0.705,0.0,0.295
+67,@Quantstamp,Fri Aug 17 18:08:07 +0000 2018,"In case you missed it, check out our rolling visual guide of where we've been and where we're aiming to go.… https://t.co/H2YtDJvRu5",68,-0.296,0.905,0.095,0.0
+68,@Quantstamp,Fri Aug 17 15:45:02 +0000 2018,Join our CEO and Co-Founder Richard Ma today at noon 12pm PST for our weekly Telegram AMA. Last week we continued d… https://t.co/rIw2g28WDI,69,0.296,0.909,0.0,0.091
+69,@Quantstamp,Thu Aug 16 23:12:23 +0000 2018,RT @ethereumecf: #ETHIndia hacks recap! We are honored to support up-and-coming builders. Would you like us to see if we can help your proj…,70,0.8999,0.625,0.0,0.375
+70,@Quantstamp,Thu Aug 16 23:07:02 +0000 2018,Keep up to date on Medium. Check out our last Community Update here: https://t.co/km8PjcUR3C (Aug 3rd 2018) https://t.co/IlEI6V8IGP,71,0.0,1.0,0.0,0.0
+71,@Quantstamp,Thu Aug 16 15:45:04 +0000 2018,Looking to have more technical discussions? Ask our amazing admins in our Telegram how!,72,0.6239,0.761,0.0,0.239
+72,@Quantstamp,Thu Aug 16 02:59:00 +0000 2018,Join our CEO and Co-Founder Richard Ma this Friday at noon 12pm PST for our weekly Telegram AMA. Last week we conti… https://t.co/fMUCQwsF80,73,0.296,0.909,0.0,0.091
+73,@Quantstamp,Wed Aug 15 23:07:02 +0000 2018,Join us at the @THEMUSEUM August 23rd. We helping host a night on blockchains and Cryptocurrencies where you can le… https://t.co/8X940CpsMX,74,0.5267,0.804,0.0,0.196
+74,@Quantstamp,Wed Aug 15 19:29:52 +0000 2018,"🙌 We take pride in our development progress and execution. 
+Here's a rolling visual guide to where we've been and w… https://t.co/ymAWiBGgvL",75,0.6369,0.776,0.0,0.224
+75,@Quantstamp,Fri Aug 10 15:45:06 +0000 2018,Jan speaking yesterday at @Stanford about computer aided smart contract verification https://t.co/tAEqKSIYLw,76,0.4019,0.803,0.0,0.197
+76,@Quantstamp,Fri Aug 10 13:33:56 +0000 2018,RT @Modular_Inc: We are excited to be a part of the Smart Contract Security Alliance with @Quantstamp! We can't wait to work with them and…,77,0.7777,0.729,0.0,0.271
+77,@Quantstamp,Thu Aug 09 23:07:04 +0000 2018,Keep up to date on Medium. Check out our Aug 3rd Update here: https://t.co/km8PjcUR3C https://t.co/gC9UCX0URF,78,0.0,1.0,0.0,0.0
+78,@Quantstamp,Thu Aug 09 22:03:01 +0000 2018,"RT @AragonProject: The @AragonProject and @Givethio are proud to announce the launch of Aragon DAC, a Decentralized Altruistic Community on…",79,0.4767,0.853,0.0,0.147
+79,@Quantstamp,Thu Aug 09 18:34:02 +0000 2018,Join us at the @THEMUSEUM August 23rd. We helping host a night on blockchains and Cryptocurrencies where you can le… https://t.co/W9VlXuwUe6,80,0.5267,0.804,0.0,0.196
+80,@Quantstamp,Thu Aug 09 04:38:06 +0000 2018,Our very own Krishna Sriram will be judging at #ETHIndia tomorrow https://t.co/vuV3P317kF,81,0.0,1.0,0.0,0.0
+81,@Quantstamp,Thu Aug 09 02:59:01 +0000 2018,Join Richard Ma for our weekly AMA in our Telegram chat Fridays at 12 PST,82,0.296,0.864,0.0,0.136
+82,@Quantstamp,Thu Aug 09 00:26:28 +0000 2018,"Our infrastructure engineer, Lee Azzarello (@leeazzarello), is attending Defcon26, come say hi!",83,0.0,1.0,0.0,0.0
+83,@Quantstamp,Wed Aug 08 20:51:29 +0000 2018,Looking forward to continued collaboration with the @ETHSecurity Community. Big thank you to all of their enormous efforts.,84,0.3612,0.872,0.0,0.128
+84,@Quantstamp,Wed Aug 08 18:34:01 +0000 2018,"Our writer Julian Martinez [ @jmartinez_43 ] recently published ""Understanding Proof of Stake: The Nothing at Stake… https://t.co/hYJttG7OOF",85,0.0,1.0,0.0,0.0
+85,@Quantstamp,Wed Aug 08 14:53:17 +0000 2018,"RT @91krish: Extremely excited to attend and support 🇮🇳@ethindiaco🇮🇳on behalf of @Quantstamp. 
+
+The scale and opportunity for decentralized…",86,0.8016,0.647,0.0,0.353
+86,@Quantstamp,Wed Aug 08 14:07:04 +0000 2018,"By forming the Smart Contract Security Alliance with @Modular_Inc, we aim to encourage the growth of a healthy bloc… https://t.co/XdkRzA8rfE",87,0.9136,0.505,0.0,0.495
+87,@Quantstamp,Tue Aug 07 23:07:00 +0000 2018,Join our CEO and Co-Founder Richard Ma this Friday at noon 12pm PST for our weekly Telegram AMA. Last week we relea… https://t.co/8xZxaS9QGo,88,0.296,0.909,0.0,0.091
+88,@Quantstamp,Tue Aug 07 18:34:03 +0000 2018,Join us at the @THEMUSEUM August 23rd. We helping host a night on blockchains and Cryptocurrencies where you can le… https://t.co/ViX4ChpFJS,89,0.5267,0.804,0.0,0.196
+89,@Quantstamp,Tue Aug 07 18:29:10 +0000 2018,"RT @ycombinator: Meet 15 companies from the YC Summer 2018 batch:
+https://t.co/paB8e7PLy9",90,0.0,1.0,0.0,0.0
+90,@Quantstamp,Tue Aug 07 16:25:25 +0000 2018,@originprotocol  https://t.co/7FV5wyCGdZ,91,0.0,1.0,0.0,0.0
+91,@Quantstamp,Tue Aug 07 15:45:09 +0000 2018,Big congratulations to our friends @Originprotocol for their amazing recent addition Franck Chastagnol to their fan… https://t.co/YkMIKaZJcq,92,0.8957,0.565,0.0,0.435
+92,@Quantstamp,Sun Aug 05 20:16:06 +0000 2018,"RT @enblocibc: Besides deep diving into blockchain hacks and helping you tighten up the loose screws on your smart contracts, @Quantstamp i…",93,0.2263,0.618,0.156,0.225
+93,@Quantstamp,Sun Aug 05 20:15:22 +0000 2018,"RT @GoaITDept: #IBCIndia2018 
+Finding out if 100% Secure Application of Blockchain is a Utopian Concept with 
+@henryhilee, @helloiconworld…",94,0.34,0.87,0.0,0.13
+94,@Quantstamp,Sun Aug 05 20:13:12 +0000 2018,"RT @jmartinez_43: In my latest post, I discuss how losing a twitter beef against @francispouliot_ led me to question what decentralization…",95,-0.3818,0.874,0.126,0.0
+95,@Quantstamp,Fri Aug 03 23:24:32 +0000 2018,"Getting ready for betanet, Korea Blockchain Week, and more. Here's what's happening at Quantstamp https://t.co/km8PjcUR3C Aug 3 2018",96,0.3612,0.865,0.0,0.135
+96,@Quantstamp,Fri Aug 03 17:23:27 +0000 2018,Join Richard Ma for our weekly AMA in our Telegram chat Fridays at 12 PST,97,0.296,0.864,0.0,0.136
+97,@Quantstamp,Sat Jul 21 04:09:41 +0000 2018,RT @moniquejmorrow: Richard Ma CEO Quantstamp in Seoul. ⁦@Quantstamp⁩ ⁦@glosfer⁩ ⁦@binance⁩ https://t.co/uAnaQNAq7c,98,0.0,1.0,0.0,0.0
+98,@Quantstamp,Mon Jul 16 21:10:38 +0000 2018,RT @JaredHarrill: Wondering why your inbox doesn't have the latest @Quantstamp community newsletter update in it? Try signing up to our new…,99,0.0,1.0,0.0,0.0
+99,@Quantstamp,Mon Jul 16 19:08:56 +0000 2018,"Here’s the latest at Quantstamp! We’re welcoming new hires, pushing the protocol forward, and participating in seve… https://t.co/EUQaWapU4f",100,0.4926,0.842,0.0,0.158
+100,@BTC,Tue Oct 09 08:02:41 +0000 2018,RT @joaodealmeida94: The narrative that says bitcoin wont have enough throughput for everyone to open/close channels is coming to an end th…,1,0.0,1.0,0.0,0.0
+101,@BTC,Tue Oct 09 07:52:01 +0000 2018,You have a choice of which bank to trust to hold your money already. #Bitcoin allows you to verify instead of blind… https://t.co/vh9g2IyNFE,2,0.5106,0.864,0.0,0.136
+102,@BTC,Tue Oct 09 07:16:55 +0000 2018,RT @souljaboy: Bitcoin,3,0.0,1.0,0.0,0.0
+103,@BTC,Tue Oct 09 07:12:16 +0000 2018,RT @AaronvanW: Bitcoin Core 0.17.0 Is Released: Here’s What’s New https://t.co/SSF2qW0Ep3,4,0.0,1.0,0.0,0.0
+104,@BTC,Tue Oct 09 07:12:00 +0000 2018,RT @adam3us: I guess the bitcoiner population is increasing with Malta's business friendly crypto regulation :) https://t.co/wp3inVqPg7,5,0.7351,0.693,0.0,0.307
+105,@BTC,Tue Oct 09 07:11:52 +0000 2018,RT @bitcoincoreorg: Bitcoin Core 0.17.0 Released https://t.co/ciwCREngon,6,0.0,1.0,0.0,0.0
+106,@BTC,Thu Sep 13 08:49:51 +0000 2018,"RIP #Ethereum. “World computer,” we barely knew you.",7,0.0,1.0,0.0,0.0
+107,@BTC,Thu Sep 13 05:58:31 +0000 2018,RT @bitcoinister: The Unflippening: #Bitcoin’s Resurgent Dominance Showing Who’s King https://t.co/YYbK72afKA,8,0.2023,0.847,0.0,0.153
+108,@BTC,Thu Sep 13 05:27:33 +0000 2018,"RT @LeahWald: QA to Roger Ver:
+Q: #BCH down 50% to #BTC in past 3 months. Why would an institutional investor pick BCash over BTC when it's…",9,0.0,1.0,0.0,0.0
+109,@BTC,Tue Sep 11 17:12:54 +0000 2018,Bcash is fiat. Money by decree and created out of thin air. https://t.co/JDgBHJOYmZ,10,0.25,0.857,0.0,0.143
+110,@BTC,Tue Sep 11 07:54:19 +0000 2018,There’s nothing to debate. There is #Bitcoin and several copies pretending to be related to Bitcoin. None have any… https://t.co/lBJMh3v7fx,11,0.1027,0.931,0.0,0.069
+111,@BTC,Tue Sep 11 05:05:53 +0000 2018,"RT @alistairmilne: Things Bcash'ers say:
 - listen to me I'm cleverer than you
 - listen to me, I'm richer than you
-- listen to me, I'm loude…",6,0.7506,0.775,0.0,0.225
-6,@BTC,Sun Sep 09 08:59:22 +0000 2018,"If you hear the words “Satoshi’s vision”, “what Satoshi wanted”, or “according to the whitepaper”, someone is trying to scam you.",7,-0.5719,0.844,0.156,0.0
-7,@BTC,Sat Sep 08 21:05:51 +0000 2018,RT @danheld: The British pound is the oldest fiat currency in existence at 317 years. The pound was originally defined as 12 oz. of silver.…,8,0.0,1.0,0.0,0.0
-8,@BTC,Sat Sep 08 21:03:38 +0000 2018,"#Bitcoin, not #blockchain.",9,0.0,1.0,0.0,0.0
-9,@BTC,Thu Sep 06 09:08:48 +0000 2018,"RT @BtcpayServer: We will probably stop supporting @ShapeShift_io . 
+- listen to me, I'm loude…",12,0.7506,0.775,0.0,0.225
+112,@BTC,Sun Sep 09 08:59:22 +0000 2018,"If you hear the words “Satoshi’s vision”, “what Satoshi wanted”, or “according to the whitepaper”, someone is trying to scam you.",13,-0.5719,0.844,0.156,0.0
+113,@BTC,Sat Sep 08 21:05:51 +0000 2018,RT @danheld: The British pound is the oldest fiat currency in existence at 317 years. The pound was originally defined as 12 oz. of silver.…,14,0.0,1.0,0.0,0.0
+114,@BTC,Sat Sep 08 21:03:38 +0000 2018,"#Bitcoin, not #blockchain.",15,0.0,1.0,0.0,0.0
+115,@BTC,Thu Sep 06 09:08:48 +0000 2018,"RT @BtcpayServer: We will probably stop supporting @ShapeShift_io . 
 
-The shapeshift button does not work anymore, and they will probably r…",10,0.1779,0.779,0.095,0.126
-10,@BTC,Wed Sep 05 06:29:30 +0000 2018,RT @BitcoinMagazine: Check out our latest cover story by @AaronvanW - On overview of some of the tech that is making #bitcoin more private.…,11,0.0,1.0,0.0,0.0
-11,@BTC,Sat Aug 25 12:50:19 +0000 2018,Fake Bitcoin is down 90%. Is anyone really surprised? https://t.co/snbFLUaKH7,12,-0.228,0.602,0.233,0.165
-12,@BTC,Sun Aug 19 02:26:00 +0000 2018,"RT @Codiox: Yesterday 1 bitcoin was worth 44 billion bolivars, now it's at 59 billion.
+The shapeshift button does not work anymore, and they will probably r…",16,0.1779,0.779,0.095,0.126
+116,@BTC,Wed Sep 05 06:29:30 +0000 2018,RT @BitcoinMagazine: Check out our latest cover story by @AaronvanW - On overview of some of the tech that is making #bitcoin more private.…,17,0.0,1.0,0.0,0.0
+117,@BTC,Sat Aug 25 12:50:19 +0000 2018,Fake Bitcoin is down 90%. Is anyone really surprised? https://t.co/snbFLUaKH7,18,-0.228,0.602,0.233,0.165
+118,@BTC,Sun Aug 19 02:26:00 +0000 2018,"RT @Codiox: Yesterday 1 bitcoin was worth 44 billion bolivars, now it's at 59 billion.
 
-$1 = 6.7 million bolivars yesterday, now it's at 9.…",13,0.2263,0.921,0.0,0.079
-13,@BTC,Mon Aug 13 10:28:41 +0000 2018,Bitmain IPO? ROFL https://t.co/NVg9i4EeKt,14,0.6633,0.404,0.0,0.596
-14,@BTC,Fri Aug 10 22:41:49 +0000 2018,RT @verretor: Segwit usage ATH: 40.7% (7 day rolling average) https://t.co/d71kHQis9r,15,0.0,1.0,0.0,0.0
-15,@BTC,Fri Aug 10 05:16:34 +0000 2018,"RT @NickSzabo4: I can't decide whether this tweet is cleverly tendentious or just plain stupid. In the same category as ""Poll: when did you…",16,-0.0258,0.758,0.123,0.119
-16,@BTC,Thu Aug 09 18:45:08 +0000 2018,You don’t have to buy one whole $BTC. It’s possible to own a fraction of a #Bitcoin like @elonmusk. https://t.co/p4DkQH2Hvm,17,0.3612,0.872,0.0,0.128
-17,@BTC,Thu Aug 09 06:07:02 +0000 2018,"RT @lopp: You can buy bitcoin
+$1 = 6.7 million bolivars yesterday, now it's at 9.…",19,0.2263,0.921,0.0,0.079
+119,@BTC,Mon Aug 13 10:28:41 +0000 2018,Bitmain IPO? ROFL https://t.co/NVg9i4EeKt,20,0.6633,0.404,0.0,0.596
+120,@BTC,Fri Aug 10 22:41:49 +0000 2018,RT @verretor: Segwit usage ATH: 40.7% (7 day rolling average) https://t.co/d71kHQis9r,21,0.0,1.0,0.0,0.0
+121,@BTC,Fri Aug 10 05:16:34 +0000 2018,"RT @NickSzabo4: I can't decide whether this tweet is cleverly tendentious or just plain stupid. In the same category as ""Poll: when did you…",22,-0.0258,0.758,0.123,0.119
+122,@BTC,Thu Aug 09 18:45:08 +0000 2018,You don’t have to buy one whole $BTC. It’s possible to own a fraction of a #Bitcoin like @elonmusk. https://t.co/p4DkQH2Hvm,23,0.3612,0.872,0.0,0.128
+123,@BTC,Thu Aug 09 06:07:02 +0000 2018,"RT @lopp: You can buy bitcoin
 but
-you can't buy Bitcoin.",18,0.0,1.0,0.0,0.0
-18,@BTC,Thu Aug 09 05:56:44 +0000 2018,HODL me.,19,0.0,1.0,0.0,0.0
-19,@BTC,Tue Aug 07 04:33:59 +0000 2018,RT @adam3us: @notgrubles btc,20,0.0,1.0,0.0,0.0
-20,@BTC,Thu Aug 02 05:52:02 +0000 2018,"RT @Bitstamp: DID YOU KNOW: A lot of people were surprised by Bitcoin’s 1,400% surge in 2017. But it was far from the currency’s top perfor…",21,0.4019,0.861,0.0,0.139
-21,@BTC,Thu Aug 02 05:50:59 +0000 2018,RT @lopp: Today Bitcoiners celebrate their independence from miner governance via UASF while Bcashers celebrate their independence from Bit…,22,0.8126,0.697,0.0,0.303
-22,@BTC,Wed Aug 01 09:48:49 +0000 2018,RT @Excellion: Never Forget. #UASF #BIP148 #SegWit ⚡️ https://t.co/Z4yBPGY1l3,23,-0.2263,0.808,0.192,0.0
-23,@BTC,Tue Jul 31 09:05:03 +0000 2018,https://t.co/3ADLF3AeDw,24,0.0,1.0,0.0,0.0
-24,@BTC,Tue Jul 31 09:01:20 +0000 2018,Dis-adoption. Sadly. https://t.co/hWPv6Gnnd5,25,-0.4215,0.417,0.583,0.0
-25,@BTC,Sun Jul 29 17:52:42 +0000 2018,RT @bitcoincoreorg: Bitcoin Core 0.16.2 Released https://t.co/EfMhZ7GINx,26,0.0,1.0,0.0,0.0
-26,@BTC,Sat Jul 28 21:09:40 +0000 2018,"Those saying that #Lightning can’t possibly work because routing isn’t solved, don’t seem to realize they can only… https://t.co/1YHuK1KFQG",27,0.2732,0.896,0.0,0.104
-27,@BTC,Sat Jul 28 17:21:07 +0000 2018,RT @lopp: Bitcoin doesn't need institutional investors. Institutional investors need Bitcoin.,28,0.0,1.0,0.0,0.0
-28,@BTC,Fri Jul 27 22:57:16 +0000 2018,Bitcoin is a protocol.,29,0.0,1.0,0.0,0.0
-29,@BTC,Fri Jul 27 20:17:27 +0000 2018,"RT @AaronvanW: Was Hal Finney the first Bitcoin maximalist?
+you can't buy Bitcoin.",24,0.0,1.0,0.0,0.0
+124,@BTC,Thu Aug 09 05:56:44 +0000 2018,HODL me.,25,0.0,1.0,0.0,0.0
+125,@BTC,Tue Aug 07 04:33:59 +0000 2018,RT @adam3us: @notgrubles btc,26,0.0,1.0,0.0,0.0
+126,@BTC,Thu Aug 02 05:52:02 +0000 2018,"RT @Bitstamp: DID YOU KNOW: A lot of people were surprised by Bitcoin’s 1,400% surge in 2017. But it was far from the currency’s top perfor…",27,0.4019,0.861,0.0,0.139
+127,@BTC,Thu Aug 02 05:50:59 +0000 2018,RT @lopp: Today Bitcoiners celebrate their independence from miner governance via UASF while Bcashers celebrate their independence from Bit…,28,0.8126,0.697,0.0,0.303
+128,@BTC,Wed Aug 01 09:48:49 +0000 2018,RT @Excellion: Never Forget. #UASF #BIP148 #SegWit ⚡️ https://t.co/Z4yBPGY1l3,29,-0.2263,0.808,0.192,0.0
+129,@BTC,Tue Jul 31 09:05:03 +0000 2018,https://t.co/3ADLF3AeDw,30,0.0,1.0,0.0,0.0
+130,@BTC,Tue Jul 31 09:01:20 +0000 2018,Dis-adoption. Sadly. https://t.co/hWPv6Gnnd5,31,-0.4215,0.417,0.583,0.0
+131,@BTC,Sun Jul 29 17:52:42 +0000 2018,RT @bitcoincoreorg: Bitcoin Core 0.16.2 Released https://t.co/EfMhZ7GINx,32,0.0,1.0,0.0,0.0
+132,@BTC,Sat Jul 28 21:09:40 +0000 2018,"Those saying that #Lightning can’t possibly work because routing isn’t solved, don’t seem to realize they can only… https://t.co/1YHuK1KFQG",33,0.2732,0.896,0.0,0.104
+133,@BTC,Sat Jul 28 17:21:07 +0000 2018,RT @lopp: Bitcoin doesn't need institutional investors. Institutional investors need Bitcoin.,34,0.0,1.0,0.0,0.0
+134,@BTC,Fri Jul 27 22:57:16 +0000 2018,Bitcoin is a protocol.,35,0.0,1.0,0.0,0.0
+135,@BTC,Fri Jul 27 20:17:27 +0000 2018,"RT @AaronvanW: Was Hal Finney the first Bitcoin maximalist?
 
-The ""flippening"" cheerleaders and ""next Bitcoin"" altcoin peddlers still seem t…",30,0.296,0.896,0.0,0.104
-30,@BTC,Thu Jul 26 22:19:46 +0000 2018,RT @BashCo_: Bitcoin does not have a website.,31,0.0,1.0,0.0,0.0
-31,@BTC,Mon Jul 23 23:03:57 +0000 2018,“Better to remain silent and be thought a fool than to speak out and remove all doubt.” https://t.co/8mLkvz5fgC,32,-0.4404,0.847,0.153,0.0
-32,@BTC,Mon Jul 23 00:51:27 +0000 2018,"RT @SFBitcoinDevs: Video from @pwuille's talk on Taproot, Schnorr and SIGHASH_NOINPUT is now available https://t.co/db1wUfhtcm",33,0.0,1.0,0.0,0.0
-33,@BTC,Sun Jul 22 23:50:01 +0000 2018,"RT @LNstats: #LightningNetwork
+The ""flippening"" cheerleaders and ""next Bitcoin"" altcoin peddlers still seem t…",36,0.296,0.896,0.0,0.104
+136,@BTC,Thu Jul 26 22:19:46 +0000 2018,RT @BashCo_: Bitcoin does not have a website.,37,0.0,1.0,0.0,0.0
+137,@BTC,Mon Jul 23 23:03:57 +0000 2018,“Better to remain silent and be thought a fool than to speak out and remove all doubt.” https://t.co/8mLkvz5fgC,38,-0.4404,0.847,0.153,0.0
+138,@BTC,Mon Jul 23 00:51:27 +0000 2018,"RT @SFBitcoinDevs: Video from @pwuille's talk on Taproot, Schnorr and SIGHASH_NOINPUT is now available https://t.co/db1wUfhtcm",39,0.0,1.0,0.0,0.0
+139,@BTC,Sun Jul 22 23:50:01 +0000 2018,"RT @LNstats: #LightningNetwork
 
 mainnet has reached 100 BTC capacity!
 (+288% in a month!)
 
 https://t.co/sJohipLfV2      
 
-#Lightning #LN #b…",34,0.2462,0.883,0.0,0.117
-34,@BTC,Sun Jul 22 23:49:19 +0000 2018,RT @YodaBloke: Here's Vitalik saying UHM for 18 seconds https://t.co/YRqgLOwY1w,35,0.0,1.0,0.0,0.0
-35,@BTC,Sun Jul 22 23:48:56 +0000 2018,RT @morcosa: @ErikVoorhees What do you say Erik?  Fair win?  I’ll accept a donation to Coin Center or MIT DCI as payment.,36,0.8426,0.665,0.0,0.335
-36,@BTC,Thu Jul 19 12:31:42 +0000 2018,"RT @TheCryptoDog: ""The power of the US dollar gets diminished with cryptocurrency"" https://t.co/Z76wqCBXyu",37,0.0,1.0,0.0,0.0
-37,@BTC,Thu Jul 19 11:44:04 +0000 2018,RT @adam3us: Another indicator of pickup in HNWI and institutional interest in play. https://t.co/zM5aZ6WDde,38,0.6597,0.69,0.0,0.31
-38,@BTC,Mon Jul 16 20:33:02 +0000 2018,RT @Xentagz: Why #Bitcoin is different than #Altcoins. By @saifedean (retweet) https://t.co/QnIqiDxy2O,39,0.0,1.0,0.0,0.0
-39,@BTC,Mon Jul 16 18:37:07 +0000 2018,RT @coindesk: Billionaire investor Steven Cohen has reportedly entered the #crypto space. https://t.co/75jnTKWQHg,40,0.0,1.0,0.0,0.0
-40,@BTC,Mon Jul 16 18:36:08 +0000 2018,RT @NeerajKA: Craig Wright revealed to be an elaborate multi-year Sacha Baron Cohen undercover character,41,0.0,1.0,0.0,0.0
-41,@BTC,Mon Jul 16 07:53:36 +0000 2018,RT @Bombeto_Gin: @btc  https://t.co/ZPdODmJCNi,42,0.0,1.0,0.0,0.0
-42,@BTC,Mon Jul 16 07:08:58 +0000 2018,RT @verretor: Still no one using BCash. https://t.co/aXbTL8lLqd,43,-0.296,0.761,0.239,0.0
-43,@BTC,Mon Jul 16 07:04:12 +0000 2018,"There is no development happening on #Bcash. Their one developer broke the Control, C and V keys on the keyboard. T… https://t.co/DomNC3iOAH",44,-0.6124,0.783,0.217,0.0
-44,@BTC,Mon Jul 16 07:01:07 +0000 2018,"RT @spiroseliot: Dogecoin vs Bcash
+#Lightning #LN #b…",40,0.2462,0.883,0.0,0.117
+140,@BTC,Sun Jul 22 23:49:19 +0000 2018,RT @YodaBloke: Here's Vitalik saying UHM for 18 seconds https://t.co/YRqgLOwY1w,41,0.0,1.0,0.0,0.0
+141,@BTC,Sun Jul 22 23:48:56 +0000 2018,RT @morcosa: @ErikVoorhees What do you say Erik?  Fair win?  I’ll accept a donation to Coin Center or MIT DCI as payment.,42,0.8426,0.665,0.0,0.335
+142,@BTC,Thu Jul 19 12:31:42 +0000 2018,"RT @TheCryptoDog: ""The power of the US dollar gets diminished with cryptocurrency"" https://t.co/Z76wqCBXyu",43,0.0,1.0,0.0,0.0
+143,@BTC,Thu Jul 19 11:44:04 +0000 2018,RT @adam3us: Another indicator of pickup in HNWI and institutional interest in play. https://t.co/zM5aZ6WDde,44,0.6597,0.69,0.0,0.31
+144,@BTC,Mon Jul 16 20:33:02 +0000 2018,RT @Xentagz: Why #Bitcoin is different than #Altcoins. By @saifedean (retweet) https://t.co/QnIqiDxy2O,45,0.0,1.0,0.0,0.0
+145,@BTC,Mon Jul 16 18:37:07 +0000 2018,RT @coindesk: Billionaire investor Steven Cohen has reportedly entered the #crypto space. https://t.co/75jnTKWQHg,46,0.0,1.0,0.0,0.0
+146,@BTC,Mon Jul 16 18:36:08 +0000 2018,RT @NeerajKA: Craig Wright revealed to be an elaborate multi-year Sacha Baron Cohen undercover character,47,0.0,1.0,0.0,0.0
+147,@BTC,Mon Jul 16 07:53:36 +0000 2018,RT @Bombeto_Gin: @btc  https://t.co/ZPdODmJCNi,48,0.0,1.0,0.0,0.0
+148,@BTC,Mon Jul 16 07:08:58 +0000 2018,RT @verretor: Still no one using BCash. https://t.co/aXbTL8lLqd,49,-0.296,0.761,0.239,0.0
+149,@BTC,Mon Jul 16 07:04:12 +0000 2018,"There is no development happening on #Bcash. Their one developer broke the Control, C and V keys on the keyboard. T… https://t.co/DomNC3iOAH",50,-0.6124,0.783,0.217,0.0
+150,@BTC,Mon Jul 16 07:01:07 +0000 2018,"RT @spiroseliot: Dogecoin vs Bcash
 BCH transactions 24hr 16,595
 DOGE transactions 24hr 22,196
 
 BCH average block time 10m 59s
-DOGE average…",45,-0.4404,0.873,0.127,0.0
-45,@BTC,Sat Jul 14 15:25:51 +0000 2018,"RT @coindesk: Despite bitcoin's recent price rout, Square’s mobile payment app, Square Cash, is still growing nearly three times faster tha…",46,0.1779,0.922,0.0,0.078
-46,@BTC,Sat Jul 14 15:23:58 +0000 2018,"RT @peterktodd: Awesome line from @CheapAir's recent email update on their search for a new BTC payment processor.
+DOGE average…",51,-0.4404,0.873,0.127,0.0
+151,@BTC,Sat Jul 14 15:25:51 +0000 2018,"RT @coindesk: Despite bitcoin's recent price rout, Square’s mobile payment app, Square Cash, is still growing nearly three times faster tha…",52,0.1779,0.922,0.0,0.078
+152,@BTC,Sat Jul 14 15:23:58 +0000 2018,"RT @peterktodd: Awesome line from @CheapAir's recent email update on their search for a new BTC payment processor.
 
-Looks like they're goin…",47,0.765,0.742,0.0,0.258
-47,@BTC,Sat Jul 14 03:55:59 +0000 2018,RT @bitcoinister: Satoshi didn't invent #Bitcoin because PayPal's fee were too high,48,0.0,1.0,0.0,0.0
-48,@BTC,Sat Jul 14 03:55:40 +0000 2018,"RT @AaronvanW: The Genesis Files: With Bit Gold, Nick Szabo Was Inches Away From Inventing Bitcoin https://t.co/7GWPbqE90Q",49,0.0,1.0,0.0,0.0
-49,@BTC,Sat Jul 14 03:54:40 +0000 2018,"RT @realLudvigArt: Basically, ~80% of the #BCash network is running out of 8 hosting/cloud providers with ~40% of the entire network being…",50,0.0,1.0,0.0,0.0
-50,@BTC,Fri Jul 13 17:45:12 +0000 2018,"RT @jimmysong: Bitcoin doesn't care if you have a PhD in economics, a tenured faculty position, have billions under management or started 5…",51,-0.3875,0.884,0.116,0.0
-51,@BTC,Fri Jul 13 05:49:37 +0000 2018,RT @DanDarkPill: This is the Big Blocker Vision: big corporations should run the nodes in a data-center &amp; represent users (customers/plebs)…,52,0.25,0.905,0.0,0.095
-52,@BTC,Thu Jul 12 17:01:26 +0000 2018,Bullish on $BTC. https://t.co/vu9ytxNSY4,53,0.0,1.0,0.0,0.0
-53,@BTC,Wed Jul 11 09:17:47 +0000 2018,"RT @BitMEXResearch: Bitcoin Blocksize Data Visualization
+Looks like they're goin…",53,0.765,0.742,0.0,0.258
+153,@BTC,Sat Jul 14 03:55:59 +0000 2018,RT @bitcoinister: Satoshi didn't invent #Bitcoin because PayPal's fee were too high,54,0.0,1.0,0.0,0.0
+154,@BTC,Sat Jul 14 03:55:40 +0000 2018,"RT @AaronvanW: The Genesis Files: With Bit Gold, Nick Szabo Was Inches Away From Inventing Bitcoin https://t.co/7GWPbqE90Q",55,0.0,1.0,0.0,0.0
+155,@BTC,Sat Jul 14 03:54:40 +0000 2018,"RT @realLudvigArt: Basically, ~80% of the #BCash network is running out of 8 hosting/cloud providers with ~40% of the entire network being…",56,0.0,1.0,0.0,0.0
+156,@BTC,Fri Jul 13 17:45:12 +0000 2018,"RT @jimmysong: Bitcoin doesn't care if you have a PhD in economics, a tenured faculty position, have billions under management or started 5…",57,-0.3875,0.884,0.116,0.0
+157,@BTC,Fri Jul 13 05:49:37 +0000 2018,RT @DanDarkPill: This is the Big Blocker Vision: big corporations should run the nodes in a data-center &amp; represent users (customers/plebs)…,58,0.25,0.905,0.0,0.095
+158,@BTC,Thu Jul 12 17:01:26 +0000 2018,Bullish on $BTC. https://t.co/vu9ytxNSY4,59,0.0,1.0,0.0,0.0
+159,@BTC,Wed Jul 11 09:17:47 +0000 2018,"RT @BitMEXResearch: Bitcoin Blocksize Data Visualization
 
-After the upgrade to SegWit in August 2017, although in a much slower fashion tha…",54,0.0,1.0,0.0,0.0
-54,@BTC,Wed Jul 11 05:00:43 +0000 2018,Can’t name any at all. https://t.co/dY80f6Vq9h,55,0.0,1.0,0.0,0.0
-55,@BTC,Tue Jul 10 10:08:06 +0000 2018,RT @SFBitcoinDevs: .@pwuille talking about Schnorr signatures @SFBitcoinDevs #BitcoinDevelopment !!! https://t.co/vXIAXxo0KH,56,0.0,1.0,0.0,0.0
-56,@BTC,Tue Jul 10 09:38:31 +0000 2018,RT @verretor: Bitcoin fees have been lower than BCash fees in the last 24 hours. https://t.co/zLPkUUnGxA,57,-0.296,0.872,0.128,0.0
-57,@BTC,Mon Jul 09 10:53:08 +0000 2018,#Bcash is a scam. $BCH,58,-0.5719,0.448,0.552,0.0
-58,@BTC,Mon Jul 09 04:08:26 +0000 2018,"RT @Ragnarly: Protip: Nothing is ""The Next Bitcoin""",59,0.0,1.0,0.0,0.0
-59,@BTC,Sun Jul 08 08:06:08 +0000 2018,"RT @DanDarkPill: BCash false marketing appears predicated on the belief that people are morons and that they will remain morons. 
+After the upgrade to SegWit in August 2017, although in a much slower fashion tha…",60,0.0,1.0,0.0,0.0
+160,@BTC,Wed Jul 11 05:00:43 +0000 2018,Can’t name any at all. https://t.co/dY80f6Vq9h,61,0.0,1.0,0.0,0.0
+161,@BTC,Tue Jul 10 10:08:06 +0000 2018,RT @SFBitcoinDevs: .@pwuille talking about Schnorr signatures @SFBitcoinDevs #BitcoinDevelopment !!! https://t.co/vXIAXxo0KH,62,0.0,1.0,0.0,0.0
+162,@BTC,Tue Jul 10 09:38:31 +0000 2018,RT @verretor: Bitcoin fees have been lower than BCash fees in the last 24 hours. https://t.co/zLPkUUnGxA,63,-0.296,0.872,0.128,0.0
+163,@BTC,Mon Jul 09 10:53:08 +0000 2018,#Bcash is a scam. $BCH,64,-0.5719,0.448,0.552,0.0
+164,@BTC,Mon Jul 09 04:08:26 +0000 2018,"RT @Ragnarly: Protip: Nothing is ""The Next Bitcoin""",65,0.0,1.0,0.0,0.0
+165,@BTC,Sun Jul 08 08:06:08 +0000 2018,"RT @DanDarkPill: BCash false marketing appears predicated on the belief that people are morons and that they will remain morons. 
 
-Bitcoin…",60,-0.5574,0.805,0.195,0.0
-60,@BTC,Sun Jul 08 07:12:27 +0000 2018,"RT @danheld: Why are Schnorr Signatures such a big deal? 
+Bitcoin…",66,-0.5574,0.805,0.195,0.0
+166,@BTC,Sun Jul 08 07:12:27 +0000 2018,"RT @danheld: Why are Schnorr Signatures such a big deal? 
 
-- Reduce the use of storage and bandwidth by ~25% through reduced signature size…",61,0.0,1.0,0.0,0.0
-61,@BTC,Sun Jul 08 07:12:06 +0000 2018,RT @Datavetaren: Fiat money is essentially proof-of-stake where the ones with most stake run the full nodes (banks) and everybody else runs…,62,0.0,1.0,0.0,0.0
-62,@BTC,Sun Jul 08 07:01:11 +0000 2018,RT @AnselLindner: #Bitcoin search results have stopped falling. Bitcoin vs bcash bch shows bcash is stupid. https://t.co/HI0DQuif9b,63,-0.7096,0.67,0.33,0.0
-63,@BTC,Sun Jul 08 02:00:42 +0000 2018,"RT @iamjosephyoung: According to Yonhap, South Korea's leading mainstream media outlet, commercial banks in South Korea own nearly $2 billi…",64,0.0,1.0,0.0,0.0
-64,@BTC,Sat Jul 07 11:26:38 +0000 2018,"RT @lopp: ""Lightning Network wallets don't need to break the mental model held by bitcoin users in order to fulfill their purpose."" - @pate…",65,0.4404,0.884,0.0,0.116
-65,@BTC,Sat Jul 07 11:10:01 +0000 2018,RT @DonnyCrypto: What most non Bitcoiners fail to realize is TCP/IP first began research during the 1960s. By the early 70s there was a pro…,66,-0.5809,0.859,0.141,0.0
-66,@BTC,Sat Jul 07 06:19:29 +0000 2018,RT @stevanlohja: Trigger warning. #Bitcoin #BitcoinCash #EthereumClassic #Ethereum #BTC #ETH #ETC #Cryptocurrency #Blockhain #CryptoNews #C…,67,-0.34,0.854,0.146,0.0
-67,@BTC,Sat Jul 07 06:12:23 +0000 2018,"RT @TheCryptoconomy: 1/
+- Reduce the use of storage and bandwidth by ~25% through reduced signature size…",67,0.0,1.0,0.0,0.0
+167,@BTC,Sun Jul 08 07:12:06 +0000 2018,RT @Datavetaren: Fiat money is essentially proof-of-stake where the ones with most stake run the full nodes (banks) and everybody else runs…,68,0.0,1.0,0.0,0.0
+168,@BTC,Sun Jul 08 07:01:11 +0000 2018,RT @AnselLindner: #Bitcoin search results have stopped falling. Bitcoin vs bcash bch shows bcash is stupid. https://t.co/HI0DQuif9b,69,-0.7096,0.67,0.33,0.0
+169,@BTC,Sun Jul 08 02:00:42 +0000 2018,"RT @iamjosephyoung: According to Yonhap, South Korea's leading mainstream media outlet, commercial banks in South Korea own nearly $2 billi…",70,0.0,1.0,0.0,0.0
+170,@BTC,Sat Jul 07 11:26:38 +0000 2018,"RT @lopp: ""Lightning Network wallets don't need to break the mental model held by bitcoin users in order to fulfill their purpose."" - @pate…",71,0.4404,0.884,0.0,0.116
+171,@BTC,Sat Jul 07 11:10:01 +0000 2018,RT @DonnyCrypto: What most non Bitcoiners fail to realize is TCP/IP first began research during the 1960s. By the early 70s there was a pro…,72,-0.5809,0.859,0.141,0.0
+172,@BTC,Sat Jul 07 06:19:29 +0000 2018,RT @stevanlohja: Trigger warning. #Bitcoin #BitcoinCash #EthereumClassic #Ethereum #BTC #ETH #ETC #Cryptocurrency #Blockhain #CryptoNews #C…,73,-0.34,0.854,0.146,0.0
+173,@BTC,Sat Jul 07 06:12:23 +0000 2018,"RT @TheCryptoconomy: 1/
 All within the last 30 days in #Bitcoin
 
-• All #Lightning implementations hit Beta! @blockstream @lightning @acinq_…",68,0.0,1.0,0.0,0.0
-68,@BTC,Sat Jul 07 06:09:01 +0000 2018,RT @hrdng: The @bitcoincoreorg download page now provides instructions to help you verify your Bitcoin Core download.  https://t.co/msXZHlD…,69,0.4019,0.863,0.0,0.137
-69,@BTC,Sat Jul 07 06:02:09 +0000 2018,"RT @alexbosworth: Schnorr and MuSig:
+• All #Lightning implementations hit Beta! @blockstream @lightning @acinq_…",74,0.0,1.0,0.0,0.0
+174,@BTC,Sat Jul 07 06:09:01 +0000 2018,RT @hrdng: The @bitcoincoreorg download page now provides instructions to help you verify your Bitcoin Core download.  https://t.co/msXZHlD…,75,0.4019,0.863,0.0,0.137
+175,@BTC,Sat Jul 07 06:02:09 +0000 2018,"RT @alexbosworth: Schnorr and MuSig:
 1. Reduces channel close signature byte cost from ~144 bytes to 64 bytes
-2. Hides channel closes by ma…",70,-0.1779,0.931,0.069,0.0
-70,@BTC,Sat Jul 07 02:48:38 +0000 2018,"RT @NickSzabo4: The buzzword ""web3"" suggests the lax, security-poor programming habits of the web. When crypto or smart contracts are progr…",71,0.4019,0.881,0.0,0.119
-71,@BTC,Sat Jul 07 02:39:47 +0000 2018,"Devs continue to make #Bitcoin better, every single day. This is where the real innovation happens. https://t.co/qunRoK1u2w",72,0.6705,0.732,0.0,0.268
-72,@BTC,Thu Jul 05 14:00:53 +0000 2018,"RT @FerrariMassi: All speakers on stage at the close of #BoBtc!
-#thanks @build_on_btc and @KLoaec for an amazing event! The #bitcoin #commu…",73,0.658,0.827,0.0,0.173
-73,@BTC,Thu Jul 05 13:57:42 +0000 2018,"@agsupun The Frisbee was originally invented as a pie dish.
-Bubble wrap was originally invented as a new style of t… https://t.co/SpYdbymzuL",74,0.0,1.0,0.0,0.0
-74,@BTC,Thu Jul 05 13:23:53 +0000 2018,"@agsupun We never said BTC was fungible, we merely pointed out that Bitcoin Cash isn't, and thus isn't cash.",75,0.0,1.0,0.0,0.0
-75,@BTC,Thu Jul 05 13:23:09 +0000 2018,@sashandiggers @agsupun @tipprbot You clearly have no idea what fungibility is.,76,0.128,0.647,0.158,0.194
-76,@BTC,Thu Jul 05 11:41:22 +0000 2018,"@agsupun Cash is fungible, and Bitcoin Cash isn't, so it already fails the first test of cash.",77,-0.4703,0.839,0.161,0.0
-77,@BTC,Thu Jul 05 11:40:03 +0000 2018,@Ahrrggghh @tipprbot Unsubscribe,78,0.0,1.0,0.0,0.0
-78,@BTC,Thu Jul 05 08:51:29 +0000 2018,"@HahaMcHahason Not true.
-https://t.co/9cdD2dUssm",79,0.4215,0.517,0.0,0.483
-79,@BTC,Thu Jul 05 08:46:54 +0000 2018,"@btcfork We were using Bitcoin before SegWit, so we have tried it out.",80,0.0,1.0,0.0,0.0
-80,@BTC,Thu Jul 05 06:10:36 +0000 2018,"With Bitcoin, as with The Highlander, there can be only one.
+2. Hides channel closes by ma…",76,-0.1779,0.931,0.069,0.0
+176,@BTC,Sat Jul 07 02:48:38 +0000 2018,"RT @NickSzabo4: The buzzword ""web3"" suggests the lax, security-poor programming habits of the web. When crypto or smart contracts are progr…",77,0.4019,0.881,0.0,0.119
+177,@BTC,Sat Jul 07 02:39:47 +0000 2018,"Devs continue to make #Bitcoin better, every single day. This is where the real innovation happens. https://t.co/qunRoK1u2w",78,0.6705,0.732,0.0,0.268
+178,@BTC,Thu Jul 05 14:00:53 +0000 2018,"RT @FerrariMassi: All speakers on stage at the close of #BoBtc!
+#thanks @build_on_btc and @KLoaec for an amazing event! The #bitcoin #commu…",79,0.658,0.827,0.0,0.173
+179,@BTC,Thu Jul 05 13:57:42 +0000 2018,"@agsupun The Frisbee was originally invented as a pie dish.
+Bubble wrap was originally invented as a new style of t… https://t.co/SpYdbymzuL",80,0.0,1.0,0.0,0.0
+180,@BTC,Thu Jul 05 13:23:53 +0000 2018,"@agsupun We never said BTC was fungible, we merely pointed out that Bitcoin Cash isn't, and thus isn't cash.",81,0.0,1.0,0.0,0.0
+181,@BTC,Thu Jul 05 13:23:09 +0000 2018,@sashandiggers @agsupun @tipprbot You clearly have no idea what fungibility is.,82,0.128,0.647,0.158,0.194
+182,@BTC,Thu Jul 05 11:41:22 +0000 2018,"@agsupun Cash is fungible, and Bitcoin Cash isn't, so it already fails the first test of cash.",83,-0.4703,0.839,0.161,0.0
+183,@BTC,Thu Jul 05 11:40:03 +0000 2018,@Ahrrggghh @tipprbot Unsubscribe,84,0.0,1.0,0.0,0.0
+184,@BTC,Thu Jul 05 08:51:29 +0000 2018,"@HahaMcHahason Not true.
+https://t.co/9cdD2dUssm",85,0.4215,0.517,0.0,0.483
+185,@BTC,Thu Jul 05 08:46:54 +0000 2018,"@btcfork We were using Bitcoin before SegWit, so we have tried it out.",86,0.0,1.0,0.0,0.0
+186,@BTC,Thu Jul 05 06:10:36 +0000 2018,"With Bitcoin, as with The Highlander, there can be only one.
 
-Pro tip: it's not BCH.",81,0.0,1.0,0.0,0.0
-81,@BTC,Tue Jul 03 12:59:12 +0000 2018,RT @ShadesOfCrypto: Bitcoin is the real bitcoin. Always.,82,0.0,1.0,0.0,0.0
-82,@BTC,Mon Jul 02 11:55:50 +0000 2018,“Korea to be cashless by 2020.” #Bitcoin $BTC #Crypto #DigitalCash,83,0.0,1.0,0.0,0.0
-83,@BTC,Mon Jul 02 06:01:55 +0000 2018,Why #bitcoin can never go to zero. https://t.co/IaU6JPLG7A,84,0.0,1.0,0.0,0.0
-84,@BTC,Sun Jul 01 14:14:56 +0000 2018,"There is only one global chain.
+Pro tip: it's not BCH.",87,0.0,1.0,0.0,0.0
+187,@BTC,Tue Jul 03 12:59:12 +0000 2018,RT @ShadesOfCrypto: Bitcoin is the real bitcoin. Always.,88,0.0,1.0,0.0,0.0
+188,@BTC,Mon Jul 02 11:55:50 +0000 2018,“Korea to be cashless by 2020.” #Bitcoin $BTC #Crypto #DigitalCash,89,0.0,1.0,0.0,0.0
+189,@BTC,Mon Jul 02 06:01:55 +0000 2018,Why #bitcoin can never go to zero. https://t.co/IaU6JPLG7A,90,0.0,1.0,0.0,0.0
+190,@BTC,Sun Jul 01 14:14:56 +0000 2018,"There is only one global chain.
 
-Bitcoin or it is nothing.",85,0.0,1.0,0.0,0.0
-85,@BTC,Sat Jun 30 14:51:12 +0000 2018,Old to new market comparison. $BTC https://t.co/9fz5T4CPiK,86,0.0,1.0,0.0,0.0
-86,@BTC,Sat Jun 30 14:44:11 +0000 2018,RT if you believe #Bitcoin will break $20k in 2018. $BTC #crypto,87,0.0,1.0,0.0,0.0
-87,@BTC,Sat Jun 30 12:32:27 +0000 2018,"On average #Bitcoin adds a zero every 2 years...
+Bitcoin or it is nothing.",91,0.0,1.0,0.0,0.0
+191,@BTC,Sat Jun 30 14:51:12 +0000 2018,Old to new market comparison. $BTC https://t.co/9fz5T4CPiK,92,0.0,1.0,0.0,0.0
+192,@BTC,Sat Jun 30 14:44:11 +0000 2018,RT if you believe #Bitcoin will break $20k in 2018. $BTC #crypto,93,0.0,1.0,0.0,0.0
+193,@BTC,Sat Jun 30 12:32:27 +0000 2018,"On average #Bitcoin adds a zero every 2 years...
 
 2009 - $0
 2011 - $10
 2013 - $100
 2015 - $1,000
 2017 - $10,000
-201… https://t.co/BemnVn4rZI",88,0.0,1.0,0.0,0.0
-88,@BTC,Sat Jun 30 02:12:09 +0000 2018,Let the rise begin. #bitcoin $BTC,89,0.0,1.0,0.0,0.0
-89,@BTC,Fri Jun 29 13:43:03 +0000 2018,How #bitcoin works the #blockchain https://t.co/SL8wf9JtOJ,90,0.0,1.0,0.0,0.0
-90,@BTC,Fri Jun 29 02:05:00 +0000 2018,“I’ve seen worse dips in my lifetime.” - Bitcoin,91,-0.4767,0.693,0.307,0.0
-91,@BTC,Thu Jun 28 16:28:40 +0000 2018,Where do you stand with #Bitcoin?,92,0.0,1.0,0.0,0.0
-92,@BTC,Thu Jun 28 14:07:49 +0000 2018,"#Bitcoin was around 9 years ago, and it will still be around for many more years to come. We’re just getting started.",93,0.0,1.0,0.0,0.0
-93,@BTC,Thu Jun 28 14:05:15 +0000 2018,Let the wild ride begin! #bitcoin https://t.co/JQitVjLWO5,94,0.0,1.0,0.0,0.0
-94,@BTC,Wed Jun 27 19:01:08 +0000 2018,#bitcoin #crypto #facebook https://t.co/9XbkfAtSAy,95,0.0,1.0,0.0,0.0
-95,@BTC,Wed Jun 27 12:49:04 +0000 2018,"In case you forgot, bitcoin rose from $7k to $20k in 3 weeks.",96,0.0,1.0,0.0,0.0
-96,@BTC,Wed Jun 27 12:47:23 +0000 2018,#Bitcoin and #Blockchain setting the stage for the next leg up. https://t.co/IWPnrSzlBw,97,0.0,1.0,0.0,0.0
-97,@BTC,Tue Jun 26 13:39:38 +0000 2018,#Bitcoin secrets about to be revealed https://t.co/5F9tzyrFGX,98,0.0,1.0,0.0,0.0
-98,@BTC,Mon Jun 25 15:27:13 +0000 2018,"RT @SatoshisWorId: What is @Tether_to? If you don't know, you should because it's a very good market indicator. $BTC $USDT https://t.co/nnc…",99,0.4927,0.856,0.0,0.144
-99,@BTC,Mon Jun 25 12:54:56 +0000 2018,Summer #bitcoin analysis: $BTC https://t.co/AFcrGdsdzp,100,0.0,1.0,0.0,0.0
-100,@BTC,Sun Jun 24 13:54:20 +0000 2018,3 reasons to be optimistic: #bitcoin https://t.co/iGf2Fjs0Kf,101,0.3182,0.685,0.0,0.315
-101,@BTC,Fri Jun 22 09:58:16 +0000 2018,Tim Draper has his eyes on #Bitcoin https://t.co/H5HnwyCbaq,102,0.0,1.0,0.0,0.0
-102,@BTC,Thu Jun 21 12:32:38 +0000 2018,“It’s very foolish to rule out #bitcoin” https://t.co/D07kgj2WuY,103,-0.3384,0.745,0.255,0.0
-103,@BTC,Thu Jun 21 01:29:24 +0000 2018,RT @lopp: Bitcoin is an adversarial network; by my count there were 68 attempts in the past week to feed an invalid block to my node. There…,104,-0.6597,0.822,0.178,0.0
-104,@BTC,Wed Jun 20 18:55:02 +0000 2018,RT @SatoshisWorId: Amazing news for all of #crypto! https://t.co/ZavTduIW38,105,0.6239,0.662,0.0,0.338
-105,@BTC,Wed Jun 20 18:38:31 +0000 2018,History shows #bitcoin is bullish. https://t.co/cgd6Tu3hPc,106,0.0,1.0,0.0,0.0
-106,@BTC,Wed Jun 20 10:49:01 +0000 2018,The $BTC bottom could be signaling https://t.co/P1OB2HIYDI,107,0.0,1.0,0.0,0.0
-107,@BTC,Tue Jun 19 19:43:54 +0000 2018,The transaction life cycle of #bitcoin https://t.co/8gqobi47M6,108,0.0,1.0,0.0,0.0
-108,@BTC,Tue Jun 19 16:57:38 +0000 2018,Congrats @CashApp! #Bitcoin https://t.co/9bdmgQ8Sft,109,0.5707,0.448,0.0,0.552
-109,@BTC,Mon Jun 18 14:10:55 +0000 2018,"Bitcoin's hashrate just hit another ATH after a 15% increase from two weeks ago. 
+201… https://t.co/BemnVn4rZI",94,0.0,1.0,0.0,0.0
+194,@BTC,Sat Jun 30 02:12:09 +0000 2018,Let the rise begin. #bitcoin $BTC,95,0.0,1.0,0.0,0.0
+195,@BTC,Fri Jun 29 13:43:03 +0000 2018,How #bitcoin works the #blockchain https://t.co/SL8wf9JtOJ,96,0.0,1.0,0.0,0.0
+196,@BTC,Fri Jun 29 02:05:00 +0000 2018,“I’ve seen worse dips in my lifetime.” - Bitcoin,97,-0.4767,0.693,0.307,0.0
+197,@BTC,Thu Jun 28 16:28:40 +0000 2018,Where do you stand with #Bitcoin?,98,0.0,1.0,0.0,0.0
+198,@BTC,Thu Jun 28 14:07:49 +0000 2018,"#Bitcoin was around 9 years ago, and it will still be around for many more years to come. We’re just getting started.",99,0.0,1.0,0.0,0.0
+199,@BTC,Thu Jun 28 14:05:15 +0000 2018,Let the wild ride begin! #bitcoin https://t.co/JQitVjLWO5,100,0.0,1.0,0.0,0.0
+200,@Ripple,Tue Oct 09 20:34:57 +0000 2018,".@JoelKatz will be a featured speaker at #SXSW 2019! Learn more about his session here.
+https://t.co/emQIbtU6cm",1,0.0,1.0,0.0,0.0
+201,@Ripple,Mon Oct 08 23:42:26 +0000 2018,ICYMI: Watch @ethanbeard’s panel on investing in #blockchain at #PreMoney2018. https://t.co/BDuv5Mlx18,2,0.0,1.0,0.0,0.0
+202,@Ripple,Fri Oct 05 15:22:13 +0000 2018,"Read @_emschwartz’s post on why @interledger’s ability to connect different networks and blockchains is so powerful.
+https://t.co/NjRRvKBs86",3,0.711,0.717,0.0,0.283
+203,@Ripple,Thu Oct 04 22:43:27 +0000 2018,"RT @mercury_fx_ltd: Team Mercury FX are back in London, bleary eyed and wide eyed all at the same time. Loved it and hugely excited to be o…",4,0.7645,0.791,0.0,0.209
+204,@Ripple,Thu Oct 04 18:48:22 +0000 2018,Next week the Xpring team is at @SFBWofficial’s SF Blockchain Week #SFBW2018. @ethanbeard speaks Monday and… https://t.co/KcdQfrRbNJ,5,0.0,1.0,0.0,0.0
+205,@Ripple,Thu Oct 04 04:22:32 +0000 2018,"#SwellbyRipple is a wrap for 2018! Thanks to all those who joined us in SF, and for those who missed it, find the h… https://t.co/fVX8yVBLL3",6,0.2481,0.803,0.08,0.117
+206,@Ripple,Thu Oct 04 03:46:37 +0000 2018,"The Japan Bank Consortium launched MoneyTap today, a Ripple-powered payments app to offer real time settlement for… https://t.co/p9hBAcqcNm",7,0.128,0.914,0.0,0.086
+207,@Ripple,Wed Oct 03 01:26:39 +0000 2018,And that’s a wrap for day two coverage of #SwellbyRipple! https://t.co/AqhQcUIEsa,8,0.0,1.0,0.0,0.0
+208,@Ripple,Wed Oct 03 00:00:24 +0000 2018,"Hat's off to the winners of the #Blockchain Innovator Award: @Cuallix @InstaReMit, @scb_thailand, @bancosantander,… https://t.co/cpo4zdJvhE",9,0.765,0.663,0.0,0.337
+209,@Ripple,Tue Oct 02 23:09:17 +0000 2018,.@TransferGo’s @daumis2475 revealed that the company had reduced costs by 90% in some regions and settlement time t… https://t.co/j2HW2z3ZXz,10,0.0,1.0,0.0,0.0
+210,@Ripple,Tue Oct 02 22:21:53 +0000 2018,.@tolushola gives a striking example of how #blockchain powered cross-border payments can positively impact small t… https://t.co/RCSngfjJum,11,0.5267,0.815,0.0,0.185
+211,@Ripple,Tue Oct 02 22:07:24 +0000 2018,RT @sandeeptodi: $10 tn is sitting idle in prefunded accounts around the world. Huge hidden cost in #crossborder payments - @kanchankumar m…,12,0.3182,0.897,0.0,0.103
+212,@Ripple,Tue Oct 02 21:55:23 +0000 2018,ICYMI: Check out the highlights from day one of #SwellbyRipple https://t.co/VcMc2bI0G4,13,0.0,1.0,0.0,0.0
+213,@Ripple,Tue Oct 02 21:53:03 +0000 2018,RT @ashgoblue: https://t.co/1PxSxfxlTL,14,0.0,1.0,0.0,0.0
+214,@Ripple,Tue Oct 02 21:23:30 +0000 2018,"CEOs @prajitn and @fepavani joke about the benefits of an “arranged marriage” on RippleNet, a relationship that’s h… https://t.co/s8AGULnU8f",15,0.5859,0.769,0.0,0.231
+215,@Ripple,Tue Oct 02 21:17:30 +0000 2018,"RT @teemuz: Some quality time @joelkatz discussing:
+- quantum resistant crypto
+- zero knowledge proof 
+- on chain scaling 
 
-New hardware is consistently bei… https://t.co/SViaOfbbV0",110,0.3182,0.887,0.0,0.113
-110,@BTC,Sun Jun 17 12:48:11 +0000 2018,#Bitcoin buy low sell high. $BTC https://t.co/kV57HDElgL,111,-0.2732,0.741,0.259,0.0
-111,@BTC,Fri Jun 15 18:41:38 +0000 2018,"RT @alistairmilne: Bitcoin Core 0.16.1 has just been released:
-https://t.co/lviEMsV3iH",112,0.0,1.0,0.0,0.0
-112,@BTC,Fri Jun 15 14:29:44 +0000 2018,Why #bitcoin dominates markets. https://t.co/YYNdocUOHn,113,0.0516,0.769,0.0,0.231
-113,@BTC,Thu Jun 14 18:44:26 +0000 2018,#Bitcoin and #Ethereum deemed not securities by the SEC. https://t.co/9qqlZoacOZ,114,-0.2235,0.827,0.173,0.0
-114,@BTC,Wed Jun 13 22:31:00 +0000 2018,Bitcoin friendly countries for cryptocurrency businesses in 2018 https://t.co/G1JBjZ97Ot,115,0.4939,0.714,0.0,0.286
-115,@BTC,Wed Jun 13 07:54:57 +0000 2018,Truth. #bitcoin https://t.co/0Ci6dnYy88,116,0.3182,0.465,0.0,0.535
-116,@BTC,Tue Jun 12 18:17:40 +0000 2018,"All of crypto is bearish, but just make sure you don’t sell a bottom. #Bitcoin https://t.co/NHWXl7qeDQ",117,0.4497,0.826,0.0,0.174
-117,@BTC,Mon Jun 11 16:20:09 +0000 2018,Do you see the resemblance? #bitcoin https://t.co/KnSuLQRLPW,118,0.0,1.0,0.0,0.0
-118,@BTC,Sun Jun 10 20:06:26 +0000 2018,Are you accumulating #bitcoin? https://t.co/NVwtIiN0fZ,119,0.0,1.0,0.0,0.0
-119,@BTC,Sat Jun 09 15:58:07 +0000 2018,And that’s only just the beginning https://t.co/tVdDeN4k7v,120,0.0,1.0,0.0,0.0
-120,@BTC,Sat Jun 09 07:09:49 +0000 2018,Steve Wozniak: “What an incredible thing #Bitcoin is...” #crypto https://t.co/ToZEZbed2i,121,0.0,1.0,0.0,0.0
-121,@BTC,Fri Jun 08 19:44:48 +0000 2018,What’s next for #Bitcoin? https://t.co/dYWNgzV8a8,122,0.0,1.0,0.0,0.0
-122,@BTC,Thu Jun 07 23:55:25 +0000 2018,Universities start investing in bitcoin https://t.co/KGbZBBJbH5,123,0.0,1.0,0.0,0.0
-123,@BTC,Thu Jun 07 03:02:11 +0000 2018,Bitcoin rallies. Where to next? https://t.co/u3FJu5Y1IK,124,0.0,1.0,0.0,0.0
-124,@BTC,Tue Jun 05 12:39:57 +0000 2018,"Average Volume % Change
-(Q1 vs. Same Q1 Prior Year)
-         
-2015             -13%         
-2016               18%… https://t.co/D2WHQDZkzS",125,0.0,1.0,0.0,0.0
-125,@BTC,Tue Jun 05 12:29:09 +0000 2018,#bitcoin #crypto $BTC https://t.co/ke4JmHM4ee,126,0.0,1.0,0.0,0.0
-126,@BTC,Tue Jun 05 10:40:08 +0000 2018,@Cernovich No. Bitcoin is Bitcoin.,127,-0.296,0.645,0.355,0.0
-127,@BTC,Mon Jun 04 19:27:58 +0000 2018,Apple co-founder hopes #bitcoin will become a single global currency.  https://t.co/R6aZ8AoOri,128,0.4215,0.763,0.0,0.237
-128,@BTC,Mon Jun 04 17:02:33 +0000 2018,Bitcoin has “died” so many times. Yet we’re still going strong. $BTC https://t.co/e7IkmgBH7p,129,0.5106,0.784,0.0,0.216
-129,@BTC,Mon Jun 04 12:56:05 +0000 2018,RT @SatoshisWorId: Money cant buy happiness. But financial freedom has a priceless view. #crypto #bitcoin,130,0.3129,0.627,0.153,0.22
-130,@BTC,Mon Jun 04 05:48:12 +0000 2018,@alistairmilne @Bitcoin And follow @btc,131,0.0,1.0,0.0,0.0
-131,@BTC,Mon Jun 04 05:01:04 +0000 2018,China is warming up to #Bitcoin again. Not #BitcoinCash... https://t.co/YkC0341EjS,132,0.1531,0.849,0.0,0.151
-132,@BTC,Sun Jun 03 16:41:19 +0000 2018,Food for thought: A timeline of VERY bad future predictions. #bitcoin https://t.co/K05tNFVoiJ,133,-0.6732,0.688,0.312,0.0
-133,@BTC,Sun Jun 03 04:12:09 +0000 2018,#Evolution #Bitcoin @IMFNews https://t.co/5M4i6OS2fv,134,0.0,1.0,0.0,0.0
-134,@BTC,Sun Jun 03 03:39:42 +0000 2018,Looks promising... #Bitcoin $BTC https://t.co/EZCjossgjj,135,0.0,1.0,0.0,0.0
-135,@BTC,Sat Jun 02 10:01:31 +0000 2018,More reasons to be #bitcoin bullish https://t.co/nY1I7okfe9,136,0.0,1.0,0.0,0.0
-136,@BTC,Sat Jun 02 09:54:54 +0000 2018,"RT @SatoshisWorId: Two things that can define you in crypto. Your patience when it’s bearish, and your greediness when things are bullish.",137,-0.4019,0.886,0.114,0.0
-137,@BTC,Fri Jun 01 22:23:00 +0000 2018,What’s up @Visa need help? https://t.co/Fi7vLOzf1f,138,0.4019,0.649,0.0,0.351
-138,@BTC,Fri Jun 01 21:20:45 +0000 2018,"@lopp Well said, Jameson! #bitcoin",139,0.3382,0.626,0.0,0.374
-139,@BTC,Fri Jun 01 21:20:26 +0000 2018,RT @lopp: Better uptime than any centralized system; relentlessly marching towards five nines! https://t.co/SDYCGIaNQK https://t.co/S3ZqZtA…,140,0.4926,0.814,0.0,0.186
-140,@BTC,Fri Jun 01 20:52:06 +0000 2018,"Visa network goes down today. 
+Thoughts? https…",16,0.0,1.0,0.0,0.0
+216,@Ripple,Tue Oct 02 20:33:00 +0000 2018,.@IMFNews’ Ross Leckow on the intersection of regulation and innovation at #SwellbyRipple https://t.co/ThSEoDBaRS,17,0.3818,0.822,0.0,0.178
+217,@Ripple,Tue Oct 02 20:10:31 +0000 2018,RT @zahmohsen: With @chrislarsensf co-founder &amp; executive chairman of @Ripple at #swellbyripple https://t.co/9UC871cGKB,18,0.0,1.0,0.0,0.0
+218,@Ripple,Tue Oct 02 19:59:05 +0000 2018,Listen to @rjpittman explain why addressing the inefficiencies in #payments will lead to extraordinary growth oppor… https://t.co/1cWyIWrIDe,19,0.3818,0.86,0.0,0.14
+219,@Ripple,Tue Oct 02 19:12:20 +0000 2018,The results are in: 2018 marks the year interest in #blockchain for global payments moves to mass adoption. Downloa… https://t.co/JrOOOIAFkD,20,0.4588,0.864,0.0,0.136
+220,@Ripple,Tue Oct 02 18:17:33 +0000 2018,#SwellbyRipple’s lightning round was a success. We’re excited to see the newest connections and corridors on Ripple… https://t.co/IRGkr2zK07,21,0.7269,0.711,0.0,0.289
+221,@Ripple,Tue Oct 02 17:18:19 +0000 2018,"As day 2 of #SwellbyRipple begins, don’t miss key takeaways from yesterday’s sessions featuring policy makers and c… https://t.co/DAOz6zEpLr",22,-0.1531,0.914,0.086,0.0
+222,@Ripple,Tue Oct 02 14:57:44 +0000 2018,Day two of #SwellbyRipple starts now! Follow all the coverage here. https://t.co/ayefHcxAxH https://t.co/CALXnZZ2ac,23,0.0,1.0,0.0,0.0
+223,@Ripple,Tue Oct 02 07:17:55 +0000 2018,That’s a wrap on day one of #SwellbyRipple! Special thanks to the Counting Crows for making the customer celebratio… https://t.co/SCX65CsTqS,24,0.7088,0.743,0.0,0.257
+224,@Ripple,Tue Oct 02 01:17:51 +0000 2018,Check out the full video from #SwellbyRipple of @bancosantander’s Ed Metzger discussing how One Pay FX deployed on… https://t.co/YZbCA0uiVT,25,-0.1027,0.928,0.072,0.0
+225,@Ripple,Tue Oct 02 00:29:22 +0000 2018,Get the key takeaways and a link to @bgarlinghouse's full #SwellbyRipple session on xRapid here. https://t.co/O9ZX73sUlt,26,0.0,1.0,0.0,0.0
+226,@Ripple,Mon Oct 01 23:26:10 +0000 2018,"Representatives from the @SAMA_GOV, @paymentscanada and @bancocentralbr discuss the future of #blockchain and digit… https://t.co/UyhJzqX8dv",27,0.0,1.0,0.0,0.0
+227,@Ripple,Mon Oct 01 22:38:25 +0000 2018,"RT @montymetzger: Ripple provides one frictionless experience to send money globally using the power of blockchain. 
 
-Bitcoin has never gone down.",141,0.0,1.0,0.0,0.0
-141,@BTC,Fri Jun 01 15:33:21 +0000 2018,"Jamie Dimon says technology is the the biggest threat to @jpmorgan’s business and future.
+@bgarlinghouse is ope…",28,0.0,1.0,0.0,0.0
+228,@Ripple,Mon Oct 01 22:03:27 +0000 2018,.@bancosantander’s Ed Metzger speaking on stage about One Pay FX at #SwellbyRipple https://t.co/Cp0cYWXtf6,29,-0.1027,0.896,0.104,0.0
+229,@Ripple,Mon Oct 01 21:45:29 +0000 2018,.@bgarlinghouse on the stage at #SwellbyRipple. Full session video coming soon. https://t.co/X5j8OjtgvL,30,0.0,1.0,0.0,0.0
+230,@Ripple,Mon Oct 01 20:00:36 +0000 2018,"xRapid is going into commercial production. @mercury_fx_ltd, @Cuallix and Catalyst Corporate Federal Credit Union w… https://t.co/9Fh6e4ic63",31,0.3818,0.852,0.0,0.148
+231,@Ripple,Mon Oct 01 17:22:58 +0000 2018,Here’s your behind the scenes look inside #SwellbyRipple. For all the latest updates during the event:… https://t.co/SluwRK9BbI,32,0.0,1.0,0.0,0.0
+232,@Ripple,Mon Oct 01 16:23:43 +0000 2018,"“There are many #blockchain projects that are interesting, but they aren’t sustainable businesses. @Ripple stands o… https://t.co/rCkkwYC3Hy",33,0.2144,0.896,0.0,0.104
+233,@Ripple,Mon Oct 01 16:09:33 +0000 2018,RT @MonicaLongSF: Welcome! #SwellbyRipple starts now. Catch the action here: https://t.co/8s5zpMjU64 https://t.co/CBWUyEkeaB,34,0.5093,0.77,0.0,0.23
+234,@Ripple,Sun Sep 30 18:40:10 +0000 2018,#SwellbyRipple starts in less than 24 hours. Find out where to follow coverage and who’s already in town for the ev… https://t.co/nzCzQrva9u,35,0.0,1.0,0.0,0.0
+235,@Ripple,Sat Sep 29 17:30:19 +0000 2018,“We’re here to ensure the framework of the network we call RippleNet evolves in an optimal way. You are the key mov… https://t.co/bpwK5W0clE,36,0.6249,0.805,0.0,0.195
+236,@Ripple,Sat Sep 29 00:53:31 +0000 2018,RT @CharlesBest: .@Ripple’s donation to @DonorsChoose achieved an unparalleled breadth of impact. Really excited to see what impact #Ripple…,37,0.4005,0.87,0.0,0.13
+237,@Ripple,Fri Sep 28 23:50:54 +0000 2018,RT @PaymentsCanada: The countdown is on for @Ripple's #SwellbyRipple and there is a lot in store -- including the Central Banks Show &amp; Tell…,38,0.0,1.0,0.0,0.0
+238,@Ripple,Fri Sep 28 16:18:40 +0000 2018,".@scb_thailand will be the first to use “multi-hop”, a key feature on RippleNet that allows financial institutions… https://t.co/oagVR1OTU0",39,0.0,1.0,0.0,0.0
+239,@Ripple,Thu Sep 27 14:33:54 +0000 2018,"RT @chrislarsensf: The #InternetofValue is not about disruption, it's about completion - making globalization better for everyone. Ripple f…",40,0.6136,0.762,0.0,0.238
+240,@Ripple,Wed Sep 26 21:51:53 +0000 2018,"RT @marcus_treacher: Privileged to speak at Blockchainlive today. Great discussion, super conference: real buzz https://t.co/WMvwV9x1Oy",41,0.8979,0.524,0.0,0.476
+241,@Ripple,Wed Sep 26 18:08:07 +0000 2018,Members of our Recruiting and Engineering teams are at @ghc #GHC18. Come by our booth and say hello! https://t.co/cGlOMo7XZu,42,0.0,1.0,0.0,0.0
+242,@Ripple,Tue Sep 25 20:15:42 +0000 2018,ICYMI: @CoryTV spoke at the @MilkenInstitute’s #MIGlobal Asia Summit 2018 in Singapore about the rise of… https://t.co/UUXqiUjYCQ,43,0.0,1.0,0.0,0.0
+243,@Ripple,Mon Sep 24 19:18:06 +0000 2018,"Episode 5 is here! We hear more about next week’s #SwellbyRipple, learn details on RippleNet’s new corridors and ta… https://t.co/uUh0UmlCda",44,0.0,1.0,0.0,0.0
+244,@Ripple,Fri Sep 21 22:49:21 +0000 2018,“Ripple works with governments and regulators around the world to help them better understand the problems we solve… https://t.co/kLOIr4n6wx,45,0.4404,0.658,0.111,0.23
+245,@Ripple,Fri Sep 21 19:52:21 +0000 2018,"The certainty, speed, and savings RippleNet provides is helping bring the world one step closer to the… https://t.co/QsKSfVPfyx",46,0.4939,0.792,0.0,0.208
+246,@Ripple,Thu Sep 20 18:10:05 +0000 2018,RT @ashgoblue: I just launched #BUIDL a product focused monthly newsletter to look at the most interesting projects built on a #blockchain.…,47,0.7264,0.693,0.0,0.307
+247,@Ripple,Wed Sep 19 14:21:08 +0000 2018,.@PNCBank has joined the 100+ financial institutions on RippleNet. It’s one of the first major U.S. banks to use… https://t.co/8vcULp739Q,48,0.0,1.0,0.0,0.0
+248,@Ripple,Wed Sep 19 14:20:28 +0000 2018,"RT @marcus_treacher: RippleNet is now live across 40 countries and 6 continents. We’re making faster, cheaper and more transparent payments…",49,0.0,1.0,0.0,0.0
+249,@Ripple,Tue Sep 18 18:53:45 +0000 2018,RT @NoorAlAli: Had a great @BloombergLive #inventingthefuture panel on smart contracts and how regulation may impact technology development…,50,0.7783,0.688,0.0,0.312
+250,@Ripple,Mon Sep 17 23:00:58 +0000 2018,"RT @ARobinWood: #Crypto space has a peanut butter problem, companies are spreading themselves to thin and New York isn’t going away bc of #…",51,-0.4019,0.891,0.109,0.0
+251,@Ripple,Mon Sep 17 19:01:08 +0000 2018,Every Rippler’s story is unique. Watch #HowIGotHere. https://t.co/b8oJ2r08vj,52,0.0,1.0,0.0,0.0
+252,@Ripple,Fri Sep 14 16:28:15 +0000 2018,"“Most of the industry still moves money like it’s 1973. Ripple allows banks, payment providers and remittance compa… https://t.co/J8iADR4yqJ",53,0.3612,0.878,0.0,0.122
+253,@Ripple,Fri Sep 14 04:30:05 +0000 2018,National Commercial Bank @AlAhliNCB joins RippleNet to offer its 5.5M customers faster and more transparent remitta… https://t.co/mpU3WdHtXi,54,0.0,1.0,0.0,0.0
+254,@Ripple,Thu Sep 13 21:03:50 +0000 2018,Learn from and connect with our customers at #SwellbyRipple https://t.co/iPt8hN5XqE https://t.co/8e6H3I1WIm,55,0.0,1.0,0.0,0.0
+255,@Ripple,Wed Sep 12 22:38:49 +0000 2018,“I think what we’re seeing now is that there is recognition that #blockchain and digital assets will play a key rol… https://t.co/8qleQhk7X7,56,0.4767,0.823,0.0,0.177
+256,@Ripple,Wed Sep 12 20:50:25 +0000 2018,Instant remittances can change lives. Read how SBI Remit and Siam Commercial Bank make this happen for Thai workers… https://t.co/qkoQxaIeUd,57,0.0,1.0,0.0,0.0
+257,@Ripple,Wed Sep 12 16:07:25 +0000 2018,"""It's early days in #blockchain. Some uses-cases for digital assets are going to turn out to be quite imaginary. In… https://t.co/yDZIzqH8FD",58,0.1779,0.922,0.0,0.078
+258,@Ripple,Tue Sep 11 20:04:44 +0000 2018,Calling all developers! The Ripple dev team working with external contributors just released ripple-lib 1.0 an open… https://t.co/K8imFnqakN,59,0.0,1.0,0.0,0.0
+259,@Ripple,Mon Sep 10 18:47:13 +0000 2018,Missed @Forbes’ profile of @JoelKatz? Read how our brilliant CTO helped forge the technology that is changing how m… https://t.co/YGB3s8L5to,60,0.3818,0.75,0.092,0.158
+260,@Ripple,Fri Sep 07 17:26:19 +0000 2018,.@CountingCrows will rock out at #SwellbyRipple! Read more about the event: https://t.co/OmDVw60V4D https://t.co/LFXyHLQE11,61,0.0,1.0,0.0,0.0
+261,@Ripple,Thu Sep 06 22:55:08 +0000 2018,“We’re thrilled to partner with BeeTech. Ripple supports them with payments infrastructure that enables them to rol… https://t.co/d4kiqiNPAw,62,0.6597,0.748,0.0,0.252
+262,@Ripple,Thu Sep 06 14:29:42 +0000 2018,We’re honored to be named one of the #LinkedInTopStartUps. Congratulations to our team worldwide for the dedication… https://t.co/DtGgm4DPhm,63,0.8271,0.675,0.0,0.325
+263,@Ripple,Wed Sep 05 22:49:10 +0000 2018,"“You're going to see a separation between projects that are purely speculative, and those that solve a real problem… https://t.co/dduGo6qXi2",64,0.3597,0.821,0.0,0.179
+264,@Ripple,Wed Sep 05 19:21:03 +0000 2018,"RT @bgarlinghouse: A well-deserved spotlight on our very own @JoelKatz - he is one of the most brilliant people I’ve ever met. I mean, he l…",65,0.624,0.843,0.0,0.157
+265,@Ripple,Wed Sep 05 17:56:03 +0000 2018,Congratulations @MonicaLongSF for being honored by @HSBC_US! https://t.co/MhjK4wbQuB,66,0.8398,0.429,0.0,0.571
+266,@Ripple,Tue Sep 04 19:00:19 +0000 2018,"Don’t miss @bgarlinghouse onstage tomorrow with @arrington at 3:10pm PT for @techcrunch’s #TCdisrupt. 
+https://t.co/8p4iODvSOj",67,-0.1531,0.89,0.11,0.0
+267,@Ripple,Fri Aug 31 22:13:33 +0000 2018,Missed last week's @bgarlinghouse AMA with @CoryTV? Check out the full interview here: https://t.co/FkDDALkNys,68,-0.296,0.855,0.145,0.0
+268,@Ripple,Thu Aug 30 20:34:11 +0000 2018,"With RippleNet, SMEs have a unique competitive advantage: faster, more transparent global payments. At a time when… https://t.co/hcm9YDeMJF",69,0.4019,0.791,0.0,0.209
+269,@Ripple,Thu Aug 30 19:26:05 +0000 2018,Watch @chrislarsensf speak to @Forbes about why the #InternetofValue is central to completing globalization to make… https://t.co/RYFFhsKqVv,70,0.0,1.0,0.0,0.0
+270,@Ripple,Wed Aug 29 22:28:06 +0000 2018,"""I love how enthusiastic people are about blockchain, but I don’t necessarily think it will solve all the world’s p… https://t.co/3tirn49tZg",71,0.7096,0.711,0.0,0.289
+271,@Ripple,Tue Aug 28 15:51:35 +0000 2018,XRP Ledger only gets more and more decentralized over time: https://t.co/tSQLb0EPkU https://t.co/23WB4P52rc,72,0.0,1.0,0.0,0.0
+272,@Ripple,Mon Aug 27 19:13:39 +0000 2018,"Missed @joelkatz’s AMA with @TheNextWeb? Read the highlights here, including why David thinks different #blockchain… https://t.co/ti5WOmU8OA",73,-0.296,0.872,0.128,0.0
+273,@Ripple,Fri Aug 24 22:45:08 +0000 2018,RT @money2020: In Vegas @TheRealCoreVC's @ArjanSchutte will lead a candid keynote conversation with @Ripple’s @chrislarsensf about the jour…,74,0.0,1.0,0.0,0.0
+274,@Ripple,Fri Aug 24 16:38:04 +0000 2018,Support @joelkatz’s panel for #SXSW2019! Cast your vote by Aug. 30 to see him and @IChartNY talk candidly about… https://t.co/eTCYowmxKd,75,0.4574,0.864,0.0,0.136
+275,@Ripple,Thu Aug 23 21:06:31 +0000 2018,ICYMI: @joelkatz’s analysis of decentralization across networks: https://t.co/JOWNcczaMa https://t.co/kjrXxgyxyW,76,0.0,1.0,0.0,0.0
+276,@Ripple,Wed Aug 22 22:00:11 +0000 2018,The AMA is here! @bgarlinghouse’s interview with @CoryTV is about to start: https://t.co/SMND4XOn8q,77,0.0,1.0,0.0,0.0
+277,@Ripple,Wed Aug 22 17:22:13 +0000 2018,RT @JoelKatz: I just published a post on the inherent decentralization of the XRP Ledger — a passion of mine. https://t.co/JAGsAsh5R3,78,0.4588,0.842,0.0,0.158
+278,@Ripple,Tue Aug 21 20:40:49 +0000 2018,Tomorrow at 3pm PT @bgarlinghouse sits down with @corytv to answer your questions. Tune in live at… https://t.co/wbvIcTZecj,79,0.0,1.0,0.0,0.0
+279,@Ripple,Tue Aug 21 00:03:47 +0000 2018,"Check out Episode 4 of The Ripple Drop! @CoryTV on #XRP markets, @Marcosf0401 on xRapid partners, and @wsculley on… https://t.co/AiFl2Nepi4",80,-0.3382,0.883,0.117,0.0
+280,@Ripple,Fri Aug 17 19:00:38 +0000 2018,Next Wednesday at 3pm (PST) @bgarlinghouse will sit down for a livestream AMA moderated by @CoryTV. Got questions f… https://t.co/nN9A9KbYLL,81,0.0,1.0,0.0,0.0
+281,@Ripple,Thu Aug 16 14:16:02 +0000 2018,"RT @CoryTV: Dig this: As of right now @BittrexExchange, @Bitso and @coinsph are now official partners for xRapid transactions using #XRP. W…",82,0.0,1.0,0.0,0.0
+282,@Ripple,Wed Aug 15 19:19:20 +0000 2018,Check out the latest speakers joining the #SwellbyRipple program: https://t.co/j8dC5KH4gV,83,0.0,1.0,0.0,0.0
+283,@Ripple,Wed Aug 15 19:18:29 +0000 2018,"The most provocative dialogue on global payments, #blockchain and digital assets is less than two months away.… https://t.co/BEWGuJ6rz1",84,0.1779,0.909,0.0,0.091
+284,@Ripple,Wed Aug 15 17:52:19 +0000 2018,"RT @CatoCMFA: The @CatoInstitute Summit on Financial Regulation in San Francisco will feature Gerry Tsai of the @sffed, @CremeDeLaCrypto of…",85,0.0,1.0,0.0,0.0
+285,@Ripple,Wed Aug 15 00:01:37 +0000 2018,RT @CoryTV: If he’s Emmanuel Goldstein does that make me Big Brother? Fun debating Nobel Laureate @PaulKrugman on the usefulness of blockch…,86,0.6705,0.784,0.0,0.216
+286,@Ripple,Mon Aug 13 19:06:53 +0000 2018,"Help @JoelKatz be a speaker at #SXSW2019! Vote for his panel for next year’s event here:
+https://t.co/lcrEEPgIaF",87,0.4574,0.834,0.0,0.166
+287,@Ripple,Sat Aug 11 00:35:47 +0000 2018,Show your support for @raisingmalawi and help transform futures. https://t.co/HXoNb8xgms https://t.co/n1H3eO3u0x,88,0.6597,0.625,0.0,0.375
+288,@Ripple,Fri Aug 10 00:57:05 +0000 2018,“We’re working with early adopters like Cuallix to bring the cost of remittances from the U.S. to Mexico down. The… https://t.co/1McrnPo3MT,89,0.3612,0.889,0.0,0.111
+289,@Ripple,Wed Aug 08 23:45:11 +0000 2018,"The Women at Ripple had a big turn out at #ThatLadyThing in San Francisco this week representing our engineering, m… https://t.co/WyoZCMX9d1",90,0.0,1.0,0.0,0.0
+290,@Ripple,Wed Aug 08 20:04:21 +0000 2018,"RT @JoelKatz: Want to see me discuss blockchain beyond the hype? It's SXSW panel picker time, and your vote can make it happen. Check it ou…",91,0.0772,0.951,0.0,0.049
+291,@Ripple,Tue Aug 07 20:13:18 +0000 2018,RT @respbus: Interim Dean and the Director of the @BerkeleyHaas Institute for Business and Social Impact  @LauraDTyson  speaking now w/ @Mo…,92,0.0,1.0,0.0,0.0
+292,@Ripple,Tue Aug 07 00:40:05 +0000 2018,"For Episode 3 of The Ripple Drop, we dive into the Swell program, take a sneak peek at our NYC Office and debrief w… https://t.co/LTgDDJr7JJ",93,-0.2732,0.913,0.087,0.0
+293,@Ripple,Mon Aug 06 17:02:38 +0000 2018,"""Ripple is 100% focused on the payments use case because all blockchain use cases ultimately stem from payments, an… https://t.co/NsjK46jcDA",94,0.3818,0.88,0.0,0.12
+294,@Ripple,Fri Aug 03 17:24:59 +0000 2018,Learn how SBI Remit and Siam Commercial Bank partnered on RippleNet to deliver better remittance services and lower… https://t.co/8SBdwFnRgL,95,0.4404,0.861,0.0,0.139
+295,@Ripple,Wed Aug 01 20:42:27 +0000 2018,Learn how RippleNet provides an innovative platform to source liquidity with both fiat and the digital asset #XRP. https://t.co/QqrcJsxCTR,96,0.6597,0.759,0.0,0.241
+296,@Ripple,Tue Jul 31 16:03:06 +0000 2018,We're thrilled to announce @BillClinton as keynote speaker for this year’s #SwellbyRipple. For more details:… https://t.co/LszzyeIDdH,97,0.4404,0.838,0.0,0.162
+297,@Ripple,Mon Jul 30 19:17:14 +0000 2018,Partner with us to sponsor children thru @raisingmalawi and help transform their futures. https://t.co/3oDK7HI4fZ,98,0.4019,0.828,0.0,0.172
+298,@Ripple,Thu Jul 26 19:09:49 +0000 2018,Need some inspiration to get your project over the next hurdle? Look no further we’ve got you. Check out our must r… https://t.co/Y9okcEvXVQ,99,0.296,0.789,0.083,0.128
+299,@Ripple,Thu Jul 26 16:28:31 +0000 2018,"“Money should move as fast as ideas move as fast as data moves and right now it doesn’t.”
+-@CoryTV on @FoxBusiness… https://t.co/T6bieqfEKU",100,0.0,1.0,0.0,0.0
+300,@ethereum,Thu Oct 04 16:12:29 +0000 2018,"RT @peter_szilagyi: Via community decision, we've delayed the #Ethereum Ropsten testnet Constantinople hard fork by 1 epoch to block #42300…",1,-0.6369,0.721,0.279,0.0
+301,@ethereum,Fri Sep 28 13:55:33 +0000 2018,[LIVE] Ethereum Core Devs Meeting #47 [09/28/18] #ethereum https://t.co/2nEeCrkbmF,2,0.0,1.0,0.0,0.0
+302,@ethereum,Thu Sep 20 13:04:56 +0000 2018,RT @maurreth: Do not miss the chance to discuss about @ETHBerlin projects at our meetup tonight: https://t.co/Tlqdbxy8qh @C-base with @5chd…,3,-0.0762,0.85,0.082,0.068
+303,@ethereum,Mon Sep 17 21:30:09 +0000 2018,RT @0mkara: “Remix IDE v0.7.0 Released” by Yann Levreau https://t.co/zm5j2svwu3,4,0.0,1.0,0.0,0.0
+304,@ethereum,Fri Sep 14 13:55:24 +0000 2018,[LIVE] Ethereum Core Devs Meeting #46 [09/14/18] #ethereum https://t.co/kvnoF8tVnf,5,0.0,1.0,0.0,0.0
+305,@ethereum,Thu Sep 13 20:13:48 +0000 2018,[Blog] Solidity 0.4.25 bugfix release #ethereum #solidity https://t.co/jnbk6OdHk4,6,0.0,1.0,0.0,0.0
+306,@ethereum,Thu Sep 06 10:00:39 +0000 2018,"If you're in the San Francisco area Oct 5-7, consider volunteering at @ETHsanfrancisco! Great way to get involved i… https://t.co/0ETI0RtNkk",7,0.6588,0.812,0.0,0.188
+307,@ethereum,Fri Aug 31 13:55:22 +0000 2018,[LIVE] Ethereum Core Devs Constantinople Session #1 [08/31/18] https://t.co/Jm4v8mecmL,8,0.0,1.0,0.0,0.0
+308,@ethereum,Fri Aug 24 13:55:16 +0000 2018,[LIVE] Ethereum Core Devs Meeting #45 [08/23/18] #ethereum https://t.co/OLRe0Tg2ux,9,0.0,1.0,0.0,0.0
+309,@ethereum,Thu Aug 23 19:35:34 +0000 2018,Come build on top of Ethereum @ETHSanFrancisco Oct. 5-7! Find out more by visiting https://t.co/nukPaEmoAV.,10,0.2714,0.87,0.0,0.13
+310,@ethereum,Fri Aug 17 21:11:25 +0000 2018,[Blog] Ethereum Foundation Grants Update - Wave 3 #ethereum #grants https://t.co/9bcFBkOxjX https://t.co/hLNv6UMPbB,11,0.2263,0.826,0.0,0.174
+311,@ethereum,Fri Aug 10 13:55:37 +0000 2018,[LIVE] Ethereum Core Devs Meeting #44 [08/10/18] https://t.co/05nXTRsObh,12,0.0,1.0,0.0,0.0
+312,@ethereum,Mon Jul 30 23:39:18 +0000 2018,"[Blog] Devcon4 Call for Participation! Apply to be a speaker, workshop lead, or breakout room host https://t.co/Atq511ukmj",13,0.0,1.0,0.0,0.0
+313,@ethereum,Sun Jul 29 17:15:59 +0000 2018,"SCAM ALERT! ""Ethereum Funds Recovery for ETH Losers"" is an attempt to steal your private key and ether. Be safe out… https://t.co/nBaNRExuL7",14,-0.7574,0.498,0.332,0.171
+314,@ethereum,Fri Jul 27 19:58:07 +0000 2018,[Blog] Answers to your top 3 Devcon4 questions https://t.co/DxLJ512iCo,15,0.2023,0.795,0.0,0.205
+315,@ethereum,Fri Jul 27 13:55:32 +0000 2018,[LIVE] Ethereum Core Devs Meeting #43 [07/27/18]  https://t.co/R36DNXq6fP,16,0.0,1.0,0.0,0.0
+316,@ethereum,Fri Jul 20 01:54:22 +0000 2018,"Devcon4 applications for discounts, scholarships, and sponsorships close Tuesday July 24th! Visit… https://t.co/SeMKNHcghq",17,0.0,1.0,0.0,0.0
+317,@ethereum,Tue Jul 17 15:51:41 +0000 2018,[Blog] An Update on Devcon4 Ticket Allocations &amp; Sales https://t.co/wVo6AQaFcZ,18,0.0,1.0,0.0,0.0
+318,@ethereum,Fri Jul 13 13:56:37 +0000 2018,[LIVE] Ethereum Core Developer Meeting #42 [07/13/18] https://t.co/3voznB1L69,19,0.0,1.0,0.0,0.0
+319,@ethereum,Tue Jul 03 21:18:04 +0000 2018,Follow @EFDevcon for the latest &amp; greatest Devcon4 news!,20,0.6696,0.64,0.0,0.36
+320,@ethereum,Tue Jul 03 21:15:38 +0000 2018,Mark your calendars! Devcon4 tickets go on sale at 8AM PDT on July 9. Read about our Devcon4 ticketing process here… https://t.co/yonOoqSK0m,21,0.0,1.0,0.0,0.0
+321,@ethereum,Fri Jun 29 13:55:47 +0000 2018,[LIVE] Ethereum Core Developer Meeting #41 [06/29/18] https://t.co/CxqxC6pSYl,22,0.0,1.0,0.0,0.0
+322,@ethereum,Fri Jun 22 02:14:12 +0000 2018,[Blog] Announcing Swarm Proof-of-Concept Release 3 #swarm https://t.co/hrxZhgAHac https://t.co/OcMPSbHiCG,23,0.0,1.0,0.0,0.0
+323,@ethereum,Fri Jun 15 13:55:10 +0000 2018,[LIVE] Ethereum Core Developer Meeting #40 [06/15/18] https://t.co/iqucGaNi15  #ethereum #allcoredevs https://t.co/bDvhIpd2n4,24,0.0,1.0,0.0,0.0
+324,@ethereum,Fri Jun 15 02:00:57 +0000 2018,12 hours until the Ethereum Core Developer Meeting #40. Check out the agenda - https://t.co/n2M3pCuWoN,25,0.0,1.0,0.0,0.0
+325,@ethereum,Wed May 30 17:46:50 +0000 2018,ethereumJS client development has officially started! Learn how you can contribute: https://t.co/ipMf0CFpwS #ethereum #ethereumJS,26,0.0,1.0,0.0,0.0
+326,@ethereum,Fri May 18 14:00:11 +0000 2018,[LIVE] Ethereum Core Developer Meeting #38 [05/18/18] https://t.co/TQ7deO2Q90 #ethereum #allcoredevs https://t.co/VmJuxG0l5f,27,0.0,1.0,0.0,0.0
+327,@ethereum,Thu May 17 22:08:33 +0000 2018,16 hours until the Ethereum Core Devs Meeting #38. Excited to announce this will be live streamed via both YouTube… https://t.co/4C8LqyECCd,28,0.34,0.893,0.0,0.107
+328,@ethereum,Wed May 16 12:40:41 +0000 2018,RT @dannyryan: Just released Casper FFG v0.2.0 — Partial Slashing and Friends https://t.co/PrCLt9vegY,29,0.25,0.658,0.138,0.204
+329,@ethereum,Wed May 16 12:36:54 +0000 2018,"Remix IDE 0.6.3 Released!
+https://t.co/cm97F8ca14",30,0.0,1.0,0.0,0.0
+330,@ethereum,Fri May 11 14:42:27 +0000 2018,[Blog] Devcon4 Announcement. Join us in Prague Oct 30 - Nov 2! https://t.co/upwjnnyCGa #ethereum #devcon4,31,0.3595,0.839,0.0,0.161
+331,@ethereum,Wed May 02 19:32:13 +0000 2018,[BLOG] Announcing May 2018 Cohort of EF Grants #ethereum #buidl https://t.co/PeuSYTMPvr,32,0.2263,0.84,0.0,0.16
+332,@ethereum,Fri Apr 06 13:58:48 +0000 2018,[LIVE] Ethereum Core Developer Meeting #36 [04/06/18] https://t.co/NEfytsGM8K,33,0.0,1.0,0.0,0.0
+333,@ethereum,Fri Apr 06 02:33:50 +0000 2018,11.5 hours until Ethereum Core Developer Meeting #36! Lots of interesting agenda items. Tune in live! #ethereum https://t.co/bWTGqzh8DK,34,0.508,0.838,0.0,0.162
+334,@ethereum,Sun Apr 01 14:05:50 +0000 2018,[BLOG] Announcing World Trade Francs: The Official Ethereum Stablecoin #ethereum https://t.co/yEmEuC8ghK,35,0.0,1.0,0.0,0.0
+335,@ethereum,Fri Mar 23 13:54:15 +0000 2018,[LIVE] Ethereum Core Developer Meeting #35 [3/23/18] https://t.co/1sDC1v2d4a #Ethereum,36,0.0,1.0,0.0,0.0
+336,@ethereum,Fri Mar 23 06:01:08 +0000 2018,"Ethereum Core Developer Meeting in 8 Hours! #Ethereum #CoreDevMeeting
+https://t.co/CJI8uu8ddo",37,0.0,1.0,0.0,0.0
+337,@ethereum,Wed Feb 14 16:44:22 +0000 2018,"RT @peter_szilagyi: Geth v1.8.0: Iceberg is out! Go and light sync #Ethereum within a minute! ;) #golang https://t.co/FJrXCvkCT2
 
-Sounds a lot like #Bitcoin...",142,-0.2263,0.731,0.155,0.114
-142,@BTC,Fri Jun 01 02:22:55 +0000 2018,"“Cryptocurrencies are cheap right now, so it’s a good time to buy.” says Dan Morehead, founder of Pantera Capital M… https://t.co/IQOVWCfNOB",143,0.4902,0.857,0.0,0.143
-143,@BTC,Fri Jun 01 02:20:02 +0000 2018,"“Interest in #bitcoin by country” 
+Btw, this…",38,0.3578,0.879,0.0,0.121
+338,@ethereum,Fri Feb 09 13:51:23 +0000 2018,[LIVE] Ethereum Core Devs Meeting #33 [2/9/18] https://t.co/2mXk5wPxvm #Ethereum,39,0.0,1.0,0.0,0.0
+339,@ethereum,Wed Jan 31 20:53:05 +0000 2018,[Blog] Farewell and Welcome https://t.co/cImDr8yWoq,40,0.4588,0.571,0.0,0.429
+340,@ethereum,Wed Jan 31 18:40:05 +0000 2018,[Blog] To Infinity and Beyond! https://t.co/OmwmnhGxtR,41,0.0,1.0,0.0,0.0
+341,@ethereum,Fri Jan 26 13:48:26 +0000 2018,[LIVE] Ethereum Core Devs Meeting #32 [1/26/18] https://t.co/yZcU4fXeNz #Ethereum,42,0.0,1.0,0.0,0.0
+342,@ethereum,Mon Jan 22 04:30:03 +0000 2018,[Developer Update] Ethereum Core Developers Meeting #31 [1/12/17] video and notes are up! Lots of EWASM news!… https://t.co/H2R8hAJsQ7,43,0.0,1.0,0.0,0.0
+343,@ethereum,Mon Dec 18 01:45:42 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #29 [12/01/17] &amp; #30 [12/15/17]  video and notes are up!… https://t.co/ePrgsrp9Ag,44,0.0,1.0,0.0,0.0
+344,@ethereum,Fri Dec 15 13:50:05 +0000 2017,[LIVE] Ethereum Core Devs Meeting #30 [12/15/17] https://t.co/sKGBGKjRKJ #Ethereum #CoreDevsMeeting30,45,0.0,1.0,0.0,0.0
+345,@ethereum,Fri Dec 15 09:16:54 +0000 2017,[SECURITY ALERT] Warning to users of Mist Browser -- https://t.co/DeUqHJvzDh,46,-0.34,0.789,0.211,0.0
+346,@ethereum,Fri Dec 15 05:16:42 +0000 2017,Come watch the Ethereum Core Developer Meeting #30 in 9 hours! Meeting is live streamed. https://t.co/yupyqgzPTG,47,0.0,1.0,0.0,0.0
+347,@ethereum,Fri Dec 01 13:57:12 +0000 2017,[LIVE] Ethereum Core Devs Meeting #29 [12/01/17] https://t.co/O5IGTHz987  #Ethereum #CoreDevsMeeting9,48,0.0,1.0,0.0,0.0
+348,@ethereum,Sun Nov 26 22:39:37 +0000 2017,#Devcon3 videos now available! See #Ethereum blog post for more info https://t.co/qEICWngmN2,49,0.0,1.0,0.0,0.0
+349,@ethereum,Fri Nov 17 22:28:09 +0000 2017,Notes from Ethereum Core Devs Meeting #28 [11/17/17] https://t.co/qgpgwfn4cf,50,0.0,1.0,0.0,0.0
+350,@ethereum,Fri Nov 17 13:59:51 +0000 2017,[LIVE] Ethereum Core Devs Meeting #28 [11/17/17]  https://t.co/OK0bkahmiR #Ethereum #CoreDevsMeeting,51,0.0,1.0,0.0,0.0
+351,@ethereum,Thu Nov 16 22:59:04 +0000 2017,Thanks to @mingchan88 for an amazing Devcon3! https://t.co/hvBG1bvnsO  #ethereum #devcon,52,0.7901,0.534,0.0,0.466
+352,@ethereum,Wed Nov 01 15:06:50 +0000 2017,"Live Stream of Devcon3: https://t.co/aChxRbQnfb
+#Ethereum #Devcon",53,0.0,1.0,0.0,0.0
+353,@ethereum,Sun Oct 29 02:22:11 +0000 2017,Devcon3 airport transfer: book group rate https://t.co/h1CYP13axs #Ethereum #Devcon,54,0.0,1.0,0.0,0.0
+354,@ethereum,Sun Oct 15 11:34:48 +0000 2017,[URGENT] Update your Ethereum clients! Less than 24 hours until the Byzantium hard fork. https://t.co/rlIHvUspjW,55,-0.1759,0.892,0.108,0.0
+355,@ethereum,Sat Oct 14 13:15:47 +0000 2017,[URGENT RELEASE] Update your geth clients to v1.7.2. Fixes a Byzantium EVM DoS vulnerability. Update ASAP! https://t.co/SyQdbuJ8Td,56,-0.2942,0.872,0.128,0.0
+356,@ethereum,Sat Oct 14 08:06:48 +0000 2017,[NEW RELEASE] Mist and Ethereum Wallet 0.9.2 with Electron security fix. Upgrading is highly recommended. https://t.co/RqoUvcmLXO,57,0.5413,0.757,0.0,0.243
+357,@ethereum,Thu Oct 12 05:39:55 +0000 2017,[Blog] Byzantium Hard Fork Announcement. Update your clients! https://t.co/rlIHvUspjW,58,-0.1759,0.825,0.175,0.0
+358,@ethereum,Tue Oct 10 05:08:04 +0000 2017,[Blog] #Ethereum Roundup #6: Byzantium https://t.co/n8TyQrKcuD,59,0.0,1.0,0.0,0.0
+359,@ethereum,Wed Oct 04 07:31:02 +0000 2017,RT @peter_szilagyi: Geth v1.7.1 (Ptolemy) out! Byzantium enabled on #Ethereum mainnet (17th) and Rinkeby testnet (9th). Please update! http…,60,0.4374,0.862,0.0,0.138
+360,@ethereum,Thu Sep 28 03:05:50 +0000 2017,"RT @evertonfraga: Important security fix in Mist v0.9.1, please update yours. Bonus track: Light Client Integration \o/ https://t.co/pz9wnC…",61,0.9042,0.496,0.0,0.504
+361,@ethereum,Wed Sep 27 02:07:50 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #25 [9/22/2017] Video and notes are up! #Ethereum #Byzantium https://t.co/USHcCrwjDK,62,0.0,1.0,0.0,0.0
+362,@ethereum,Tue Sep 26 15:11:57 +0000 2017,We’re pleased to announce @ethStatus as the exclusive Universal Sponsor of #Devcon3. https://t.co/ufZ6D8lKzv #Ethereum,63,0.5267,0.732,0.0,0.268
+363,@ethereum,Wed Sep 20 03:40:15 +0000 2017,[Breaking]: #Ethereum bug bounty reward temporarily doubled for vulnerabilities affecting consensus or Geth DoS!… https://t.co/z3L19uaUWZ,64,0.5255,0.699,0.086,0.215
+364,@ethereum,Wed Sep 20 03:38:12 +0000 2017,#Byzantium (Metropolis pt 1) hard fork went live on Ropsten testnet yesterday https://t.co/hUNWVg0ect https://t.co/krs9D7GqUE,65,-0.1027,0.903,0.097,0.0
+365,@ethereum,Thu Sep 14 14:43:33 +0000 2017,"[New Blog] Geth 1.7 - Megara: Faster, Slimmer, Byzantium enabled! 
+https://t.co/RndMHahdy0 https://t.co/rpnnAGFMza",66,0.0,1.0,0.0,0.0
+366,@ethereum,Mon Sep 11 13:44:39 +0000 2017,"RT @hudsonjameson: Ethereum's ERC-20 token standard has been formalized as an EIP! 🍾
+https://t.co/58TXuP88ih https://t.co/XJnySmg8C1",67,0.0,1.0,0.0,0.0
+367,@ethereum,Fri Sep 08 18:03:56 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #24 [9/8/2017] Video and notes are up! #Ethereum #Metropolis https://t.co/z9BtDvv9N0,68,0.0,1.0,0.0,0.0
+368,@ethereum,Wed Sep 06 20:50:00 +0000 2017,Such a meaningful sign #Ethereum has gained broad interest community dreamed of. See @indexaward's vid for our intro https://t.co/8ouWrxcNk3,69,0.7845,0.655,0.0,0.345
+369,@ethereum,Wed Aug 23 12:03:54 +0000 2017,[Blog] Ethereum Roundup #5: Technical Development Updates https://t.co/Fhbm6lYeAB,70,0.0,1.0,0.0,0.0
+370,@ethereum,Wed Aug 23 12:00:06 +0000 2017,"[New #Ethereum blog post]: ""Statement Objecting To #EME as a #W3C Recommendation"" https://t.co/XOhJAHKbKk",71,0.0,1.0,0.0,0.0
+371,@ethereum,Wed Jul 19 19:35:36 +0000 2017,[SECURITY ALERT] See Parity multi-sig wallet vulnerability post @ParityTech https://t.co/dyFSsEMqHV,72,-0.2263,0.826,0.174,0.0
+372,@ethereum,Tue Jul 11 03:43:24 +0000 2017,"July 10, 2017: #Devcon3 is now #soldout! Working to provide free live streaming. #Ethereum https://t.co/ceqyRSZ9zW",73,0.5562,0.796,0.0,0.204
+373,@ethereum,Sat Jul 08 00:03:33 +0000 2017,"[New #Ethereum blog post]: ""Roundup Q2"" https://t.co/HMxzvy00DJ",74,0.0,1.0,0.0,0.0
+374,@ethereum,Mon Jul 03 18:22:45 +0000 2017,"#Devcon3 extending advanced purchase pricing for passes - to July 10, subject to availability https://t.co/ceqyRSZ9zW #ethereum",75,0.25,0.875,0.0,0.125
+375,@ethereum,Thu Jun 29 23:51:55 +0000 2017,EthereumJS Team is Seeking Contributors. Help support the Ethereum ecosystem!  https://t.co/zWdMGrjXIy,76,0.69,0.613,0.0,0.387
+376,@ethereum,Fri Jun 16 16:00:38 +0000 2017,[Update] Metropolis QA/Testing Guide #metropolis #ethereum https://t.co/Y59XJOIRp4,77,0.0,1.0,0.0,0.0
+377,@ethereum,Fri Jun 02 23:21:04 +0000 2017,[Breaking]: Devcon3 registration is now open! https://t.co/ceqyRSZ9zW #ethereum #devcon,78,0.0,1.0,0.0,0.0
+378,@ethereum,Fri Jun 02 08:04:06 +0000 2017,Help Wanted: Metropolis QA/Testing. Exciting opportunity to support the Ethereum ecosystem! https://t.co/bV9GikK9aR,79,0.8932,0.406,0.0,0.594
+379,@ethereum,Thu Jun 01 19:03:09 +0000 2017,If anyone is having geth client nodes drop offline due to the mainnet attacks please update to Geth v1.6.5. https://t.co/1xDce0bWQq,80,-0.4939,0.645,0.262,0.093
+380,@ethereum,Wed May 31 20:28:27 +0000 2017,Recommendations to miners to change gas limit and gas price settings https://t.co/tZiqgnn2nV,81,0.0,1.0,0.0,0.0
+381,@ethereum,Mon May 29 02:45:52 +0000 2017,"[Developer Update] Ethereum Core Developers Meeting #16 [5/19/2017] Video is Up!
+https://t.co/ADDofRjLnE",82,0.0,1.0,0.0,0.0
+382,@ethereum,Fri May 26 18:17:58 +0000 2017,[New blog post]: #Ethereum R&amp;D Roundup: Round III https://t.co/whOSvuJiG3,83,0.0,1.0,0.0,0.0
+383,@ethereum,Fri May 26 18:13:57 +0000 2017,[Coming up-July 13-19]: #IC3 and #Ethereum Foundation join again for 2nd Crypto #Bootcamp at #Cornell. https://t.co/L3GOkMf9O0 @initc3org,84,0.296,0.879,0.0,0.121
+384,@ethereum,Thu Apr 27 21:25:36 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #14 [4/21/2017]: Notes &amp; Video https://t.co/ksM4luUSLj,85,0.0,1.0,0.0,0.0
+385,@ethereum,Wed Apr 12 08:03:13 +0000 2017,"[Developer Update] Ethereum Core Developers Meeting #13 [4/7/2017]: Notes &amp; Video
+https://t.co/QhQyB0R2lI",86,0.0,1.0,0.0,0.0
+386,@ethereum,Fri Mar 24 20:39:42 +0000 2017,Ropsten #testnet revived thanks to generous miners! https://t.co/lGzbOkHQOJ  #ethereum #dapp,87,0.7574,0.552,0.0,0.448
+387,@ethereum,Tue Mar 21 01:56:53 +0000 2017,New blog by Martin Becze: #Ethereum JavaScripting Ecosystem Updates! https://t.co/pBUxBkS5G3,88,0.0,1.0,0.0,0.0
+388,@ethereum,Mon Mar 20 06:12:52 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #12: Notes &amp; Video https://t.co/ONRVBzEfe5,89,0.0,1.0,0.0,0.0
+389,@ethereum,Wed Mar 15 22:22:17 +0000 2017,"[Breaking] 2017 dates for #Devcon3 in Cancun: November 1, 2, 3, 4. Save-the-date https://t.co/cLmTRSQet3 #ethereum",90,0.0,1.0,0.0,0.0
+390,@ethereum,Fri Feb 24 04:25:15 +0000 2017,"RT @ethchris: Talk: Introduction to Cryptoeconomics - @VitalikButerin, Ethereum Meetup Berlin: https://t.co/dNZtVbeZ73",91,0.0,1.0,0.0,0.0
+391,@ethereum,Fri Feb 24 01:17:06 +0000 2017,"Check out @hudsonjameson speaking on Ethereum's community, dev tools and roadmap https://t.co/qXunMhiicu #Metropolis #Ethereum",92,0.0,1.0,0.0,0.0
+392,@ethereum,Sun Feb 19 16:54:52 +0000 2017,"Join @alexberegszaszi and Martin Becze for ""WebAssembly: A Deep Dive into Ethereum's Future"" Feb. 22nd in Budapest!
+https://t.co/QVgPYe0eMU",93,0.3595,0.865,0.0,0.135
+393,@ethereum,Tue Feb 14 17:33:08 +0000 2017,Another #Devcon3 teaser: venue is Cancun; early November!  Save-the-date page coming next #ethereum,94,-0.3164,0.84,0.16,0.0
+394,@ethereum,Tue Feb 14 17:27:48 +0000 2017,[New blog post]: #Ethereum R&amp;D Roundup: Valentine’s Day Edition https://t.co/IiTyIQX4P5,95,0.0,1.0,0.0,0.0
+395,@ethereum,Fri Feb 10 12:00:38 +0000 2017,#Devcon3 planning underway - will be in the Americas this fall! Stay tuned! #ethereum,96,0.0,1.0,0.0,0.0
+396,@ethereum,Thu Feb 02 20:31:38 +0000 2017,EIP (Ethereum Improvement Proposal) system has received a major update! #progress #Ethereum https://t.co/XbgHfH3Ls8,97,0.5093,0.77,0.0,0.23
+397,@ethereum,Thu Jan 19 19:23:56 +0000 2017,New blog: An Update on Integrating @zcashco on Ethereum (ZoE) by @ethchris #ProjectAlchemy  #ZoE #zkSNARKS https://t.co/SvXlQaj2Eb,98,0.0,1.0,0.0,0.0
+398,@ethereum,Fri Jan 13 23:22:05 +0000 2017,RT @nicksdjohnson: We just deployed support for reverse name resolution to @ethereumproject’s Ropsten test net! https://t.co/WXEWNj52x5,99,0.4574,0.834,0.0,0.166
+399,@ethereum,Fri Jan 13 21:06:39 +0000 2017,RT @ethchris: #solidity version 0.4.8 released https://t.co/SddzMpIpkt featuring a faster optimizer!,100,0.4199,0.763,0.0,0.237
+400,0xProject,Tue Oct 09 19:24:36 +0000 2018,🚀 https://t.co/f24Gc1mAuT,1,0.0,1.0,0.0,0.0
+401,0xProject,Tue Oct 09 03:22:07 +0000 2018,Migration to v2.0 is almost complete! https://t.co/L3tRWGzRtw,2,0.0,1.0,0.0,0.0
+402,0xProject,Mon Oct 08 23:42:17 +0000 2018,Thanks to all the organizers and hackers who made ETHSF happen. We look forward to seeing future developments on 0x!,3,0.4926,0.856,0.0,0.144
+403,0xProject,Mon Oct 08 23:42:17 +0000 2018,"#2: Fungible NFTs, a project that creates tokens to represent shares in a non-fungible token and allow fractional o… https://t.co/jM9EB1RNsy",4,0.6369,0.708,0.0,0.292
+404,0xProject,Mon Oct 08 23:42:16 +0000 2018,"#1: Primotif, a project that combines @AugurProject and @dydxprotocol futures in a @SetProtocol bundle to create sy… https://t.co/gihjkaPEPJ",5,0.2732,0.877,0.0,0.123
+405,0xProject,Mon Oct 08 23:42:16 +0000 2018,We were so impressed by the number and quality of projects building on 0x at @ETHSanFrancisco! We have decided to a… https://t.co/g1aqxTMKcq,6,0.6791,0.782,0.0,0.218
+406,0xProject,Sun Oct 07 20:31:26 +0000 2018,"Hey 0x hackers @ETHSanFrancisco 👋. We’re judging 0x submissions until 3 PM at the 0x table. 
 
-1. South Africa
-2. Nigeria
-3. Ghana
-4. Netherlands
-5. Austria https://t.co/WPe2mn12oG",144,0.0,1.0,0.0,0.0
-144,@BTC,Thu May 31 13:54:08 +0000 2018,Going up? #Bitcoin seeks to break a critical resistance. #crypto $BTC https://t.co/dV1QIVPJ2G,145,-0.3182,0.813,0.187,0.0
-145,@BTC,Thu May 31 02:51:19 +0000 2018,FinTech Glossary: #Bitcoin $BTC https://t.co/N2X8RhUIru,146,0.0,1.0,0.0,0.0
-146,@BTC,Wed May 30 14:10:08 +0000 2018,RT @coindesk: 'Layer 2' Blockchain Tech Is an Even Bigger Deal Than You Think https://t.co/87IB7wt95W https://t.co/Fp49zFihy9,147,0.0,1.0,0.0,0.0
-147,@BTC,Wed May 30 10:56:48 +0000 2018,Bitcoin today will be bitcoin tomorrow,148,0.0,1.0,0.0,0.0
-148,@BTC,Wed May 30 10:45:48 +0000 2018,"When #bitcoin halves, you better hope you’re holding. #crypto $BTC https://t.co/gDwM5ZR8Vg",149,0.7003,0.608,0.0,0.392
-149,@BTC,Tue May 29 17:17:07 +0000 2018,"With many of the best crypto projects now opting for private fundraising rounds, how are you getting allocation in… https://t.co/Zcm3YBGAd7",150,0.6369,0.819,0.0,0.181
-150,@BTC,Mon May 28 12:18:39 +0000 2018,Bitcoin’s transaction fees are some of the lowest since 2011. The rapid tech developments are significantly improvi… https://t.co/N8d3nGpLlk,151,-0.3818,0.867,0.133,0.0
-151,@BTC,Mon May 28 12:14:54 +0000 2018,Let the #bitcoin rally begin. https://t.co/zXrti6AxSF,152,0.0,1.0,0.0,0.0
-152,@BTC,Sun May 27 15:40:37 +0000 2018,@lopp @Bitcoin Well said. #bitcoin,153,0.2732,0.656,0.0,0.344
-153,@BTC,Sun May 27 14:23:41 +0000 2018,Current costs of mining a #bitcoin https://t.co/D4limjqqTD,154,0.0,1.0,0.0,0.0
-154,@BTC,Sat May 26 15:38:56 +0000 2018,Bitcoin on the bullish side of things. https://t.co/JeAMu4GVWB,155,0.0,1.0,0.0,0.0
-155,@BTC,Thu May 24 13:18:48 +0000 2018,Smart lady you are @BarbaraCorcoran! #crypto #bitcoin https://t.co/g3OXFl4a81,156,0.4574,0.701,0.0,0.299
-156,@BTC,Wed May 23 17:43:36 +0000 2018,"Uncomfortable Truths:
+Feel free to swing by… https://t.co/e1TL2HX2T9",7,0.5106,0.858,0.0,0.142
+407,0xProject,Sat Oct 06 06:31:25 +0000 2018,"RT @ledgerdex: We are very excited to announce that LedgerDex has been upgraded to Version 2:
+https://t.co/9ufQFglodz",8,0.4005,0.856,0.0,0.144
+408,0xProject,Fri Oct 05 00:04:43 +0000 2018,"0x will be hosting a meetup in San Francisco on October 11th at 6pm to discuss the recent launch of v2.0, hear from… https://t.co/qcICKvTj1K",9,0.0,1.0,0.0,0.0
+409,0xProject,Thu Oct 04 16:53:08 +0000 2018,The emerging Security Token Tech Stack 🥞 https://t.co/3gyoMPdkhj,10,0.34,0.714,0.0,0.286
+410,0xProject,Wed Oct 03 18:01:12 +0000 2018,0x tracker is now tracking v2.0 trading activity 🎉 announces plans to open source for external contributions 🙌… https://t.co/nuhexsGKDm,11,0.0,1.0,0.0,0.0
+411,0xProject,Wed Oct 03 00:33:55 +0000 2018,"RT @rahulsingireddy: Relayer Report #11 Highlights:
+-Interview with a very cool gaming+blockchain project @GodsUnchained and how they're us…",12,0.3804,0.861,0.0,0.139
+412,0xProject,Wed Oct 03 00:11:43 +0000 2018,"RT @DharmaProtocol: DeFi Summit is in three days! Join the DeFi community for engaging discussions and workshops.
 
-1. Bitcoin has no inherent value
-— nor does USD
+Breakout sessions will b…",13,0.5983,0.795,0.0,0.205
+413,0xProject,Tue Oct 02 23:36:25 +0000 2018,We are excited to announce the addition of Jason Somensatto (⁦@jasonsomensatto⁩) as Strategic Legal Counsel! Jason… https://t.co/noY6jRXTxl,14,0.4926,0.782,0.0,0.218
+414,0xProject,Tue Oct 02 12:25:15 +0000 2018,"0x at SF Blockchain Week:
+🛠️ hackathon ideas for @ETHSanFrancisco 
+🎉 events + presentations with the 0x core team
+https://t.co/nKKBzArWgO",15,0.0,1.0,0.0,0.0
+415,0xProject,Thu Sep 27 16:34:38 +0000 2018,"Blockchain Governance
+https://t.co/pbTJJOtwzW",16,0.0,1.0,0.0,0.0
+416,0xProject,Thu Sep 27 16:30:17 +0000 2018,Radar Relay has migrated to 0x v2.0! 🚀 https://t.co/wa2jD2CM9t,17,0.0,1.0,0.0,0.0
+417,0xProject,Tue Sep 25 22:19:59 +0000 2018,"(2/2) Next, we are pleased to share that Rahul (@rahulsingireddy) - the wordsmith behind the Relayer Report - has j… https://t.co/kue69wy3NJ",18,0.6249,0.769,0.0,0.231
+418,0xProject,Tue Sep 25 22:19:59 +0000 2018,(1/2) We are thrilled to announce the addition of two new members of the 0x core team! Weijie has joined as a Resea… https://t.co/HhjEkEVPzR,19,0.4926,0.873,0.0,0.127
+419,0xProject,Tue Sep 25 20:06:41 +0000 2018,huge update from the @ERCdEX team! 🛠️ https://t.co/pXE7y6ps3a,20,0.3802,0.73,0.0,0.27
+420,0xProject,Tue Sep 25 18:59:34 +0000 2018,RT @sendwyre: Just going live w/ @0xProject 🚀 #wyretalks @aqxu @tomhschmidt - feel free to ask us any questions 👍 https://t.co/mNKM6w9ERk,21,0.5106,0.837,0.0,0.163
+421,0xProject,Tue Sep 25 18:46:58 +0000 2018,"Reddit AMA with the 0x core team! Feel free to post questions starting... now! 👩‍💻👨🏽‍💻
+https://t.co/E0mHzkhupR",22,0.5972,0.794,0.0,0.206
+422,0xProject,Tue Sep 25 18:33:43 +0000 2018,"August development updates - only 25 days late!
+🚀 v2.0 live on mainnet
+🛠️ docs + dev tools updated to v2.0
+🛠️ porta… https://t.co/amUBDMyirG",23,0.0,1.0,0.0,0.0
+423,0xProject,Mon Sep 24 21:23:36 +0000 2018,RT @sendwyre: 📡🎥📡#WyreTalks will be LIVE here tomorrow at 11:45am PDT with guests @aqxu and @tomhschmidt from @0xProject! We'll be answerin…,24,0.0,1.0,0.0,0.0
+424,0xProject,Mon Sep 24 18:00:14 +0000 2018,"0x leads the way for ‘tokenization’ of the world, and collectible game items are next @VentureBeat
+https://t.co/iHptIdGrAZ",25,0.0,1.0,0.0,0.0
+425,0xProject,Mon Sep 24 17:58:24 +0000 2018,"0x protocol v2.0 is live!
+https://t.co/ZNroZY31FM",26,0.0,1.0,0.0,0.0
+426,0xProject,Thu Sep 20 23:34:39 +0000 2018,RT @aqxu: Can't wait to announce our newest set of hires in the next couple weeks...the best part of my job is working with amazing people.…,27,0.8402,0.75,0.0,0.25
+427,0xProject,Thu Sep 20 23:20:24 +0000 2018,The largest Ethereum hackathon in the world is happening in SF on Oct 5-7. @ETHSanFrancisco is beginner friendly an… https://t.co/9gUDuHPp1D,28,0.4939,0.856,0.0,0.144
+428,0xProject,Wed Sep 19 22:26:47 +0000 2018,"RT @rahulsingireddy: New Relayer Report! 
 
-2. Bitcoin is used by criminals
-— So is USD… https://t.co/iy5Q5VDDyd",157,-0.5106,0.539,0.286,0.175
-157,@BTC,Wed May 23 13:14:05 +0000 2018,"A much needed perspective #bitcoin 
+Highlights:
+-@DavidSacks joins 0x as an advisor
+-v2 live with bug bounty 
+-@wheatpond on value c…",29,0.4003,0.881,0.0,0.119
+429,0xProject,Tue Sep 18 23:59:52 +0000 2018,We are excited to announce the addition of Gene to the 0x core team! Gene will be working on Developer Experience.… https://t.co/0ynIfHgT5x,30,0.4003,0.886,0.0,0.114
+430,0xProject,Tue Sep 18 16:30:19 +0000 2018,🚀 https://t.co/cdUU69hJKW,31,0.0,1.0,0.0,0.0
+431,0xProject,Fri Sep 14 09:50:23 +0000 2018,RT @abeaamase: Decided to open source the mobidex app: https://t.co/TjJ5B7yj54. #opensource #erc20 #cryptotrading,32,0.0,1.0,0.0,0.0
+432,0xProject,Wed Sep 12 12:20:20 +0000 2018,"Whether p2p, orderbook, auction, or automated market maker - what's important is that we create a tokenized world w… https://t.co/uYVNypoTY4",33,0.4404,0.804,0.0,0.196
+433,0xProject,Mon Sep 10 21:02:03 +0000 2018,"RT @willwarren89: There are going to be so many dollar-backed tokens and/or dollar-pegged stablecoins. 
 
-May 23, 2013 MC 1,475,270,000
-May 23, 2014 MC 7,399,880,000
-May 23, 2015 MC 3,… https://t.co/9dgZfafNrp",158,0.0,1.0,0.0,0.0
-158,@BTC,Wed May 23 12:54:30 +0000 2018,There’s always ups and downs in life https://t.co/0icUgPM8oJ,159,0.0,1.0,0.0,0.0
-159,@BTC,Tue May 22 16:48:53 +0000 2018,It’s also valuable and easy to use for people all around the world. #crypto #bitcoin https://t.co/83LhiHWzkr,160,0.7184,0.7,0.0,0.3
-160,@BTC,Mon May 21 18:08:10 +0000 2018,RT if you’re bullish on #Bitcoin https://t.co/GOUKxZlLLg,161,0.0,1.0,0.0,0.0
-161,@BTC,Mon May 21 12:44:33 +0000 2018,RT @APompliano: The data over last 5 years suggests that Bitcoin maximalist may not be as crazy as you thought. https://t.co/MNHD1shh7P,162,0.2584,0.903,0.0,0.097
-162,@BTC,Sat May 19 03:18:21 +0000 2018,"RT @cryptograffiti: Title: The Banks = The Rats
-Medium: Rat poison and acrylic on foam core
-Location: Berkshire Hathaway NYC office
+Can someone with a product backgro…",34,0.0,1.0,0.0,0.0
+434,0xProject,Mon Sep 10 18:59:15 +0000 2018,RT @aqxu: Tokenize die welt 🌍 @0xProject https://t.co/8TzmhEaRLE,35,-0.5994,0.606,0.394,0.0
+435,0xProject,Sun Sep 09 12:50:48 +0000 2018,The 0x team is thrilled to welcome @DavidSacks to our advisory board - to help guide us in our mission to create a… https://t.co/Z7YkyGia25,36,0.8658,0.64,0.0,0.36
+436,0xProject,Sun Sep 09 11:03:18 +0000 2018,At @ETHBerlin and interested in joining the 0x core team? Come talk to the team at our table in the courtyard (look for 0x tablecloth)! 👩‍💻,37,0.4574,0.893,0.0,0.107
+437,0xProject,Fri Sep 07 17:22:24 +0000 2018,"RT @b0xNet: bZx announces Mainnet Launch, releases ZK Labs security audit, and unveils upcoming Relay Integrations!
 
-#crypt…",163,-0.5423,0.851,0.149,0.0
-163,@BTC,Fri May 18 20:05:13 +0000 2018,"@DonnyCrypto I like where your heads at, Donny.",164,0.3612,0.706,0.0,0.294
-164,@BTC,Fri May 18 11:56:17 +0000 2018,@dhh Wrong.,165,-0.4767,0.244,0.756,0.0
-165,@BTC,Fri May 18 11:41:49 +0000 2018,"Hey Warren, I think you’re wrong. https://t.co/OzVFFxLX1l",166,-0.4767,0.617,0.383,0.0
-166,@BTC,Thu May 17 13:25:07 +0000 2018,#Bitcoin will rally again this year. https://t.co/jS7xo99rh3,167,0.0,1.0,0.0,0.0
-167,@BTC,Wed May 16 17:38:12 +0000 2018,Appreciate your support @Jack. This is great news for all of #crypto and #bitcoin. https://t.co/ctvKhZ4ggu,168,0.8591,0.558,0.0,0.442
-168,@BTC,Wed May 16 01:34:06 +0000 2018,@CNBCFastMoney @rogerkver Oh Roger... #Bitcoin,169,0.0,1.0,0.0,0.0
-169,@BTC,Wed May 16 01:31:59 +0000 2018,@CNBCFastMoney Stats don’t lie. #Bitcoin,170,0.0,1.0,0.0,0.0
-170,@BTC,Tue May 15 12:02:15 +0000 2018,The Hitchhiker’s Guide to #Bitcoin https://t.co/3TDa64gG8V,171,0.0,1.0,0.0,0.0
-171,@BTC,Mon May 14 18:46:57 +0000 2018,History tends to repeat itself #bitcoin https://t.co/fI4YOfoemi,172,0.0,1.0,0.0,0.0
-172,@BTC,Mon May 14 14:05:41 +0000 2018,That feeling when #Consensus2018 starts. #crypto #bitcoin https://t.co/hywOtjqrZD,173,0.128,0.824,0.0,0.176
-173,@BTC,Sun May 13 14:48:33 +0000 2018,Stay woke on $BTC #bitcoin #crypto https://t.co/vqFHjtdZvp,174,0.0,1.0,0.0,0.0
-174,@BTC,Sun May 13 08:26:22 +0000 2018,Couldn’t agree more. #Bitcoin https://t.co/1iDeAdo8Gw,175,0.3612,0.615,0.0,0.385
-175,@BTC,Sun May 13 03:05:05 +0000 2018,PSA: #Bitcoin https://t.co/INqMaIrNbn,176,0.0,1.0,0.0,0.0
-176,@BTC,Sat May 12 23:37:40 +0000 2018,#Bitcoin typically likes to turn extremely bullish post #Consensus2018. Let’s keep that trend going. https://t.co/XSXHkOVHDw,177,0.4215,0.833,0.0,0.167
-177,@BTC,Fri May 11 11:57:08 +0000 2018,Wondering why #bitcoin’s price is dropping right now? https://t.co/O5wyF3rNjf,178,0.0,1.0,0.0,0.0
-178,@BTC,Thu May 10 19:41:48 +0000 2018,You now will be able to access your bitcoin wallet directly from your phone. https://t.co/jjG9L5JrD2,179,0.0,1.0,0.0,0.0
-179,@BTC,Thu May 10 18:13:43 +0000 2018,"We are here to educate and inform those who are interested in learning about Satoshi’s true vision, Bitcoin.",180,0.7579,0.667,0.0,0.333
-180,@BTC,Thu May 10 18:09:23 +0000 2018,@alistairmilne @Bitcoin Done!,181,0.0,1.0,0.0,0.0
-181,@BTC,Thu May 10 15:48:47 +0000 2018,"Goldman Sachs - @GoldmanSachs 
-New York Stock - Exchange @NYSE 
-Bloomberg - @crypto 
-JP Morgan -@jpmorgan 
-NASDAQ -… https://t.co/XMgWB9nN5R",182,0.368,0.856,0.0,0.144
-182,@BTC,Thu May 10 03:16:30 +0000 2018,@iamjosephyoung The math has been done.,183,0.0,1.0,0.0,0.0
-183,@BTC,Thu May 10 03:16:12 +0000 2018,RT @iamjosephyoung: Offshore banking industry is said to be a $30 trillion market. Bitcoin is already being considered as a store of value…,184,0.0,1.0,0.0,0.0
-184,@BTC,Thu May 10 02:29:51 +0000 2018,Smart play on their part. #Bitcoin https://t.co/NVwtIiN0fZ,185,0.6249,0.495,0.0,0.505
-185,@BTC,Wed May 09 19:11:29 +0000 2018,#Bitcoin legality around the world https://t.co/n5K6HO30Ed,186,0.0,1.0,0.0,0.0
-186,@BTC,Wed May 09 11:56:34 +0000 2018,"“If you can’t beat them, join them.” https://t.co/aE9Ak7xHAn",187,0.296,0.761,0.0,0.239
-187,@BTC,Tue May 08 06:44:43 +0000 2018,What happens when there are no more #Bitcoin to mine? $BTC https://t.co/f6Qd20hpht,188,-0.296,0.833,0.167,0.0
-188,@BTC,Mon May 07 23:48:06 +0000 2018,Close-minded individuals will miss out on the greatest opportunity of their lives. https://t.co/Qf5D4qB2AH,189,0.7506,0.538,0.086,0.376
-189,@BTC,Sun May 06 16:28:26 +0000 2018,Bitcoin to $100k is just a matter of time. #crypto #bitcoin $BTC https://t.co/P3Z2t1tEot,190,0.0258,0.909,0.0,0.091
-190,@BTC,Sat May 05 15:08:03 +0000 2018,"$10,000 and beyond. #crypto https://t.co/P0S9c3rrwX",191,0.0,1.0,0.0,0.0
-191,@BTC,Sat May 05 03:01:42 +0000 2018,"$10,000 Bitcoin, here we come!",192,0.0,1.0,0.0,0.0
-192,@BTC,Fri May 04 12:24:15 +0000 2018,One of Bitcoin’s biggest investments is beginning to pay off. #crypto https://t.co/cceB50Cpm7,193,-0.1027,0.887,0.113,0.0
-193,@BTC,Thu May 03 23:31:29 +0000 2018,@CNBCFastMoney Yes?,194,0.4019,0.27,0.0,0.73
-194,@BTC,Thu May 03 23:31:24 +0000 2018,Yes? https://t.co/lXMUl4yW45,195,0.4019,0.27,0.0,0.73
-195,@BTC,Thu May 03 22:59:33 +0000 2018,@CharlieShrem True.,196,0.4215,0.263,0.0,0.737
-196,@BTC,Thu May 03 22:59:11 +0000 2018,"RT @CharlieShrem: May 2018 will be the last time we ever see #bitcoin under $10,000",197,0.0,1.0,0.0,0.0
-197,@BTC,Thu May 03 22:58:30 +0000 2018,"RT @parabolictrav: $BTC is a never ending logarithmic cup and handle party. (First ever.) It's the reason why memes like ""moon"" exist and k…",198,0.6369,0.802,0.0,0.198
-198,@BTC,Thu May 03 18:05:43 +0000 2018,"If Bitcoin can break $10,000 here, let the FOMO run begin.",199,0.0,1.0,0.0,0.0
-199,@BTC,Thu May 03 17:20:53 +0000 2018,Bitcoin’s beginning to turn bullish.,200,0.0,1.0,0.0,0.0
-200,@ethereum,Thu Sep 20 13:04:56 +0000 2018,RT @maurreth: Do not miss the chance to discuss about @ETHBerlin projects at our meetup tonight: https://t.co/Tlqdbxy8qh @C-base with @5chd…,1,-0.0762,0.85,0.082,0.068
-201,@ethereum,Mon Sep 17 21:30:09 +0000 2018,RT @0mkara: “Remix IDE v0.7.0 Released” by Yann Levreau https://t.co/zm5j2svwu3,2,0.0,1.0,0.0,0.0
-202,@ethereum,Fri Sep 14 13:55:24 +0000 2018,[LIVE] Ethereum Core Devs Meeting #46 [09/14/18] #ethereum https://t.co/kvnoF8tVnf,3,0.0,1.0,0.0,0.0
-203,@ethereum,Thu Sep 13 20:13:48 +0000 2018,[Blog] Solidity 0.4.25 bugfix release #ethereum #solidity https://t.co/jnbk6OdHk4,4,0.0,1.0,0.0,0.0
-204,@ethereum,Thu Sep 06 10:00:39 +0000 2018,"If you're in the San Francisco area Oct 5-7, consider volunteering at @ETHsanfrancisco! Great way to get involved i… https://t.co/0ETI0RtNkk",5,0.6588,0.812,0.0,0.188
-205,@ethereum,Fri Aug 31 13:55:22 +0000 2018,[LIVE] Ethereum Core Devs Constantinople Session #1 [08/31/18] https://t.co/Jm4v8mecmL,6,0.0,1.0,0.0,0.0
-206,@ethereum,Fri Aug 24 13:55:16 +0000 2018,[LIVE] Ethereum Core Devs Meeting #45 [08/23/18] #ethereum https://t.co/OLRe0Tg2ux,7,0.0,1.0,0.0,0.0
-207,@ethereum,Thu Aug 23 19:35:34 +0000 2018,Come build on top of Ethereum @ETHSanFrancisco Oct. 5-7! Find out more by visiting https://t.co/nukPaEmoAV.,8,0.2714,0.87,0.0,0.13
-208,@ethereum,Fri Aug 17 21:11:25 +0000 2018,[Blog] Ethereum Foundation Grants Update - Wave 3 #ethereum #grants https://t.co/9bcFBkOxjX https://t.co/hLNv6UMPbB,9,0.2263,0.826,0.0,0.174
-209,@ethereum,Fri Aug 10 13:55:37 +0000 2018,[LIVE] Ethereum Core Devs Meeting #44 [08/10/18] https://t.co/05nXTRsObh,10,0.0,1.0,0.0,0.0
-210,@ethereum,Mon Jul 30 23:39:18 +0000 2018,"[Blog] Devcon4 Call for Participation! Apply to be a speaker, workshop lead, or breakout room host https://t.co/Atq511ukmj",11,0.0,1.0,0.0,0.0
-211,@ethereum,Sun Jul 29 17:15:59 +0000 2018,"SCAM ALERT! ""Ethereum Funds Recovery for ETH Losers"" is an attempt to steal your private key and ether. Be safe out… https://t.co/nBaNRExuL7",12,-0.7574,0.498,0.332,0.171
-212,@ethereum,Fri Jul 27 19:58:07 +0000 2018,[Blog] Answers to your top 3 Devcon4 questions https://t.co/DxLJ512iCo,13,0.2023,0.795,0.0,0.205
-213,@ethereum,Fri Jul 27 13:55:32 +0000 2018,[LIVE] Ethereum Core Devs Meeting #43 [07/27/18]  https://t.co/R36DNXq6fP,14,0.0,1.0,0.0,0.0
-214,@ethereum,Fri Jul 20 01:54:22 +0000 2018,"Devcon4 applications for discounts, scholarships, and sponsorships close Tuesday July 24th! Visit… https://t.co/SeMKNHcghq",15,0.0,1.0,0.0,0.0
-215,@ethereum,Tue Jul 17 15:51:41 +0000 2018,[Blog] An Update on Devcon4 Ticket Allocations &amp; Sales https://t.co/wVo6AQaFcZ,16,0.0,1.0,0.0,0.0
-216,@ethereum,Fri Jul 13 13:56:37 +0000 2018,[LIVE] Ethereum Core Developer Meeting #42 [07/13/18] https://t.co/3voznB1L69,17,0.0,1.0,0.0,0.0
-217,@ethereum,Tue Jul 03 21:18:04 +0000 2018,Follow @EFDevcon for the latest &amp; greatest Devcon4 news!,18,0.6696,0.64,0.0,0.36
-218,@ethereum,Tue Jul 03 21:15:38 +0000 2018,Mark your calendars! Devcon4 tickets go on sale at 8AM PDT on July 9. Read about our Devcon4 ticketing process here… https://t.co/yonOoqSK0m,19,0.0,1.0,0.0,0.0
-219,@ethereum,Fri Jun 29 13:55:47 +0000 2018,[LIVE] Ethereum Core Developer Meeting #41 [06/29/18] https://t.co/CxqxC6pSYl,20,0.0,1.0,0.0,0.0
-220,@ethereum,Fri Jun 22 02:14:12 +0000 2018,[Blog] Announcing Swarm Proof-of-Concept Release 3 #swarm https://t.co/hrxZhgAHac https://t.co/OcMPSbHiCG,21,0.0,1.0,0.0,0.0
-221,@ethereum,Fri Jun 15 13:55:10 +0000 2018,[LIVE] Ethereum Core Developer Meeting #40 [06/15/18] https://t.co/iqucGaNi15  #ethereum #allcoredevs https://t.co/bDvhIpd2n4,22,0.0,1.0,0.0,0.0
-222,@ethereum,Fri Jun 15 02:00:57 +0000 2018,12 hours until the Ethereum Core Developer Meeting #40. Check out the agenda - https://t.co/n2M3pCuWoN,23,0.0,1.0,0.0,0.0
-223,@ethereum,Wed May 30 17:46:50 +0000 2018,ethereumJS client development has officially started! Learn how you can contribute: https://t.co/ipMf0CFpwS #ethereum #ethereumJS,24,0.0,1.0,0.0,0.0
-224,@ethereum,Fri May 18 14:00:11 +0000 2018,[LIVE] Ethereum Core Developer Meeting #38 [05/18/18] https://t.co/TQ7deO2Q90 #ethereum #allcoredevs https://t.co/VmJuxG0l5f,25,0.0,1.0,0.0,0.0
-225,@ethereum,Thu May 17 22:08:33 +0000 2018,16 hours until the Ethereum Core Devs Meeting #38. Excited to announce this will be live streamed via both YouTube… https://t.co/4C8LqyECCd,26,0.34,0.893,0.0,0.107
-226,@ethereum,Wed May 16 12:40:41 +0000 2018,RT @dannyryan: Just released Casper FFG v0.2.0 — Partial Slashing and Friends https://t.co/PrCLt9vegY,27,0.25,0.658,0.138,0.204
-227,@ethereum,Wed May 16 12:36:54 +0000 2018,"Remix IDE 0.6.3 Released!
-https://t.co/cm97F8ca14",28,0.0,1.0,0.0,0.0
-228,@ethereum,Fri May 11 14:42:27 +0000 2018,[Blog] Devcon4 Announcement. Join us in Prague Oct 30 - Nov 2! https://t.co/upwjnnyCGa #ethereum #devcon4,29,0.3595,0.839,0.0,0.161
-229,@ethereum,Wed May 02 19:32:13 +0000 2018,[BLOG] Announcing May 2018 Cohort of EF Grants #ethereum #buidl https://t.co/PeuSYTMPvr,30,0.2263,0.84,0.0,0.16
-230,@ethereum,Fri Apr 06 13:58:48 +0000 2018,[LIVE] Ethereum Core Developer Meeting #36 [04/06/18] https://t.co/NEfytsGM8K,31,0.0,1.0,0.0,0.0
-231,@ethereum,Fri Apr 06 02:33:50 +0000 2018,11.5 hours until Ethereum Core Developer Meeting #36! Lots of interesting agenda items. Tune in live! #ethereum https://t.co/bWTGqzh8DK,32,0.508,0.838,0.0,0.162
-232,@ethereum,Sun Apr 01 14:05:50 +0000 2018,[BLOG] Announcing World Trade Francs: The Official Ethereum Stablecoin #ethereum https://t.co/yEmEuC8ghK,33,0.0,1.0,0.0,0.0
-233,@ethereum,Fri Mar 23 13:54:15 +0000 2018,[LIVE] Ethereum Core Developer Meeting #35 [3/23/18] https://t.co/1sDC1v2d4a #Ethereum,34,0.0,1.0,0.0,0.0
-234,@ethereum,Fri Mar 23 06:01:08 +0000 2018,"Ethereum Core Developer Meeting in 8 Hours! #Ethereum #CoreDevMeeting
-https://t.co/CJI8uu8ddo",35,0.0,1.0,0.0,0.0
-235,@ethereum,Wed Feb 14 16:44:22 +0000 2018,"RT @peter_szilagyi: Geth v1.8.0: Iceberg is out! Go and light sync #Ethereum within a minute! ;) #golang https://t.co/FJrXCvkCT2
+https://t.co/FS3fNLnrh…",38,0.4003,0.856,0.0,0.144
+438,0xProject,Fri Sep 07 15:35:14 +0000 2018,"Brainstorming hackathon ideas for @ETHBerlin? We've got some 🔥 ideas for you! Check it out 👇
+https://t.co/a9yupZ0sn2",39,0.0,1.0,0.0,0.0
+439,0xProject,Fri Sep 07 10:16:22 +0000 2018,"ETHBerlin 👋 
 
-Btw, this…",36,0.3578,0.879,0.0,0.121
-236,@ethereum,Fri Feb 09 13:51:23 +0000 2018,[LIVE] Ethereum Core Devs Meeting #33 [2/9/18] https://t.co/2mXk5wPxvm #Ethereum,37,0.0,1.0,0.0,0.0
-237,@ethereum,Wed Jan 31 20:53:05 +0000 2018,[Blog] Farewell and Welcome https://t.co/cImDr8yWoq,38,0.4588,0.571,0.0,0.429
-238,@ethereum,Wed Jan 31 18:40:05 +0000 2018,[Blog] To Infinity and Beyond! https://t.co/OmwmnhGxtR,39,0.0,1.0,0.0,0.0
-239,@ethereum,Fri Jan 26 13:48:26 +0000 2018,[LIVE] Ethereum Core Devs Meeting #32 [1/26/18] https://t.co/yZcU4fXeNz #Ethereum,40,0.0,1.0,0.0,0.0
-240,@ethereum,Mon Jan 22 04:30:03 +0000 2018,[Developer Update] Ethereum Core Developers Meeting #31 [1/12/17] video and notes are up! Lots of EWASM news!… https://t.co/H2R8hAJsQ7,41,0.0,1.0,0.0,0.0
-241,@ethereum,Mon Dec 18 01:45:42 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #29 [12/01/17] &amp; #30 [12/15/17]  video and notes are up!… https://t.co/ePrgsrp9Ag,42,0.0,1.0,0.0,0.0
-242,@ethereum,Fri Dec 15 13:50:05 +0000 2017,[LIVE] Ethereum Core Devs Meeting #30 [12/15/17] https://t.co/sKGBGKjRKJ #Ethereum #CoreDevsMeeting30,43,0.0,1.0,0.0,0.0
-243,@ethereum,Fri Dec 15 09:16:54 +0000 2017,[SECURITY ALERT] Warning to users of Mist Browser -- https://t.co/DeUqHJvzDh,44,-0.34,0.789,0.211,0.0
-244,@ethereum,Fri Dec 15 05:16:42 +0000 2017,Come watch the Ethereum Core Developer Meeting #30 in 9 hours! Meeting is live streamed. https://t.co/yupyqgzPTG,45,0.0,1.0,0.0,0.0
-245,@ethereum,Fri Dec 01 13:57:12 +0000 2017,[LIVE] Ethereum Core Devs Meeting #29 [12/01/17] https://t.co/O5IGTHz987  #Ethereum #CoreDevsMeeting9,46,0.0,1.0,0.0,0.0
-246,@ethereum,Sun Nov 26 22:39:37 +0000 2017,#Devcon3 videos now available! See #Ethereum blog post for more info https://t.co/qEICWngmN2,47,0.0,1.0,0.0,0.0
-247,@ethereum,Fri Nov 17 22:28:09 +0000 2017,Notes from Ethereum Core Devs Meeting #28 [11/17/17] https://t.co/qgpgwfn4cf,48,0.0,1.0,0.0,0.0
-248,@ethereum,Fri Nov 17 13:59:51 +0000 2017,[LIVE] Ethereum Core Devs Meeting #28 [11/17/17]  https://t.co/OK0bkahmiR #Ethereum #CoreDevsMeeting,49,0.0,1.0,0.0,0.0
-249,@ethereum,Thu Nov 16 22:59:04 +0000 2017,Thanks to @mingchan88 for an amazing Devcon3! https://t.co/hvBG1bvnsO  #ethereum #devcon,50,0.7901,0.534,0.0,0.466
-250,@ethereum,Wed Nov 01 15:06:50 +0000 2017,"Live Stream of Devcon3: https://t.co/aChxRbQnfb
-#Ethereum #Devcon",51,0.0,1.0,0.0,0.0
-251,@ethereum,Sun Oct 29 02:22:11 +0000 2017,Devcon3 airport transfer: book group rate https://t.co/h1CYP13axs #Ethereum #Devcon,52,0.0,1.0,0.0,0.0
-252,@ethereum,Sun Oct 15 11:34:48 +0000 2017,[URGENT] Update your Ethereum clients! Less than 24 hours until the Byzantium hard fork. https://t.co/rlIHvUspjW,53,-0.1759,0.892,0.108,0.0
-253,@ethereum,Sat Oct 14 13:15:47 +0000 2017,[URGENT RELEASE] Update your geth clients to v1.7.2. Fixes a Byzantium EVM DoS vulnerability. Update ASAP! https://t.co/SyQdbuJ8Td,54,-0.2942,0.872,0.128,0.0
-254,@ethereum,Sat Oct 14 08:06:48 +0000 2017,[NEW RELEASE] Mist and Ethereum Wallet 0.9.2 with Electron security fix. Upgrading is highly recommended. https://t.co/RqoUvcmLXO,55,0.5413,0.757,0.0,0.243
-255,@ethereum,Thu Oct 12 05:39:55 +0000 2017,[Blog] Byzantium Hard Fork Announcement. Update your clients! https://t.co/rlIHvUspjW,56,-0.1759,0.825,0.175,0.0
-256,@ethereum,Tue Oct 10 05:08:04 +0000 2017,[Blog] #Ethereum Roundup #6: Byzantium https://t.co/n8TyQrKcuD,57,0.0,1.0,0.0,0.0
-257,@ethereum,Wed Oct 04 07:31:02 +0000 2017,RT @peter_szilagyi: Geth v1.7.1 (Ptolemy) out! Byzantium enabled on #Ethereum mainnet (17th) and Rinkeby testnet (9th). Please update! http…,58,0.4374,0.862,0.0,0.138
-258,@ethereum,Thu Sep 28 03:05:50 +0000 2017,"RT @evertonfraga: Important security fix in Mist v0.9.1, please update yours. Bonus track: Light Client Integration \o/ https://t.co/pz9wnC…",59,0.9042,0.496,0.0,0.504
-259,@ethereum,Wed Sep 27 02:07:50 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #25 [9/22/2017] Video and notes are up! #Ethereum #Byzantium https://t.co/USHcCrwjDK,60,0.0,1.0,0.0,0.0
-260,@ethereum,Tue Sep 26 15:11:57 +0000 2017,We’re pleased to announce @ethStatus as the exclusive Universal Sponsor of #Devcon3. https://t.co/ufZ6D8lKzv #Ethereum,61,0.5267,0.732,0.0,0.268
-261,@ethereum,Wed Sep 20 03:40:15 +0000 2017,[Breaking]: #Ethereum bug bounty reward temporarily doubled for vulnerabilities affecting consensus or Geth DoS!… https://t.co/z3L19uaUWZ,62,0.5255,0.699,0.086,0.215
-262,@ethereum,Wed Sep 20 03:38:12 +0000 2017,#Byzantium (Metropolis pt 1) hard fork went live on Ropsten testnet yesterday https://t.co/hUNWVg0ect https://t.co/krs9D7GqUE,63,-0.1027,0.903,0.097,0.0
-263,@ethereum,Thu Sep 14 14:43:33 +0000 2017,"[New Blog] Geth 1.7 - Megara: Faster, Slimmer, Byzantium enabled! 
-https://t.co/RndMHahdy0 https://t.co/rpnnAGFMza",64,0.0,1.0,0.0,0.0
-264,@ethereum,Mon Sep 11 13:44:39 +0000 2017,"RT @hudsonjameson: Ethereum's ERC-20 token standard has been formalized as an EIP! 🍾
-https://t.co/58TXuP88ih https://t.co/XJnySmg8C1",65,0.0,1.0,0.0,0.0
-265,@ethereum,Fri Sep 08 18:03:56 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #24 [9/8/2017] Video and notes are up! #Ethereum #Metropolis https://t.co/z9BtDvv9N0,66,0.0,1.0,0.0,0.0
-266,@ethereum,Wed Sep 06 20:50:00 +0000 2017,Such a meaningful sign #Ethereum has gained broad interest community dreamed of. See @indexaward's vid for our intro https://t.co/8ouWrxcNk3,67,0.7845,0.655,0.0,0.345
-267,@ethereum,Wed Aug 23 12:03:54 +0000 2017,[Blog] Ethereum Roundup #5: Technical Development Updates https://t.co/Fhbm6lYeAB,68,0.0,1.0,0.0,0.0
-268,@ethereum,Wed Aug 23 12:00:06 +0000 2017,"[New #Ethereum blog post]: ""Statement Objecting To #EME as a #W3C Recommendation"" https://t.co/XOhJAHKbKk",69,0.0,1.0,0.0,0.0
-269,@ethereum,Wed Jul 19 19:35:36 +0000 2017,[SECURITY ALERT] See Parity multi-sig wallet vulnerability post @ParityTech https://t.co/dyFSsEMqHV,70,-0.2263,0.826,0.174,0.0
-270,@ethereum,Tue Jul 11 03:43:24 +0000 2017,"July 10, 2017: #Devcon3 is now #soldout! Working to provide free live streaming. #Ethereum https://t.co/ceqyRSZ9zW",71,0.5562,0.796,0.0,0.204
-271,@ethereum,Sat Jul 08 00:03:33 +0000 2017,"[New #Ethereum blog post]: ""Roundup Q2"" https://t.co/HMxzvy00DJ",72,0.0,1.0,0.0,0.0
-272,@ethereum,Mon Jul 03 18:22:45 +0000 2017,"#Devcon3 extending advanced purchase pricing for passes - to July 10, subject to availability https://t.co/ceqyRSZ9zW #ethereum",73,0.25,0.875,0.0,0.125
-273,@ethereum,Thu Jun 29 23:51:55 +0000 2017,EthereumJS Team is Seeking Contributors. Help support the Ethereum ecosystem!  https://t.co/zWdMGrjXIy,74,0.69,0.613,0.0,0.387
-274,@ethereum,Fri Jun 16 16:00:38 +0000 2017,[Update] Metropolis QA/Testing Guide #metropolis #ethereum https://t.co/Y59XJOIRp4,75,0.0,1.0,0.0,0.0
-275,@ethereum,Fri Jun 02 23:21:04 +0000 2017,[Breaking]: Devcon3 registration is now open! https://t.co/ceqyRSZ9zW #ethereum #devcon,76,0.0,1.0,0.0,0.0
-276,@ethereum,Fri Jun 02 08:04:06 +0000 2017,Help Wanted: Metropolis QA/Testing. Exciting opportunity to support the Ethereum ecosystem! https://t.co/bV9GikK9aR,77,0.8932,0.406,0.0,0.594
-277,@ethereum,Thu Jun 01 19:03:09 +0000 2017,If anyone is having geth client nodes drop offline due to the mainnet attacks please update to Geth v1.6.5. https://t.co/1xDce0bWQq,78,-0.4939,0.645,0.262,0.093
-278,@ethereum,Wed May 31 20:28:27 +0000 2017,Recommendations to miners to change gas limit and gas price settings https://t.co/tZiqgnn2nV,79,0.0,1.0,0.0,0.0
-279,@ethereum,Mon May 29 02:45:52 +0000 2017,"[Developer Update] Ethereum Core Developers Meeting #16 [5/19/2017] Video is Up!
-https://t.co/ADDofRjLnE",80,0.0,1.0,0.0,0.0
-280,@ethereum,Fri May 26 18:17:58 +0000 2017,[New blog post]: #Ethereum R&amp;D Roundup: Round III https://t.co/whOSvuJiG3,81,0.0,1.0,0.0,0.0
-281,@ethereum,Fri May 26 18:13:57 +0000 2017,[Coming up-July 13-19]: #IC3 and #Ethereum Foundation join again for 2nd Crypto #Bootcamp at #Cornell. https://t.co/L3GOkMf9O0 @initc3org,82,0.296,0.879,0.0,0.121
-282,@ethereum,Thu Apr 27 21:25:36 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #14 [4/21/2017]: Notes &amp; Video https://t.co/ksM4luUSLj,83,0.0,1.0,0.0,0.0
-283,@ethereum,Wed Apr 12 08:03:13 +0000 2017,"[Developer Update] Ethereum Core Developers Meeting #13 [4/7/2017]: Notes &amp; Video
-https://t.co/QhQyB0R2lI",84,0.0,1.0,0.0,0.0
-284,@ethereum,Fri Mar 24 20:39:42 +0000 2017,Ropsten #testnet revived thanks to generous miners! https://t.co/lGzbOkHQOJ  #ethereum #dapp,85,0.7574,0.552,0.0,0.448
-285,@ethereum,Tue Mar 21 01:56:53 +0000 2017,New blog by Martin Becze: #Ethereum JavaScripting Ecosystem Updates! https://t.co/pBUxBkS5G3,86,0.0,1.0,0.0,0.0
-286,@ethereum,Mon Mar 20 06:12:52 +0000 2017,[Developer Update] Ethereum Core Developers Meeting #12: Notes &amp; Video https://t.co/ONRVBzEfe5,87,0.0,1.0,0.0,0.0
-287,@ethereum,Wed Mar 15 22:22:17 +0000 2017,"[Breaking] 2017 dates for #Devcon3 in Cancun: November 1, 2, 3, 4. Save-the-date https://t.co/cLmTRSQet3 #ethereum",88,0.0,1.0,0.0,0.0
-288,@ethereum,Fri Feb 24 04:25:15 +0000 2017,"RT @ethchris: Talk: Introduction to Cryptoeconomics - @VitalikButerin, Ethereum Meetup Berlin: https://t.co/dNZtVbeZ73",89,0.0,1.0,0.0,0.0
-289,@ethereum,Fri Feb 24 01:17:06 +0000 2017,"Check out @hudsonjameson speaking on Ethereum's community, dev tools and roadmap https://t.co/qXunMhiicu #Metropolis #Ethereum",90,0.0,1.0,0.0,0.0
-290,@ethereum,Sun Feb 19 16:54:52 +0000 2017,"Join @alexberegszaszi and Martin Becze for ""WebAssembly: A Deep Dive into Ethereum's Future"" Feb. 22nd in Budapest!
-https://t.co/QVgPYe0eMU",91,0.3595,0.865,0.0,0.135
-291,@ethereum,Tue Feb 14 17:33:08 +0000 2017,Another #Devcon3 teaser: venue is Cancun; early November!  Save-the-date page coming next #ethereum,92,-0.3164,0.84,0.16,0.0
-292,@ethereum,Tue Feb 14 17:27:48 +0000 2017,[New blog post]: #Ethereum R&amp;D Roundup: Valentine’s Day Edition https://t.co/IiTyIQX4P5,93,0.0,1.0,0.0,0.0
-293,@ethereum,Fri Feb 10 12:00:38 +0000 2017,#Devcon3 planning underway - will be in the Americas this fall! Stay tuned! #ethereum,94,0.0,1.0,0.0,0.0
-294,@ethereum,Thu Feb 02 20:31:38 +0000 2017,EIP (Ethereum Improvement Proposal) system has received a major update! #progress #Ethereum https://t.co/XbgHfH3Ls8,95,0.5093,0.77,0.0,0.23
-295,@ethereum,Thu Jan 19 19:23:56 +0000 2017,New blog: An Update on Integrating @zcashco on Ethereum (ZoE) by @ethchris #ProjectAlchemy  #ZoE #zkSNARKS https://t.co/SvXlQaj2Eb,96,0.0,1.0,0.0,0.0
-296,@ethereum,Fri Jan 13 23:22:05 +0000 2017,RT @nicksdjohnson: We just deployed support for reverse name resolution to @ethereumproject’s Ropsten test net! https://t.co/WXEWNj52x5,97,0.4574,0.834,0.0,0.166
-297,@ethereum,Fri Jan 13 21:06:39 +0000 2017,RT @ethchris: #solidity version 0.4.8 released https://t.co/SddzMpIpkt featuring a faster optimizer!,98,0.4199,0.763,0.0,0.237
-298,@ethereum,Fri Jan 13 08:29:47 +0000 2017,RT @avsa: Published a small library for creating high density seed words that we might use in Mist and the ENS registrar Dapp: https://t.co…,99,0.296,0.909,0.0,0.091
-299,@ethereum,Fri Jan 13 08:29:43 +0000 2017,RT @jeffehh: Released: #ethereum #golang Geth 1.5.6 - Peach https://t.co/9CkdIVSuGr,100,0.0,1.0,0.0,0.0
-300,@ethereum,Wed Jan 11 18:38:02 +0000 2017,"RT @ethchris: Next version of the Solidity optimizer features a 5x speedup https://t.co/UJ4s4CEuy0 (that's compilation speed, not the contr…",101,0.3612,0.872,0.0,0.128
-301,@ethereum,Sat Jan 07 16:13:22 +0000 2017,New blog: Introduction of the Light Client for DApp developers by @zsfelfoldi #ethereum #dapp #LES #ethlightclient https://t.co/sgjYwRUOPl,102,0.0,1.0,0.0,0.0
-302,@ethereum,Fri Jan 06 22:49:37 +0000 2017,"RT @coindesk: Join the @ethereumproject team for a CTO Briefing by @hudsonjameson followed by talks and workshops on #Casper, #Mist, &amp; more!",103,0.3595,0.889,0.0,0.111
-303,@ethereum,Fri Jan 06 18:33:16 +0000 2017,RT @pirapira: Ethereum Virtual Machine for interactive theorem provers (version 0.0.1) https://t.co/GinRpsdvFl,104,0.0,1.0,0.0,0.0
-304,@ethereum,Fri Jan 06 18:14:55 +0000 2017,RT @peter_szilagyi: For your weekend enjoyment ;) #Ethereum mobile devs guide: Account management on #Android (#Java) and #iOS (#Swift): ht…,105,0.6705,0.766,0.0,0.234
-305,@ethereum,Thu Jan 05 13:53:46 +0000 2017,RT @zsfelfoldi: #Ethereum Light Client team is hiring! Full time telework position for experienced Go programmer. Please send CVs to zsfelf…,106,0.3802,0.885,0.0,0.115
-306,@ethereum,Wed Dec 21 17:55:23 +0000 2016,"RT @zeligf: #swarm (ethereum foundation) s hiring 
-please RT https://t.co/DcO0YH484X",107,0.3182,0.777,0.0,0.223
-307,@ethereum,Mon Dec 19 20:33:46 +0000 2016,Security Alert: Ethereum forums database leak. See blog for details https://t.co/E14ObMfF4v,108,0.296,0.533,0.16,0.307
-308,@ethereum,Fri Dec 16 19:13:28 +0000 2016,"RT @feindura: We just released Mist 0.8.8! With an audit from @cure53berlin. 
+Come find the 0x team at our booth! We'll be hacking, mentoring, and sponsoring the hackathon. Take a… https://t.co/5BdnTrk3Io",40,0.0,1.0,0.0,0.0
+440,0xProject,Fri Sep 07 06:07:28 +0000 2018,RT @DavidSacks: Excited to join the advisory board of @0xProject - one of the most important projects in crypto - which is helping to build…,41,0.7841,0.681,0.0,0.319
+441,0xProject,Wed Sep 05 22:29:12 +0000 2018,"After many months of development and audits, 0x v2 is live (in beta) on the Ethereum blockchain! Now the bug bounty… https://t.co/dc9UCLRqWb",42,0.0,1.0,0.0,0.0
+442,0xProject,Wed Sep 05 14:58:16 +0000 2018,RT @veilmarket: Going to be in Berlin this weekend? We'd love your feedback on our alpha. @AugurProject + @0xProject + @veilmarket = 🌟🔥. ht…,43,0.6369,0.826,0.0,0.174
+443,0xProject,Fri Aug 31 16:21:20 +0000 2018,"RT @ddex_io: DDEX product updates：
+✔️Officially changed wrapped Ethereum (WETH) as ETH market's base token.
+✔️Improved order book's trade f…",44,0.0,1.0,0.0,0.0
+444,0xProject,Fri Aug 24 22:46:39 +0000 2018,"Plant wall: ✅
+Tokenized world where all value can flow freely: ⏳ https://t.co/bo7EuVzMCA",45,0.6486,0.629,0.0,0.371
+445,0xProject,Tue Aug 21 15:52:25 +0000 2018,Relayer Report #8 is out 📰 @rahulsingireddy returns from his trip with a variety of updates: https://t.co/ljzNyRjl8E,46,0.0,1.0,0.0,0.0
+446,0xProject,Mon Aug 20 23:55:03 +0000 2018,We are thrilled to announce the addition of Matt Taylor (@mattytay) to the 0x core team! He will be driving forward… https://t.co/IV17hOIMzf,47,0.4926,0.868,0.0,0.132
+447,0xProject,Mon Aug 20 01:46:34 +0000 2018,RT @ETHSanFrancisco: ETHSanFrancisco is live! Come to the City by the Bay Oct. 5-7 to #buidl the decentralized future! Hacker applications…,48,0.0,1.0,0.0,0.0
+448,0xProject,Sun Aug 19 21:12:26 +0000 2018,@YondonFu @Medium 🤫,49,0.0,1.0,0.0,0.0
+449,0xProject,Thu Aug 16 00:14:47 +0000 2018,Congrats to @TheOceanTrade on mainnet launch! 🚀 https://t.co/dG3CW1mKZy,50,0.5707,0.619,0.0,0.381
+450,0xProject,Wed Aug 15 03:42:42 +0000 2018,"RT @TheOceanTrade: Launch is tomorrow! Trade 11 tokens across our order books (with many more to come). 🎉
 
-Still be cautious to not nav to untrusted DApps!
+Thanks to @MakerDAO, @RequestNet…",51,0.5355,0.853,0.0,0.147
+451,0xProject,Tue Aug 14 19:13:50 +0000 2018,"July development updates:
+🛠️ New v2 dev tools + docs
+🔒 1st security audit completed
+💅 Launched 0x Portal
+🔍 Updated… https://t.co/nZsX7Uph2g",52,0.4404,0.804,0.0,0.196
+452,0xProject,Tue Aug 14 19:01:39 +0000 2018,"RT @ParadexIO: Toward a million markets, and how @ParadexIO is going to get there.
 
-https://t.…",109,-0.2462,0.914,0.086,0.0
-309,@ethereum,Thu Dec 15 05:41:35 +0000 2016,New blog from @zeligf: Swarm distributed storage platform alpha pilot and Swarm basics https://t.co/bXqqYI4FFk,110,0.0,1.0,0.0,0.0
-310,@ethereum,Wed Dec 14 20:45:21 +0000 2016,"RT @peter_szilagyi: Geth 1.5.5 ""Doesn't look like anything to me"" released! Lots of small fixes for small annoyances! #Ethereum #golang htt…",111,-0.6698,0.776,0.224,0.0
-311,@ethereum,Tue Dec 06 20:19:23 +0000 2016,RT @nicksdjohnson: I’m headed to Switzerland in January for the TR Labs “Hack The Valley” #Ethereum #Blockchain event. Come join me! https:…,112,0.3595,0.894,0.0,0.106
-312,@ethereum,Mon Dec 05 20:21:19 +0000 2016,New blog post from @ethchris: zkSNARKS in a nutshell https://t.co/emrnKgQDW9 #zkSNARKS #zero-knowledge #BlockchainPrivacy,113,0.0,1.0,0.0,0.0
-313,@ethereum,Sat Dec 03 07:31:43 +0000 2016,ATTENTION MINERS: Core devs recommend raising the gas limit to 4 mil. now that the recent hard forks have completed https://t.co/cjJRD1J7jH,114,0.2732,0.822,0.064,0.114
-314,@ethereum,Mon Nov 28 17:14:20 +0000 2016,"RT @peter_szilagyi: We've just released Geth 1.5.4 - Stat it! Minor fixes, tweaks and (opt in) builtin ethstats reporting! #Ethereum https:…",115,0.0,1.0,0.0,0.0
-315,@ethereum,Thu Nov 24 23:30:30 +0000 2016,New blog post on geth consensus bug. geth 1.5.3 released to address issues. https://t.co/cYfv1mufIR,116,0.0,1.0,0.0,0.0
-316,@ethereum,Thu Nov 24 16:44:46 +0000 2016,Security alert: Consensus issue found. Core devs are working to identify and fix the issue. https://t.co/Flg88eNacJ,117,0.5574,0.753,0.0,0.247
-317,@ethereum,Wed Nov 23 05:53:50 +0000 2016,ATTENTION MINERS: Please raise the gas limit/target gas floor to 3.3 million and resume accepting transactions https://t.co/MxqoDDRc0P,118,0.5994,0.754,0.0,0.246
-318,@ethereum,Tue Nov 22 14:28:11 +0000 2016,IMPORTANT: Update your Ethereum clients! Spurious Dragon hard fork happens in less than 2 hours. Download links at https://t.co/SqXofPa6FK,119,0.3453,0.791,0.069,0.14
-319,@ethereum,Mon Nov 21 22:08:01 +0000 2016,"RT @avsa: If you launch Mist now, it should auto-update to Geth 1.5.2. If you have it running, we suggest you restart the app before the fo…",120,0.0,1.0,0.0,0.0
-320,@ethereum,Sun Nov 20 21:18:51 +0000 2016,"""From Morden to Ropsten"": New blog post w/ details of Ethereum testnet reset. #RIPMorden #Ropsten #SpuriousDragon https://t.co/RJz4veZ8Z0",121,0.0,1.0,0.0,0.0
-321,@ethereum,Fri Nov 18 22:56:13 +0000 2016,"New blog post: ""Spurious Dragon"" hard fork in 4 days! Details and updated client links https://t.co/3wdTUM6G3V",122,-0.1759,0.892,0.108,0.0
-322,@ethereum,Fri Nov 18 15:45:15 +0000 2016,"RT @avsa: Mist is hiring. If you know a great js dev who is passionate about ethereum, please ask them to send their cv &amp; github to avsa@et…",123,0.8689,0.71,0.0,0.29
-323,@ethereum,Thu Nov 17 16:43:41 +0000 2016,"New blog post: ""Whoa... Geth 1.5"" w/ Swarm, light client, and more! https://t.co/Rl0p6WKl8c",124,0.0,1.0,0.0,0.0
-324,@ethereum,Tue Nov 15 16:40:38 +0000 2016,RT @jeffehh: #ethereum Geth 1.5.0 release https://t.co/Cl3sFPDTWi :-D,125,0.6166,0.634,0.0,0.366
-325,@ethereum,Tue Nov 15 15:22:43 +0000 2016,"Hard fork No 4: ""Spurious Dragon"" block number announced! Blog post to follow https://t.co/Xjmy4OiJo7",126,-0.6696,0.553,0.375,0.072
-326,@ethereum,Tue Nov 01 22:46:09 +0000 2016,"RT @ethchris: Result of 5h of checking code: 4 out of 12645 contracts exploitable by storage corruption bug, none critical. #solidity #ethe…",127,0.2411,0.911,0.0,0.089
-327,@ethereum,Tue Nov 01 22:45:59 +0000 2016,RT @ethchris: #Solidity Version 0.4.4 released fixing a critical bug https://t.co/dn8moal2lk Details: https://t.co/z8ojuvCtC9 #ethereum,128,-0.3182,0.839,0.161,0.0
-328,@ethereum,Tue Nov 01 06:45:33 +0000 2016,Security Alert: Solidity Storage Corruption https://t.co/PSfLpQHuHQ,129,0.5574,0.465,0.0,0.535
-329,@ethereum,Fri Oct 28 16:52:44 +0000 2016,Update on Imminent Hard Fork. Block number to be announced on Monday. https://t.co/BtqVeau1Me,130,-0.4588,0.641,0.276,0.083
-330,@ethereum,Wed Oct 26 03:56:56 +0000 2016,"@ChrJentzsch presents ""Smart Contract Security"" at Devcon2 #SmartContracts https://t.co/DQSowgEKmS",131,0.6249,0.579,0.0,0.421
-331,@ethereum,Wed Oct 26 03:49:13 +0000 2016,"@LefterisJP presents ""Sikorka – Ethereum Meets the Outdoors"" at Devcon2 #blockchainVR #sikorka https://t.co/0tqpjF1j9k",132,0.0,1.0,0.0,0.0
-332,@ethereum,Wed Oct 26 03:35:11 +0000 2016,"@HiroMarleyG presents ""A Lap Around Developing Cryptlets"" and Project Bletchley at Devcon2!  https://t.co/2ErqGlXL9D",133,0.0,1.0,0.0,0.0
-333,@ethereum,Sun Oct 23 05:39:44 +0000 2016,"Devcon2 vids! @zooko w/ Z-cash on Eth, Ethereum Ruby w/ @janxie, @virgilgr w/ Legalese, mobile/IoT w/ @BobSummerwill https://t.co/jh6XmJw056",134,0.0,1.0,0.0,0.0
-334,@ethereum,Wed Oct 19 14:01:52 +0000 2016,ATTENTION MINERS: Recommending miners lower the gas limit target to 2 million https://t.co/OU7XdvSYNx,135,-0.296,0.833,0.167,0.0
-335,@ethereum,Wed Oct 19 13:42:32 +0000 2016,Now playing: Devcon2 session from @VladZamfir about the proof-of-stake CASPER protocol #CASPER #PoS #Proof-of-Stake https://t.co/ZNxyTw04Pq,136,0.2023,0.886,0.0,0.114
-336,@ethereum,Tue Oct 18 14:16:53 +0000 2016,RT @jeffehh: Yay successful #ethereum hardfork.,137,0.802,0.357,0.0,0.643
-337,@ethereum,Mon Oct 17 23:03:41 +0000 2016,"New Blog Post! ""FAQ: Upcoming Ethereum Hard Fork"" #HardFork #Ethereum https://t.co/s9XksldHSq",138,-0.1759,0.855,0.145,0.0
-338,@ethereum,Mon Oct 17 19:00:21 +0000 2016,Hard fork in 18 hours. Please update your Ethereum clients. Download links here: https://t.co/w4K7YP3Pql,139,0.2263,0.764,0.089,0.146
-339,@ethereum,Mon Oct 17 05:06:39 +0000 2016,"Mist/Ethereum Wallet update (Beta 0.8.6 + Geth 1.4.18 ""Note 7"") https://t.co/XJpxqoqnwJ #ethereum",140,0.0,1.0,0.0,0.0
-340,@ethereum,Sat Oct 15 12:13:52 +0000 2016,"New Geth v1.4.18 ""Note 7"" release for EIP150 gas cost hard fork https://t.co/3ifJnAv2B1",141,-0.1027,0.896,0.104,0.0
-341,@ethereum,Fri Oct 14 20:09:49 +0000 2016,"#Ethereum HF postponed 6000 blocks, new target is block 2463000. https://t.co/cD3Io5I35E",142,-0.6808,0.548,0.452,0.0
-342,@ethereum,Fri Oct 14 06:20:23 +0000 2016,New Devcon videos! @VitalikButerin on the Mauve Revolution and @jcp on state channel security. #Ethereum #Devcon2 https://t.co/jh6XmJNAWE,143,0.4003,0.856,0.0,0.144
-343,@ethereum,Thu Oct 13 21:28:09 +0000 2016,Announcement of imminent hard fork for EIP150 gas cost changes:     https://t.co/cD3Io5I35E,144,-0.1027,0.877,0.123,0.0
-344,@ethereum,Tue Oct 11 07:00:17 +0000 2016,Ethereum Devcon2 slides released + Devcon2 videos update. #Ethereum #Devcon2 https://t.co/stnFzHGS55,145,0.0,1.0,0.0,0.0
-345,@ethereum,Tue Oct 11 05:29:55 +0000 2016,A new version of Geth has been released! Geth v1.4.17 - Poolaid . https://t.co/NzAihUWx3W,146,0.0,1.0,0.0,0.0
-346,@ethereum,Sat Oct 08 03:29:21 +0000 2016,Update: Today's Blockchain Update and Parity Fix https://t.co/aokQsy6lMB #Ethereum,147,0.0,1.0,0.0,0.0
-347,@ethereum,Thu Oct 06 15:52:16 +0000 2016,"New Geth release v1.4.16 ""Dear Diary"" to fix recent DoS attacks. https://t.co/EUModHjE0X #golang #Ethereum #DoS",148,-0.0772,0.703,0.157,0.141
-348,@ethereum,Tue Oct 04 22:07:47 +0000 2016,Go-ethereum developer @peter_szilagyi speaking at European Go Conference in Paris Oct 9-11! @dotGoEu @golang #golang https://t.co/VpIcWtEGfJ,149,0.0,1.0,0.0,0.0
-349,@ethereum,Mon Oct 03 09:44:31 +0000 2016,If you missed it: Weekend gift from the Geth team: #Ethereum #Android light client teaser library! https://t.co/HmUQWfrf4i #blockchain,150,-0.1511,0.67,0.201,0.13
-350,@ethereum,Mon Oct 03 09:17:08 +0000 2016,"RT @peter_szilagyi: Just released Geth 1.4.15 ""Come at me Bro"" to fix the latest and greatest DoS attacks! #golang #Ethereum #DoS https://t…",151,0.3802,0.73,0.106,0.164
-351,@ethereum,Mon Oct 03 09:16:04 +0000 2016,"New Geth release 1.4.15 ""Come at me Bro"" to fix the latest and greatest DoS attacks! https://t.co/bWvXL6hksq #golang #Ethereum #DoS",152,0.3802,0.709,0.114,0.177
-352,@ethereum,Wed Sep 28 13:35:59 +0000 2016,"New Geth release ""What else should we rewrite?"" - v1.4.14 pre-release addressing the latest DoS attacks https://t.co/ybY3nxnphx #blockchain",153,-0.4404,0.847,0.153,0.0
-353,@ethereum,Wed Sep 28 13:23:30 +0000 2016,"RT @peter_szilagyi: Geth 1.4.14 ""What else should we rewrite?"" (pre-release) just out, addressing the latest DoS attacks. #Ethereum https:/…",154,-0.4404,0.861,0.139,0.0
-354,@ethereum,Mon Sep 26 10:05:43 +0000 2016,New Geth release (Into the Woods - v1.4.13) addresses the current DoS attack and improves on last week's issues. https://t.co/uOLI44avo1,155,-0.0772,0.742,0.135,0.122
-355,@ethereum,Mon Sep 26 09:54:19 +0000 2016,"RT @peter_szilagyi: We've released Geth 1.4.13 ""Into the Woods"" to address the current DoS attack and improve on last week's issues. https:…",156,-0.0516,0.769,0.119,0.112
-356,@ethereum,Mon Sep 26 08:22:50 +0000 2016,Quick update: attacker has changed strategy; comprehensive release to fix all recent issues is coming soon! https://t.co/QXEiRcmvzx,157,-0.4574,0.715,0.19,0.095
-357,@ethereum,Sat Sep 24 15:32:25 +0000 2016,Quick update from the ground re: transaction spam mitigations :) https://t.co/3Gbk4zG78N #Ethereum #blockchain,158,0.128,0.667,0.152,0.182
-358,@ethereum,Sat Sep 24 12:34:07 +0000 2016,Calling all miners: please vote gas limit back up to 1.5 Million https://t.co/iP9eb1oRFO #ethereum #blockchain,159,0.3182,0.859,0.0,0.141
-359,@ethereum,Fri Sep 23 16:49:17 +0000 2016,"RT @VitalikButerin: ""The challenges that have faced Ethereum have battle-tested it"" - Brian Behlendorf, @Hyperledger",160,0.0772,0.909,0.0,0.091
-360,@ethereum,Thu Sep 22 19:50:26 +0000 2016,Transaction Spam Attack (Nuisance Attack) Update and Next Steps. https://t.co/iP9eb1oRFO,161,-0.6808,0.588,0.412,0.0
-361,@ethereum,Thu Sep 22 14:51:43 +0000 2016,URGENT: All miners please read. Ethereum network currently under attack. https://t.co/i8SLQwqDyc #blockchain,162,0.186,0.532,0.183,0.285
-362,@ethereum,Thu Sep 22 13:49:52 +0000 2016,We are aware of the current issues on the network and are working towards a resolution. #Ethereum #blockchain,163,0.0,1.0,0.0,0.0
-363,@ethereum,Thu Sep 22 10:32:12 +0000 2016,"Thank you to everyone who joined us at #Devcon2 :) 
+Today we’re adding:
+- $ANT
+- $AST
+- $BNB
+- $CVC
+- $DNT…",53,0.0,1.0,0.0,0.0
+453,0xProject,Tue Aug 14 19:01:16 +0000 2018,🔥🔥🔥 https://t.co/z9wfC8lo8x,54,0.0,1.0,0.0,0.0
+454,0xProject,Tue Aug 14 05:45:14 +0000 2018,"RT @ledgerdex: ""Centralized exchanges are just like TV Stations. Decentralized exchanges, when properly constructed, can function like YouT…",55,0.6124,0.762,0.0,0.238
+455,0xProject,Thu Aug 09 20:13:53 +0000 2018,We are thrilled to announce the addition of Clay Robbins (@crabbylions) to the 0x core team! Clay will be helping u… https://t.co/S8Oy2tON2M,56,0.6588,0.788,0.0,0.212
+456,0xProject,Thu Aug 09 01:46:22 +0000 2018,Our mission to create a tokenized world where all value can flow freely extends to all parts of the globe 🌏. We lea… https://t.co/7xwaKJNBmf,57,0.7845,0.681,0.0,0.319
+457,0xProject,Wed Aug 08 22:33:50 +0000 2018,"Congrats to @TheOceanTrade on mainnet launch! 🎉  Beautiful product, take a look! https://t.co/bm8JT1ceCf",58,0.8353,0.533,0.0,0.467
+458,0xProject,Wed Aug 08 18:23:39 +0000 2018,Getting up to speed on all things 0x can seem challenging if you’re new to the space. This blog post provides intro… https://t.co/eGN3009FDW,59,0.1531,0.932,0.0,0.068
+459,0xProject,Mon Aug 06 02:24:48 +0000 2018,Update: Meetup will begin at *7pm* instead of 6pm. See you all tonight!,60,0.0,1.0,0.0,0.0
+460,0xProject,Sat Aug 04 09:47:30 +0000 2018,"0x Meetup in Seoul on Monday, 8/6! 🇰🇷
 
-See you next year at Devcon3! #ethereum #blockchain #community… https://t.co/L7g2LShY7e",164,0.6996,0.757,0.0,0.243
-364,@ethereum,Wed Sep 21 00:17:56 +0000 2016,"RT @peter_szilagyi: My #Ethereum #devcon2 talk ""Import Geth: Ethereum from Go and beyond!"" :D https://t.co/e4enW8Lewc #golang #android #ios…",165,0.6514,0.797,0.0,0.203
-365,@ethereum,Tue Sep 20 10:37:26 +0000 2016,"Mist update live from Devcon2, with Geth security fixes (Beta 0.8.3 + Geth 1.4.12) https://t.co/F1tFaoufvw #ethereum",166,0.34,0.854,0.0,0.146
-366,@ethereum,Mon Sep 19 15:22:17 +0000 2016,Joseph Poon (@jcp) presenting State Channels: Systemic Security Considerations and Solutions at Ethereum's #Devcon2 https://t.co/URNq1Zgc2H,167,0.4767,0.76,0.0,0.24
-367,@ethereum,Mon Sep 19 15:20:37 +0000 2016,Ethereum's @VitalikButerin debuting the Ethereum 2.0 Mauve Paper at #Devcon2! #MauveRevolution https://t.co/DFrDTXlHJT,168,0.0,1.0,0.0,0.0
-368,@ethereum,Mon Sep 19 15:18:32 +0000 2016,Dr. Virgil Griffith and Vikram Verma showing off Legalese at Ethereum's #Devcon2 https://t.co/zKCtXKH1dY,169,0.0,1.0,0.0,0.0
-369,@ethereum,Mon Sep 19 15:16:22 +0000 2016,"Greg Meredith of @Synereo presenting ""Behavioral Types for Smart Contracts"" at #Devcon2 https://t.co/cGywNdxhYA",170,0.4019,0.816,0.0,0.184
-370,@ethereum,Mon Sep 19 15:14:12 +0000 2016,"Ethereum's @BobSummerwill covering ""Ethereum for Resource-Limited Devices"" at #Devcon2. https://t.co/bAaJiY5IIN",171,0.0,1.0,0.0,0.0
-371,@ethereum,Mon Sep 19 15:12:47 +0000 2016,.@zooko presenting Zcash + Project Alchemy Ethereum integration at #devcon2 https://t.co/g6dhPhOMPc,172,0.0,1.0,0.0,0.0
-372,@ethereum,Mon Sep 19 15:11:30 +0000 2016,.@janhxie showing Ethereum Ruby client + tools &amp; tests at #Devcon2 https://t.co/pPWIAJ7Vmf,173,0.0,1.0,0.0,0.0
-373,@ethereum,Mon Sep 19 15:11:14 +0000 2016,"Ethereum's @VladZamfir presenting ""A Correct-by-Construction Asynchronous Casper Protocol"" #Devcon2 #PoS https://t.co/MDxxwfP3Un",174,0.0,1.0,0.0,0.0
-374,@ethereum,Mon Sep 19 15:06:37 +0000 2016,"Ethereum's @VladZamfir presenting ""A Correct-by-Construction Asynchronous Casper Protocol"" #Devcon2 #PoS https://t.co/xqZju2lLaR",175,0.0,1.0,0.0,0.0
-375,@ethereum,Mon Sep 19 15:06:25 +0000 2016,Ethereum's Martin Becze and @alexberegszaszi  presenting Ethereum ❤️ WebAssembly: eWASM #Devcon2 #EVM https://t.co/4TObmfDswT,176,0.0,1.0,0.0,0.0
-376,@ethereum,Mon Sep 19 14:54:23 +0000 2016,@tj_saw presenting #Parity's launch at #Devcon2! #blockchain https://t.co/ufiG6VFS6x,177,0.0,1.0,0.0,0.0
-377,@ethereum,Mon Sep 19 14:54:13 +0000 2016,".@technocrypto presenting ""Statechannels on Ethereum"" #Devcon2 #offchain https://t.co/TNPSGKgU7N",178,0.0,1.0,0.0,0.0
-378,@ethereum,Mon Sep 19 14:50:39 +0000 2016,".@zeligf presenting ""Towards web3 Infrastructure"" #Devcon2 #Swarm #Ethereum https://t.co/5RUkfbf5wB",179,0.0,1.0,0.0,0.0
-379,@ethereum,Mon Sep 19 14:48:44 +0000 2016,"Catching up from earlier today: @ethchris  presenting ""Truebit: Trying to Fool a Blockchain"" #devcon2 #ethereum https://t.co/txU3cEplcm",180,-0.4404,0.828,0.172,0.0
-380,@ethereum,Mon Sep 19 06:53:22 +0000 2016,"Geth 1.4.12: From Shanghai With Love, hotfix for recent DoS issues. Please update! https://t.co/5IdDU1MTw7",181,0.7777,0.639,0.0,0.361
-381,@ethereum,Mon Sep 19 05:24:08 +0000 2016,Heiko Hees presenting on The Raiden Network at #devcon2 https://t.co/3apEYxYSRB,182,0.0,1.0,0.0,0.0
-382,@ethereum,Mon Sep 19 05:18:32 +0000 2016,"Dr. Greg Colvin presenting ""Making an EVM Inturpreter Scream"". #devcon2 #ethereum https://t.co/e7tD04oGe4",183,0.0,1.0,0.0,0.0
-383,@ethereum,Mon Sep 19 05:07:25 +0000 2016,"RT @peter_szilagyi: Geth 1.4.12 ""From Shanghai, with love"" x-builds for those of you who'd like a pre-built binary ;) #golang #Ethereum htt…",184,0.8225,0.677,0.0,0.323
-384,@ethereum,Mon Sep 19 05:06:49 +0000 2016,".@zeligf and @mathsguy presenting #Swarm: Swap, Swear and Swindle at #devcon2! #ethereum #blockchain https://t.co/BLjQ71WCgJ",185,-0.5983,0.71,0.29,0.0
-385,@ethereum,Mon Sep 19 03:36:20 +0000 2016,"Next up, @phildaian of @initc3org presenting on smart contract research #devcon2 https://t.co/XufIPB1JPo",186,0.4019,0.803,0.0,0.197
-386,@ethereum,Mon Sep 19 03:05:10 +0000 2016,"Dr. Greg Colvin moderating a panel on ""Evolving the EVM"" + @ethchris, @alexberegszaszi, Martin Becze + Paweł Bylica https://t.co/nNq1VBQayU",187,0.0,1.0,0.0,0.0
-387,@ethereum,Mon Sep 19 02:46:02 +0000 2016,"Now we have @VitalikButerin presenting ""Ethereum in 25 minutes"" #devcon2 #blockchain https://t.co/elH7X4xHmO",188,0.0,1.0,0.0,0.0
-388,@ethereum,Mon Sep 19 02:40:50 +0000 2016,Next up we have @valkenburgh of @coincenter presenting on regulatory considerations and the #blockchain #Devcon2 https://t.co/SahxM5iOaJ,189,0.0,1.0,0.0,0.0
-389,@ethereum,Mon Sep 19 02:36:03 +0000 2016,Devcon2 has begun! Starting the day with introductions from the Ethereum Team Leads #blockchain #2016 https://t.co/ZwJ0qqqiSW,190,0.0,1.0,0.0,0.0
-390,@ethereum,Sun Sep 18 21:31:18 +0000 2016,Security alert – All geth nodes crash due to an out of memory bug https://t.co/LQpkhDy6bz,191,0.2263,0.601,0.148,0.251
-391,@ethereum,Sat Sep 17 05:22:48 +0000 2016,"Just 2 days to go before Devcon2, who's excited!!! #Ethereum #Devcon2 #Blockchain #research #development #education",192,0.5067,0.799,0.0,0.201
-392,@ethereum,Wed Sep 14 11:52:23 +0000 2016,"RT @ethchris: async await in #solidity contracts, wait for next call and continue where you left off @ethereumproject #ethereum https://t.c…",193,0.1027,0.931,0.0,0.069
-393,@ethereum,Wed Sep 14 11:26:50 +0000 2016,Ethereum's @ethchris - Async await in Solidity Contracts https://t.co/HR4w6XCpj7 #blockchain #dev,194,0.1027,0.865,0.0,0.135
-394,@ethereum,Wed Sep 14 11:00:51 +0000 2016,RT @pirapira: The Bamboo parser can now parse this file https://t.co/pgzHiEGRh2 #ethereum,195,0.0,1.0,0.0,0.0
-395,@ethereum,Tue Sep 13 15:25:26 +0000 2016,"RT @TaylorGerring: Ethereum Devcon2 is next week
+Join us to learn more about 0x and how you could contribute to the future of… https://t.co/BfE2AfGYHg",61,0.3595,0.906,0.0,0.094
+461,0xProject,Fri Aug 03 14:24:00 +0000 2018,"The 0x ecosystem is moving fast! Check out updates from relayers about tech upgrades, new language and token suppor… https://t.co/4uk0G62Xig",62,0.0,1.0,0.0,0.0
+462,0xProject,Thu Aug 02 23:57:23 +0000 2018,RT @TechCrunch: Decentralized exchange Radar Relay raises $10 million https://t.co/oHZcV1nHq9 by @romaindillet,63,0.0,1.0,0.0,0.0
+463,0xProject,Wed Aug 01 16:47:31 +0000 2018,Congrats to the @RadarRelay team for closing their Series A 🙌 https://t.co/EQn7Hnv4qC,64,0.5267,0.726,0.0,0.274
+464,0xProject,Tue Jul 31 08:07:58 +0000 2018,"Incredible creativity and energy from all the hackers @nifty_hacks! 
 
-#getexcited",196,0.0,1.0,0.0,0.0
-396,@ethereum,Mon Sep 12 10:41:11 +0000 2016,RT @mingchan88: In Shanghai now to help ensure all systems are go for #Devcon2! Such eager very developer much excite #Ethereum https://t.c…,197,0.8874,0.611,0.0,0.389
-397,@ethereum,Sun Sep 11 14:34:47 +0000 2016,RT @pirapira: Jaculus: an embryonic thought on a smart contract language https://t.co/4O43Un2uJp,198,0.4019,0.787,0.0,0.213
-398,@ethereum,Sun Sep 11 13:13:52 +0000 2016,"RT @GeorgeAHallam: .@JackGavigan of @zcashco presenting on ""Blockchain Security &amp; Privacy"" at the @thomsonreuters Ethereum #hackETHon! http…",199,0.4003,0.856,0.0,0.144
-399,@ethereum,Sat Sep 10 16:42:25 +0000 2016,RT @GeorgeAHallam: Ethereum's @peter_szilagyi presenting on smart contract security at @thomsonreuters /Ethereum #HackETHthon https://t.co/…,200,0.6249,0.702,0.0,0.298
-400,@Ripple,Fri Sep 21 22:49:21 +0000 2018,“Ripple works with governments and regulators around the world to help them better understand the problems we solve… https://t.co/kLOIr4n6wx,1,0.4404,0.658,0.111,0.23
-401,@Ripple,Fri Sep 21 19:52:21 +0000 2018,"The certainty, speed, and savings RippleNet provides is helping bring the world one step closer to the… https://t.co/QsKSfVPfyx",2,0.4939,0.792,0.0,0.208
-402,@Ripple,Thu Sep 20 18:10:05 +0000 2018,RT @ashgoblue: I just launched #BUIDL a product focused monthly newsletter to look at the most interesting projects built on a #blockchain.…,3,0.7264,0.693,0.0,0.307
-403,@Ripple,Wed Sep 19 14:21:08 +0000 2018,.@PNCBank has joined the 100+ financial institutions on RippleNet. It’s one of the first major U.S. banks to use… https://t.co/8vcULp739Q,4,0.0,1.0,0.0,0.0
-404,@Ripple,Wed Sep 19 14:20:28 +0000 2018,"RT @marcus_treacher: RippleNet is now live across 40 countries and 6 continents. We’re making faster, cheaper and more transparent payments…",5,0.0,1.0,0.0,0.0
-405,@Ripple,Tue Sep 18 18:53:45 +0000 2018,RT @NoorAlAli: Had a great @BloombergLive #inventingthefuture panel on smart contracts and how regulation may impact technology development…,6,0.7783,0.688,0.0,0.312
-406,@Ripple,Mon Sep 17 23:00:58 +0000 2018,"RT @ARobinWood: #Crypto space has a peanut butter problem, companies are spreading themselves to thin and New York isn’t going away bc of #…",7,-0.4019,0.891,0.109,0.0
-407,@Ripple,Mon Sep 17 19:01:08 +0000 2018,Every Rippler’s story is unique. Watch #HowIGotHere. https://t.co/b8oJ2r08vj,8,0.0,1.0,0.0,0.0
-408,@Ripple,Fri Sep 14 16:28:15 +0000 2018,"“Most of the industry still moves money like it’s 1973. Ripple allows banks, payment providers and remittance compa… https://t.co/J8iADR4yqJ",9,0.3612,0.878,0.0,0.122
-409,@Ripple,Fri Sep 14 04:30:05 +0000 2018,National Commercial Bank @AlAhliNCB joins RippleNet to offer its 5.5M customers faster and more transparent remitta… https://t.co/mpU3WdHtXi,10,0.0,1.0,0.0,0.0
-410,@Ripple,Thu Sep 13 21:03:50 +0000 2018,Learn from and connect with our customers at #SwellbyRipple https://t.co/iPt8hN5XqE https://t.co/8e6H3I1WIm,11,0.0,1.0,0.0,0.0
-411,@Ripple,Wed Sep 12 22:38:49 +0000 2018,“I think what we’re seeing now is that there is recognition that #blockchain and digital assets will play a key rol… https://t.co/8qleQhk7X7,12,0.4767,0.823,0.0,0.177
-412,@Ripple,Wed Sep 12 20:50:25 +0000 2018,Instant remittances can change lives. Read how SBI Remit and Siam Commercial Bank make this happen for Thai workers… https://t.co/qkoQxaIeUd,13,0.0,1.0,0.0,0.0
-413,@Ripple,Wed Sep 12 16:07:25 +0000 2018,"""It's early days in #blockchain. Some uses-cases for digital assets are going to turn out to be quite imaginary. In… https://t.co/yDZIzqH8FD",14,0.1779,0.922,0.0,0.078
-414,@Ripple,Tue Sep 11 20:04:44 +0000 2018,Calling all developers! The Ripple dev team working with external contributors just released ripple-lib 1.0 an open… https://t.co/K8imFnqakN,15,0.0,1.0,0.0,0.0
-415,@Ripple,Mon Sep 10 18:47:13 +0000 2018,Missed @Forbes’ profile of @JoelKatz? Read how our brilliant CTO helped forge the technology that is changing how m… https://t.co/YGB3s8L5to,16,0.3818,0.75,0.092,0.158
-416,@Ripple,Fri Sep 07 17:26:19 +0000 2018,.@CountingCrows will rock out at #SwellbyRipple! Read more about the event: https://t.co/OmDVw60V4D https://t.co/LFXyHLQE11,17,0.0,1.0,0.0,0.0
-417,@Ripple,Thu Sep 06 22:55:08 +0000 2018,“We’re thrilled to partner with BeeTech. Ripple supports them with payments infrastructure that enables them to rol… https://t.co/d4kiqiNPAw,18,0.6597,0.748,0.0,0.252
-418,@Ripple,Thu Sep 06 14:29:42 +0000 2018,We’re honored to be named one of the #LinkedInTopStartUps. Congratulations to our team worldwide for the dedication… https://t.co/DtGgm4DPhm,19,0.8271,0.675,0.0,0.325
-419,@Ripple,Wed Sep 05 22:49:10 +0000 2018,"“You're going to see a separation between projects that are purely speculative, and those that solve a real problem… https://t.co/dduGo6qXi2",20,0.3597,0.821,0.0,0.179
-420,@Ripple,Wed Sep 05 19:21:03 +0000 2018,"RT @bgarlinghouse: A well-deserved spotlight on our very own @JoelKatz - he is one of the most brilliant people I’ve ever met. I mean, he l…",21,0.624,0.843,0.0,0.157
-421,@Ripple,Wed Sep 05 17:56:03 +0000 2018,Congratulations @MonicaLongSF for being honored by @HSBC_US! https://t.co/MhjK4wbQuB,22,0.8398,0.429,0.0,0.571
-422,@Ripple,Tue Sep 04 19:00:19 +0000 2018,"Don’t miss @bgarlinghouse onstage tomorrow with @arrington at 3:10pm PT for @techcrunch’s #TCdisrupt. 
-https://t.co/8p4iODvSOj",23,-0.1531,0.89,0.11,0.0
-423,@Ripple,Fri Aug 31 22:13:33 +0000 2018,Missed last week's @bgarlinghouse AMA with @CoryTV? Check out the full interview here: https://t.co/FkDDALkNys,24,-0.296,0.855,0.145,0.0
-424,@Ripple,Thu Aug 30 20:34:11 +0000 2018,"With RippleNet, SMEs have a unique competitive advantage: faster, more transparent global payments. At a time when… https://t.co/hcm9YDeMJF",25,0.4019,0.791,0.0,0.209
-425,@Ripple,Thu Aug 30 19:26:05 +0000 2018,Watch @chrislarsensf speak to @Forbes about why the #InternetofValue is central to completing globalization to make… https://t.co/RYFFhsKqVv,26,0.0,1.0,0.0,0.0
-426,@Ripple,Wed Aug 29 22:28:06 +0000 2018,"""I love how enthusiastic people are about blockchain, but I don’t necessarily think it will solve all the world’s p… https://t.co/3tirn49tZg",27,0.7096,0.711,0.0,0.289
-427,@Ripple,Tue Aug 28 15:51:35 +0000 2018,XRP Ledger only gets more and more decentralized over time: https://t.co/tSQLb0EPkU https://t.co/23WB4P52rc,28,0.0,1.0,0.0,0.0
-428,@Ripple,Mon Aug 27 19:13:39 +0000 2018,"Missed @joelkatz’s AMA with @TheNextWeb? Read the highlights here, including why David thinks different #blockchain… https://t.co/ti5WOmU8OA",29,-0.296,0.872,0.128,0.0
-429,@Ripple,Fri Aug 24 22:45:08 +0000 2018,RT @money2020: In Vegas @TheRealCoreVC's @ArjanSchutte will lead a candid keynote conversation with @Ripple’s @chrislarsensf about the jour…,30,0.0,1.0,0.0,0.0
-430,@Ripple,Fri Aug 24 16:38:04 +0000 2018,Support @joelkatz’s panel for #SXSW2019! Cast your vote by Aug. 30 to see him and @IChartNY talk candidly about… https://t.co/eTCYowmxKd,31,0.4574,0.864,0.0,0.136
-431,@Ripple,Thu Aug 23 21:06:31 +0000 2018,ICYMI: @joelkatz’s analysis of decentralization across networks: https://t.co/JOWNcczaMa https://t.co/kjrXxgyxyW,32,0.0,1.0,0.0,0.0
-432,@Ripple,Wed Aug 22 22:00:11 +0000 2018,The AMA is here! @bgarlinghouse’s interview with @CoryTV is about to start: https://t.co/SMND4XOn8q,33,0.0,1.0,0.0,0.0
-433,@Ripple,Wed Aug 22 17:22:13 +0000 2018,RT @JoelKatz: I just published a post on the inherent decentralization of the XRP Ledger — a passion of mine. https://t.co/JAGsAsh5R3,34,0.4588,0.842,0.0,0.158
-434,@Ripple,Tue Aug 21 20:40:49 +0000 2018,Tomorrow at 3pm PT @bgarlinghouse sits down with @corytv to answer your questions. Tune in live at… https://t.co/wbvIcTZecj,35,0.0,1.0,0.0,0.0
-435,@Ripple,Tue Aug 21 00:03:47 +0000 2018,"Check out Episode 4 of The Ripple Drop! @CoryTV on #XRP markets, @Marcosf0401 on xRapid partners, and @wsculley on… https://t.co/AiFl2Nepi4",36,-0.3382,0.883,0.117,0.0
-436,@Ripple,Fri Aug 17 19:00:38 +0000 2018,Next Wednesday at 3pm (PST) @bgarlinghouse will sit down for a livestream AMA moderated by @CoryTV. Got questions f… https://t.co/nN9A9KbYLL,37,0.0,1.0,0.0,0.0
-437,@Ripple,Thu Aug 16 14:16:02 +0000 2018,"RT @CoryTV: Dig this: As of right now @BittrexExchange, @Bitso and @coinsph are now official partners for xRapid transactions using #XRP. W…",38,0.0,1.0,0.0,0.0
-438,@Ripple,Wed Aug 15 19:19:20 +0000 2018,Check out the latest speakers joining the #SwellbyRipple program: https://t.co/j8dC5KH4gV,39,0.0,1.0,0.0,0.0
-439,@Ripple,Wed Aug 15 19:18:29 +0000 2018,"The most provocative dialogue on global payments, #blockchain and digital assets is less than two months away.… https://t.co/BEWGuJ6rz1",40,0.1779,0.909,0.0,0.091
-440,@Ripple,Wed Aug 15 17:52:19 +0000 2018,"RT @CatoCMFA: The @CatoInstitute Summit on Financial Regulation in San Francisco will feature Gerry Tsai of the @sffed, @CremeDeLaCrypto of…",41,0.0,1.0,0.0,0.0
-441,@Ripple,Wed Aug 15 00:01:37 +0000 2018,RT @CoryTV: If he’s Emmanuel Goldstein does that make me Big Brother? Fun debating Nobel Laureate @PaulKrugman on the usefulness of blockch…,42,0.6705,0.784,0.0,0.216
-442,@Ripple,Mon Aug 13 19:06:53 +0000 2018,"Help @JoelKatz be a speaker at #SXSW2019! Vote for his panel for next year’s event here:
-https://t.co/lcrEEPgIaF",43,0.4574,0.834,0.0,0.166
-443,@Ripple,Sat Aug 11 00:35:47 +0000 2018,Show your support for @raisingmalawi and help transform futures. https://t.co/HXoNb8xgms https://t.co/n1H3eO3u0x,44,0.6597,0.625,0.0,0.375
-444,@Ripple,Fri Aug 10 00:57:05 +0000 2018,“We’re working with early adopters like Cuallix to bring the cost of remittances from the U.S. to Mexico down. The… https://t.co/1McrnPo3MT,45,0.3612,0.889,0.0,0.111
-445,@Ripple,Wed Aug 08 23:45:11 +0000 2018,"The Women at Ripple had a big turn out at #ThatLadyThing in San Francisco this week representing our engineering, m… https://t.co/WyoZCMX9d1",46,0.0,1.0,0.0,0.0
-446,@Ripple,Wed Aug 08 20:04:21 +0000 2018,"RT @JoelKatz: Want to see me discuss blockchain beyond the hype? It's SXSW panel picker time, and your vote can make it happen. Check it ou…",47,0.0772,0.951,0.0,0.049
-447,@Ripple,Tue Aug 07 20:13:18 +0000 2018,RT @respbus: Interim Dean and the Director of the @BerkeleyHaas Institute for Business and Social Impact  @LauraDTyson  speaking now w/ @Mo…,48,0.0,1.0,0.0,0.0
-448,@Ripple,Tue Aug 07 00:40:05 +0000 2018,"For Episode 3 of The Ripple Drop, we dive into the Swell program, take a sneak peek at our NYC Office and debrief w… https://t.co/LTgDDJr7JJ",49,-0.2732,0.913,0.087,0.0
-449,@Ripple,Mon Aug 06 17:02:38 +0000 2018,"""Ripple is 100% focused on the payments use case because all blockchain use cases ultimately stem from payments, an… https://t.co/NsjK46jcDA",50,0.3818,0.88,0.0,0.12
-450,@Ripple,Fri Aug 03 17:24:59 +0000 2018,Learn how SBI Remit and Siam Commercial Bank partnered on RippleNet to deliver better remittance services and lower… https://t.co/8SBdwFnRgL,51,0.4404,0.861,0.0,0.139
-451,@Ripple,Wed Aug 01 20:42:27 +0000 2018,Learn how RippleNet provides an innovative platform to source liquidity with both fiat and the digital asset #XRP. https://t.co/QqrcJsxCTR,52,0.6597,0.759,0.0,0.241
-452,@Ripple,Tue Jul 31 16:03:06 +0000 2018,We're thrilled to announce @BillClinton as keynote speaker for this year’s #SwellbyRipple. For more details:… https://t.co/LszzyeIDdH,53,0.4404,0.838,0.0,0.162
-453,@Ripple,Mon Jul 30 19:17:14 +0000 2018,Partner with us to sponsor children thru @raisingmalawi and help transform their futures. https://t.co/3oDK7HI4fZ,54,0.4019,0.828,0.0,0.172
-454,@Ripple,Thu Jul 26 19:09:49 +0000 2018,Need some inspiration to get your project over the next hurdle? Look no further we’ve got you. Check out our must r… https://t.co/Y9okcEvXVQ,55,0.296,0.789,0.083,0.128
-455,@Ripple,Thu Jul 26 16:28:31 +0000 2018,"“Money should move as fast as ideas move as fast as data moves and right now it doesn’t.”
--@CoryTV on @FoxBusiness… https://t.co/T6bieqfEKU",56,0.0,1.0,0.0,0.0
-456,@Ripple,Wed Jul 25 20:57:21 +0000 2018,ICYMI: Check out @JoelKatz’s AMA about his new role as Ripple’s CTO with @ashgoblue. https://t.co/3tpj7c966g,57,0.0,1.0,0.0,0.0
-457,@Ripple,Tue Jul 24 15:09:08 +0000 2018,RT @CoryTV: Volatility? What volatility? https://t.co/LqhgNO0Mgr,58,0.0,1.0,0.0,0.0
-458,@Ripple,Mon Jul 23 17:01:53 +0000 2018,Congratulations @ashgoblue for making the @FortuneLedger 40 Under 40! You can read his profile here… https://t.co/MDpfqoTtsz,59,0.636,0.782,0.0,0.218
-459,@Ripple,Fri Jul 20 22:47:16 +0000 2018,"The #XRPCommunity is truly global. We’ve been to meet ups in New York, Dublin, London, and Amsterdam and more have… https://t.co/MAK5Ugjx8r",60,0.4404,0.873,0.0,0.127
-460,@Ripple,Thu Jul 19 20:02:57 +0000 2018,“Innovative Asian banks such as Siam Commercial Bank see #blockchain as a huge opportunity to get ahead of competit… https://t.co/UMJuQX9gHW,61,0.6249,0.769,0.0,0.231
-461,@Ripple,Thu Jul 19 18:33:37 +0000 2018,We're excited for Brainstorm Finance in Montauk next June and promoting deeper conversation around the future of fi… https://t.co/LrnQPpAJXX,62,0.5994,0.776,0.0,0.224
-462,@Ripple,Wed Jul 18 20:47:06 +0000 2018,"“Once value can be sent as instantly as data, we'll have a cambrian explosion of new companies that can take advant… https://t.co/X5OwO6jtQR",63,0.34,0.893,0.0,0.107
-463,@Ripple,Wed Jul 18 16:26:52 +0000 2018,"ICYMI: Check out the full video of @ashgoblue's appearance on the @brainstormtech #FortuneTECH ""Making Money Move P… https://t.co/KIqtj0Rguh",64,0.0,1.0,0.0,0.0
-464,@Ripple,Tue Jul 17 19:16:31 +0000 2018,.@ashgoblue participated in a panel on how digital assets can power instant payments moderated by @fortune’s… https://t.co/6gn9y18Nff,65,0.1779,0.898,0.0,0.102
-465,@Ripple,Mon Jul 16 19:29:46 +0000 2018,"The Ripple Drop Episode 2 is here! @kahinavandyke discusses her journey to #Ripple, @jinalsurti gives updates on th… https://t.co/VTkm1AvaGh",66,-0.3382,0.877,0.123,0.0
-466,@Ripple,Fri Jul 13 21:57:32 +0000 2018,.@JoelKatz’s AMA with @ashgoblue is about to start! Learn more about David’s role as #Ripple’s CTO… https://t.co/N4cnZ9rkZW,67,0.0,1.0,0.0,0.0
-467,@Ripple,Fri Jul 13 19:26:09 +0000 2018,.@diliprao spoke on a @BAFT_Global panel about how #Ripple technology is powering faster payment corridors around t… https://t.co/J6lj12sqlx,68,0.0,1.0,0.0,0.0
-468,@Ripple,Thu Jul 12 19:58:10 +0000 2018,"ICYMI: Got questions about @joelkatz’s new role as CTO? Don’t miss his AMA with @ashgoblue on Friday, 7/13 at 3pm (… https://t.co/oCPxTSuwhu",69,-0.1531,0.929,0.071,0.0
-469,@Ripple,Wed Jul 11 14:27:33 +0000 2018,"RT @kahinavandyke: Excited to take global payments to the next level @Ripple as SVP Business &amp; Corp Development
-https://t.co/8iRdseDCm2",70,0.34,0.882,0.0,0.118
-470,@Ripple,Wed Jul 11 14:07:38 +0000 2018,RT @bgarlinghouse: David and Kahina both have proven track records of success that will be instrumental in forging @Ripple’s path ahead. We…,71,0.5719,0.85,0.0,0.15
-471,@Ripple,Wed Jul 11 02:53:21 +0000 2018,The #Ripple team is in attendance at the #SFGiants game tonight representing from around the world! https://t.co/NXMGYgpYZR,72,0.0,1.0,0.0,0.0
-472,@Ripple,Mon Jul 09 19:00:00 +0000 2018,The digital asset #XRP and the company #Ripple are distinctly different. Learn why. https://t.co/yv8cW1gYH6 https://t.co/w3npq2O894,73,0.3612,0.848,0.0,0.152
-473,@Ripple,Thu Jul 05 16:59:26 +0000 2018,Read more about @emy_wng’s appearance at @TechCrunch Hangzhou and why Asia is a critical market for remittances via… https://t.co/BtXuWncy3Q,74,-0.3182,0.881,0.119,0.0
-474,@Ripple,Tue Jul 03 16:50:34 +0000 2018,“Low value high volume use cases including remittances is an area that we’re focused on. Asia as the world’s center… https://t.co/MIV0wnLPUy,75,0.6124,0.792,0.0,0.208
-475,@Ripple,Tue Jul 03 02:59:34 +0000 2018,RT @JoelKatz: Thanks @coinmarketcap for making it clear that #XRP is not Ripple! #xrpcommunity https://t.co/gIWIZ4VyPm,76,0.6996,0.692,0.0,0.308
-476,@Ripple,Mon Jul 02 19:28:56 +0000 2018,"Check out the first ever episode of The Ripple Drop! This week features insights and updates from @cryptocoley,… https://t.co/vIs2fdtCvk",77,-0.3382,0.883,0.117,0.0
-477,@Ripple,Fri Jun 29 17:40:59 +0000 2018,"Read how @Bancosantander’s #blockchain powered One Pay FX is ensuring customer funds cross-borders with speed, tran… https://t.co/d1NpCMtnnR",78,0.1779,0.811,0.076,0.114
-478,@Ripple,Thu Jun 28 20:47:00 +0000 2018,.@wsculley discussed the new opportunities #blockchain technology provides stakeholders in the money transfer and f… https://t.co/h57TPIUBgr,79,0.3818,0.852,0.0,0.148
-479,@Ripple,Wed Jun 27 16:06:52 +0000 2018,"Check our latest efforts in India to make remittance payments faster and cheaper, including the addition of… https://t.co/i7DRIAB7Aq",80,0.0,1.0,0.0,0.0
-480,@Ripple,Tue Jun 26 17:00:00 +0000 2018,Marjan Delatinne discussed how #blockchain is changing global banking at Blockchain Summit London.… https://t.co/sXP1qnvHXL,81,0.0,1.0,0.0,0.0
-481,@Ripple,Mon Jun 25 20:18:25 +0000 2018,Happy #Pride2018 from Ripple HQ! https://t.co/Ee6V0w5cTw,82,0.6114,0.556,0.0,0.444
-482,@Ripple,Sat Jun 23 14:53:44 +0000 2018,"Read why #RippleNet gives regional banks a better way to build new, faster and more transparent remittance corridor… https://t.co/8iGAAzUXE5",83,0.4404,0.854,0.0,0.146
-483,@Ripple,Fri Jun 22 23:19:59 +0000 2018,"Ripple's engineering, marketing and HR leaders - Vidhya, Monica and Sandi - share wisdom and inspiration at today's… https://t.co/hyO3xhsuLW",84,0.8402,0.609,0.0,0.391
-484,@Ripple,Thu Jun 21 20:22:51 +0000 2018,"Get your tickets now to see @Ashgoblue speak next week at @sgfintechfest #SFF2018 here in San Francisco!
-https://t.co/rww3TDr3KS",85,0.0,1.0,0.0,0.0
-485,@Ripple,Thu Jun 21 16:22:45 +0000 2018,"""The revolution of #blockchain is not happening outside the system. If you really want to impact society, of course… https://t.co/QGmp3mT0ek",86,0.1513,0.923,0.0,0.077
-486,@Ripple,Wed Jun 20 22:01:00 +0000 2018,Read why financial institutions can use similar strategies countries use to prep for the #WorldCup to adopt game ch… https://t.co/8c4PfBIbW8,87,0.1779,0.918,0.0,0.082
-487,@Ripple,Tue Jun 19 16:50:45 +0000 2018,Read @readDanwrite’s interview with @CoryTV’s on why there is so much allegiance to different digital assets and th… https://t.co/z5MBSS6Jwo,88,0.1779,0.914,0.0,0.086
-488,@Ripple,Mon Jun 18 15:51:31 +0000 2018,"""Moving money across borders might not seem that exciting, but if you think about what it means for the global econ… https://t.co/Sh9fjeUuL1",89,-0.2057,0.92,0.08,0.0
-489,@Ripple,Fri Jun 15 16:57:34 +0000 2018,We keep receiving incredible letters from kids across the country! We’re proud to support kids and teachers with… https://t.co/8LZigtVXRN,90,0.7263,0.736,0.0,0.264
-490,@Ripple,Thu Jun 14 16:08:45 +0000 2018,#xRapid could provide a potential global savings of $16.5 billion. Read more about what that means for end users ar… https://t.co/MMWhkGpjKo,91,0.0,1.0,0.0,0.0
-491,@Ripple,Thu Jun 14 16:07:43 +0000 2018,The fees associated with global remittance payments total roughly $30 billion annually. (2/3) https://t.co/C2hgvw7KmE,92,0.0,1.0,0.0,0.0
-492,@Ripple,Thu Jun 14 16:07:28 +0000 2018,$600 billion in global remittance payments are sent each year with $450 billion to emerging markets. (1/3) https://t.co/99xhFm4YQu,93,0.0,1.0,0.0,0.0
-493,@Ripple,Wed Jun 13 23:11:03 +0000 2018,.@ashgoblue on stage at the @FirstMarkCap 2018 CTO Summit this week. He spoke about the evolution of #blockchain an… https://t.co/x4Dl1GiIPC,94,0.0,1.0,0.0,0.0
-494,@Ripple,Wed Jun 13 19:36:37 +0000 2018,Read why @JoelKatz believes that #ILP and the #XRP Ledger will become the infrastructure for the future of global p… https://t.co/x3QJcnOZqA,95,0.0,1.0,0.0,0.0
-495,@Ripple,Wed Jun 13 17:17:12 +0000 2018,“I think you can expect more @Ripple focus and traction on payment flows. I think our traction is playing out and n… https://t.co/rqxfn65pcG,96,0.2023,0.921,0.0,0.079
-496,@Ripple,Wed Jun 13 15:45:38 +0000 2018,"RT @xrpsymbol: After hundreds of submissions, millions of impressions, a lot of promotion by the XRP Community, and two rounds of voting, t…",97,0.2263,0.917,0.0,0.083
-497,@Ripple,Tue Jun 12 19:01:36 +0000 2018,“With the #InternetofValue I think we will see more of an on demand economy. Or things like machine to machine paym… https://t.co/PDeq9OgFKo,98,0.25,0.826,0.065,0.109
-498,@Ripple,Tue Jun 12 16:04:18 +0000 2018,The #XRPCommunity is in the final stages of choosing a new symbol to represent #XRP. Voting ends at 11:59 pm EST to… https://t.co/CH6R5fVyX1,99,0.0,1.0,0.0,0.0
-499,@Ripple,Mon Jun 11 17:26:57 +0000 2018,"“Nobody knows how to pronounce what I do. I’ve been called a choreographer, but what I’m doing is helping ripple to… https://t.co/5s1e7Wb9VL",100,0.4215,0.872,0.0,0.128
-500,@Ripple,Fri Jun 08 17:25:31 +0000 2018,ICYMI: Watch @bgarlinghouse's interview this week with @sytaylor after sharing the stage at @Money2020 #money2020eu https://t.co/8csoIITS3e,101,0.4215,0.843,0.0,0.157
-501,@Ripple,Thu Jun 07 20:25:35 +0000 2018,Read our recap of @marcus_treacher’s discussion with @joymacknight &amp; @AmericanExpress’ Colin O’Flaherty on why fast… https://t.co/DC3mj48cpR,102,0.0,1.0,0.0,0.0
-502,@Ripple,Wed Jun 06 20:56:12 +0000 2018,RT @clairearthurs: Such a good time being a part of the #XRPCommunity meet-up in Amsterdam - the largest turn out yet! Thanks to everyone w…,103,0.7263,0.767,0.0,0.233
-503,@Ripple,Wed Jun 06 08:54:47 +0000 2018,“71% of SMEs believe cross-border payments are problematic. @marcus_treacher and team Ripple are creating an instan… https://t.co/5xM2h7yq8R,104,-0.1779,0.746,0.144,0.109
-504,@Ripple,Wed Jun 06 07:56:27 +0000 2018,Today at 10:25 CEST @joymacknight talks #blockchain with Ripple’s @marcus_treacher and @AmericanExpress’s Colin O’F… https://t.co/mFMSTCZbzq,105,0.0,1.0,0.0,0.0
-505,@Ripple,Wed Jun 06 06:53:05 +0000 2018,"Ready for the final day of #money2020eu? Visit #Ripple in the Expo Hall, 2nd Floor, Left Balcony 7. https://t.co/b67A1CyfUy",106,0.3612,0.878,0.0,0.122
-506,@Ripple,Tue Jun 05 22:16:35 +0000 2018,Just one day left at @Money2020 #money2020eu. We’re excited to see @marcus_treacher on stage tomorrow! https://t.co/fAOvvpUr3u,107,0.4003,0.848,0.0,0.152
-507,@Ripple,Tue Jun 05 19:42:35 +0000 2018,Read our recap of @bgarlinghouse on stage with @sytaylor at @Money2020 #money2020eu where they discussed blockchain… https://t.co/soJkBvKaln,108,0.0,1.0,0.0,0.0
-508,@Ripple,Tue Jun 05 14:58:03 +0000 2018,“It’s unfortunate how polarized we’ve become around different coins. It’s not a winner take all world. Each coin ma… https://t.co/p1RIfCq2Tk,109,-0.7246,0.737,0.263,0.0
-509,@Ripple,Tue Jun 05 12:48:46 +0000 2018,See Ripple’s @JoelKatz discuss crypto at 4pm CEST on Ringside stage w/ @OverstockCEO @AmosMeiri @obi and @Saronimo on #m2020eu panel,110,0.0,1.0,0.0,0.0
-510,@Ripple,Tue Jun 05 10:19:11 +0000 2018,ICYMI: #Ripple CEO @bgarlinghouse explains the difference between Ripple and XRP at @Money2020 #m2020eu https://t.co/sehjs7GVHT,111,0.0,1.0,0.0,0.0
-511,@Ripple,Tue Jun 05 06:26:15 +0000 2018,Don’t miss team #Ripple at @Money2020. Come upstairs to Left Balcony 7 and learn how we improve cross-border paymen… https://t.co/SkTClKg2Q4,112,0.3182,0.791,0.074,0.135
-512,@Ripple,Mon Jun 04 21:56:39 +0000 2018,Day 1 of @Money2020 #m2020eu is a wrap! We’re excited for the rest of the week including seeing @JoelKatz and… https://t.co/UlvlQHD5MY,113,0.4003,0.87,0.0,0.13
-513,@Ripple,Mon Jun 04 15:52:58 +0000 2018,"RT @ericvanm: @Ripple is proud to support the innovation, research and development that uniquely comes from academia. Excited for what the…",114,0.8689,0.612,0.0,0.388
-514,@Ripple,Mon Jun 04 11:41:09 +0000 2018,“Hype vs. reality in blockchain and crypto is way out of whack. Experiments are not a business model. Ripple is goi… https://t.co/bxP8UiWbnQ,115,0.0,1.0,0.0,0.0
-515,@Ripple,Mon Jun 04 10:03:44 +0000 2018,"We’re committing $50M to top, global universities to further #blockchain research, tech and talent for our new Univ… https://t.co/gMZr5V3Eb0",116,0.5994,0.731,0.0,0.269
-516,@Ripple,Mon Jun 04 09:25:51 +0000 2018,"Change of plans: #Ripple CEO @bgarlinghouse takes the Ringside stage at 1:05pm CEST to talk #blockchain, digital as… https://t.co/tnoqhJ05Jy",117,0.0,1.0,0.0,0.0
-517,@Ripple,Mon Jun 04 06:49:12 +0000 2018,"Come one. Come all. Learn about frictionless global payments with #Ripple at @Money2020 EU: Expo Hall, 2nd Floor, L… https://t.co/ZjbHoHcFjw",118,0.0,1.0,0.0,0.0
-518,@Ripple,Fri Jun 01 21:59:13 +0000 2018,Check out @JoelKatz on stage presenting on #XRP &amp; the #InternetofValue at Unchain in Hamburg. For more on David’s n… https://t.co/OK1LMX2w6w,119,0.0,1.0,0.0,0.0
-519,@Ripple,Fri Jun 01 18:03:20 +0000 2018,"We believe any new #XRP symbol should be easy to draw, free of any corporate trademarks, and represent the underlyi… https://t.co/9dVFSiGsoK",120,0.7351,0.754,0.0,0.246
-520,@Ripple,Fri Jun 01 18:02:36 +0000 2018,As a part of the #XRPCommunity we wanted to leverage our legal and design teams to put forward a submission that we… https://t.co/XNvbGRBkLE,121,0.128,0.93,0.0,0.07
-521,@Ripple,Fri Jun 01 18:02:15 +0000 2018,The #XRPCommunity has opened voting for the next week on a new #XRP symbol. Vote by following the link below (1/3) https://t.co/zuqOczhBio,122,0.0,1.0,0.0,0.0
-522,@Ripple,Fri Jun 01 16:14:04 +0000 2018,"""My cross-border payment is going to take 3 days?!"" #DubNation #NBAFinals https://t.co/UFg6w9Uda9",123,0.0,1.0,0.0,0.0
-523,@Ripple,Thu May 31 20:59:12 +0000 2018,"Watch @bancosantander’s One Pay FX in action, the first #blockchain powered mobile app for cross-border payments, a… https://t.co/Pb1gQFlkPu",124,-0.1027,0.924,0.076,0.0
-524,@Ripple,Thu May 31 20:20:04 +0000 2018,Congrats to all the contributors who have helped build the open source #XRP ledger over the last six years. For mor… https://t.co/rcimgaFesq,125,0.5267,0.861,0.0,0.139
-525,@Ripple,Thu May 31 16:09:47 +0000 2018,.@emy_wng’s keynote was in front of a packed house at the @BitrueOfficial #Blockchain Conference in Taiwan this wee… https://t.co/E9yUk4fpFS,126,0.0,1.0,0.0,0.0
-526,@Ripple,Wed May 30 22:48:45 +0000 2018,"""Bitcoin may end up being the Napster of digital assets. It's shown what's possible. But Spotify, iTunes, Pandora e… https://t.co/ShsdrY4Azm",127,0.1779,0.918,0.0,0.082
-527,@Ripple,Wed May 30 19:59:05 +0000 2018,"RT @Recode: Brad Garlinghouse, CEO, Ripple: Blockchain has its own peanut butter reference (That analogy comes from the idea that Yahoo was…",128,0.0,1.0,0.0,0.0
-528,@Ripple,Wed May 30 18:53:05 +0000 2018,Watch @bgarlinghouse on @CNBCFastMoney discuss the growing momentum for RippleNet including the recent addition of… https://t.co/VFrvHmFNlL,129,0.1779,0.898,0.0,0.102
-529,@Ripple,Tue May 29 20:54:06 +0000 2018,"RT @ychernova: Ripple's investment arm Xpring may look like a corporate VC arm but it's more aggressive, willing to provide grants &amp; milest…",130,0.1927,0.747,0.092,0.161
-530,@Ripple,Tue May 29 20:11:20 +0000 2018,Welcome to RippleNet @NBKPage! They're the first bank in Kuwait to use #xCurrent to provide instant cross-border pa… https://t.co/vqoUpZq1QG,131,0.5093,0.845,0.0,0.155
-531,@Ripple,Tue May 29 17:50:50 +0000 2018,"""We already have digitized fiat, I can go to my bank and give my money to people in the same bank in seconds. What'… https://t.co/O2RlZquN7P",132,0.0,1.0,0.0,0.0
-532,@Ripple,Fri May 25 19:06:08 +0000 2018,New and exciting business use cases for #XRP emerging every day. We're happy to see @PropyInc add the digital asset… https://t.co/EY4zncMVv0,133,0.7845,0.734,0.0,0.266
-533,@Ripple,Fri May 25 16:11:10 +0000 2018,"""From the earliest days our vision was to create a cross currency system built on interoperability. There should be… https://t.co/OxBUtX4NJx",134,0.4767,0.806,0.0,0.194
-534,@Ripple,Thu May 24 16:34:51 +0000 2018,“We are trying to make moving money as easy as sending an email using #blockchain. We should be able to move value… https://t.co/GXI4oewWU3,135,0.4404,0.884,0.0,0.116
-535,@Ripple,Thu May 24 05:02:17 +0000 2018,"Tour de Schwartz part deux! Ripple’s Chief Cryptographer @joelkatz rides again and this time he’s headed to Europe,… https://t.co/wO6wsCL8s3",136,0.0,1.0,0.0,0.0
-536,@Ripple,Wed May 23 21:18:43 +0000 2018,“The #InternetofValue is not just about lowering cost and the time it takes for cross-border payments. It is about… https://t.co/yegdlUEDUr,137,0.1877,0.916,0.0,0.084
-537,@Ripple,Wed May 23 19:04:38 +0000 2018,"RT @TheEllenShow: I don’t surprise easily, but this really got me. I am so grateful. I love you both so much. @aplusk @guyoseary https://t.…",138,0.941,0.535,0.0,0.465
-538,@Ripple,Wed May 23 16:28:31 +0000 2018,Surprise! We're thrilled to join @aplusk and @guyoseary in supporting @EDWildlifeFund with a $4M donation. Tune int… https://t.co/MXaOiNuIEZ,139,0.8553,0.556,0.0,0.444
-539,@Ripple,Tue May 22 22:07:42 +0000 2018,Read why @jinalsurti believes #blockchain and digital asset innovation for #payments should make the transaction ba… https://t.co/y0mk5klnXy,140,0.6249,0.746,0.0,0.254
-540,@Ripple,Mon May 21 18:13:59 +0000 2018,"""Improving the efficiencies with payments helps real people around the world - who are either shut out of the banki… https://t.co/MkcqxTpjAY",141,0.7906,0.68,0.0,0.32
-541,@Ripple,Fri May 18 17:34:43 +0000 2018,"RT @emy_wng: Today marks the second anniversary of SBI Ripple Asia, the joint venture between @Ripple and @sbigroup in Japan. What great ac…",142,0.6249,0.843,0.0,0.157
-542,@Ripple,Fri May 18 00:05:00 +0000 2018,We had a blast at #BlockchainWeekNYC! Thanks to everyone that came by the Ripple booth at #Consensus2018 and celebr… https://t.co/TLgQ2AZpqE,143,0.4926,0.849,0.0,0.151
-543,@Ripple,Thu May 17 19:23:04 +0000 2018,RT @emy_wng: At “Multidisciplinary hands-on blockchain workshop geared for women”. @anishmohammed is teaching an Ethereum session now. I’ll…,144,0.0,1.0,0.0,0.0
-544,@Ripple,Wed May 16 19:49:45 +0000 2018,Wanna work for #Ripple?! Look for @MattWelchWelch at the #Consensus2018 Job Fair from 2-5pm EST today! https://t.co/wBafyi05PA,145,0.4374,0.847,0.0,0.153
-545,@Ripple,Wed May 16 05:03:39 +0000 2018,#XRPCommunity night is a wrap! https://t.co/X7dgo7Zg1e,146,0.0,1.0,0.0,0.0
-546,@Ripple,Wed May 16 03:19:27 +0000 2018,ICYMI: Snooperang @SnoopDogg #XRPCommunity https://t.co/RWjBsKUVhI,147,0.0,1.0,0.0,0.0
-547,@Ripple,Wed May 16 02:45:11 +0000 2018,The one and only @SnoopDogg performing live at #XRPCommunity Night! https://t.co/lWHhU6s1V6,148,0.0,1.0,0.0,0.0
-548,@Ripple,Wed May 16 02:07:56 +0000 2018,RT @emy_wng: .@JoelKatz playing super mario bros. #XRPCommunityNight https://t.co/gMXV7e0wzD,149,0.6908,0.551,0.0,0.449
-549,@Ripple,Wed May 16 01:57:50 +0000 2018,We're loving what you're doing with the #XRPCommunity Night photo booth! https://t.co/XR03E79Cvo,150,0.636,0.724,0.0,0.276
-550,@Ripple,Wed May 16 01:12:43 +0000 2018,RT @CamiRusso: Waiting for the first song about crypto 💃 #SnoopDogg at the xrp party https://t.co/ZEYd2L1Fq5,151,0.4019,0.838,0.0,0.162
-551,@Ripple,Wed May 16 00:04:24 +0000 2018,Team Ripple is out in full force at #XRPCommunity Night! https://t.co/Q15OpUAthW,152,0.0,1.0,0.0,0.0
-552,@Ripple,Tue May 15 23:00:06 +0000 2018,The sun is going down and it’s time to celebrate! #XRPCommunity Night starts now https://t.co/7Y1AfrA54n,153,0.6114,0.778,0.0,0.222
-553,@Ripple,Tue May 15 22:01:41 +0000 2018,The #XRPCommunity spoke. We listened. Learn more about the movement for a #XRP symbol. https://t.co/9kzjpPbti6 https://t.co/NafN1lkT5f,154,0.0,1.0,0.0,0.0
-554,@Ripple,Tue May 15 18:10:24 +0000 2018,#XRPCommunity Night kicks off at 7pm EST! https://t.co/y7jB0uNQlE,155,0.0,1.0,0.0,0.0
-555,@Ripple,Tue May 15 14:27:43 +0000 2018,"RT @nbougalis: A large part of the @Ripple C++ team is at #Consensus2018. But that didn't stop us from just releasing rippled 1.0.0.
+🏆 STIFTIES took the 0x prize :congrats:
+🗒️ st… https://t.co/FKD0ptsylF",65,0.807,0.644,0.0,0.356
+465,0xProject,Tue Jul 31 00:48:07 +0000 2018,"0x will be joining @ddex_io for a meetup on Thursday, 8/2 in Chaoyang, Beijing! 
 
-https…",156,0.2235,0.921,0.0,0.079
-556,@Ripple,Mon May 14 23:11:13 +0000 2018,We can’t wait to see the real @SnoopDogg on stage at #XRPCommunity Night tomorrow! https://t.co/AWDnSbo8qm,157,0.0,1.0,0.0,0.0
-557,@Ripple,Mon May 14 22:02:33 +0000 2018,"RT @emy_wng: Mitsubishi Corporation, @StanChart and @KrungsriSimple will test payments between Singapore and Thailand with #xCurrent! More…",158,0.0,1.0,0.0,0.0
-558,@Ripple,Mon May 14 20:09:54 +0000 2018,"RT @cheddar: At #Consensus2018 @Ripple announced it's new Xpring initiative, which aims to help supercharge entrepreneurs building products…",159,0.4019,0.863,0.0,0.137
-559,@Ripple,Mon May 14 19:16:44 +0000 2018,".@CoryTV is live on @FoxBusiness' Countdown to the Closing Bell to talk Ripple, #XRP and more with @LizClaman. https://t.co/IoYu0SkPkc",160,0.0,1.0,0.0,0.0
-560,@Ripple,Mon May 14 19:00:37 +0000 2018,Standing room only at @JoelKatz's live demo of 1st #xRapid payment! #Consensus2018 https://t.co/n9Ezd6WKu6,161,0.0,1.0,0.0,0.0
-561,@Ripple,Mon May 14 18:16:04 +0000 2018,Witness history! @joelkatz demoing the 1st live #xRapid payment in 10 mins from Ripple's meeting room at… https://t.co/gDc73Nj8WH,162,0.0,1.0,0.0,0.0
-562,@Ripple,Mon May 14 17:53:01 +0000 2018,"RT @clairearthurs: “The irony is that in trying to solve the challenge of existing silos, we created new silos. The challenge now is to bui…",163,0.4939,0.725,0.043,0.232
-563,@Ripple,Mon May 14 17:29:57 +0000 2018,@evcorchado74 @JoelKatz @MattSpoke @jutta_steiner The Grand Ballroom East,164,0.4588,0.7,0.0,0.3
-564,@Ripple,Mon May 14 17:16:46 +0000 2018,Don't miss @joelkatz on stage in 15 mins at #Consensus2018. The Race Towards Interoperability features co-panelists… https://t.co/EL1M3Ryrle,165,0.1139,0.917,0.0,0.083
-565,@Ripple,Mon May 14 15:00:10 +0000 2018,At #Consensus2018? Grab some coffee and introduce yourself. We're located on the 2nd floor in the Beekman Pavilion.… https://t.co/gxN1JcINs3,166,0.0,1.0,0.0,0.0
-566,@Ripple,Mon May 14 14:30:38 +0000 2018,Check out @CoryTV live on @TDANetwork now! https://t.co/VnoFTLo6m3,167,0.0,1.0,0.0,0.0
-567,@Ripple,Mon May 14 13:25:51 +0000 2018,"Excited to announce Xpring, a new initiative that supports businesses growing on the XRP Ledger, and initial invest… https://t.co/obzk6iZlGJ",168,0.6808,0.694,0.0,0.306
-568,@Ripple,Fri May 11 19:22:11 +0000 2018,"RT @emy_wng: Honored to rank #26 on the Top 100 Most Influential Women in Blockchain! In fact, I will be speaking about “Women in Blockchai…",169,0.8436,0.698,0.0,0.302
-569,@Ripple,Fri May 11 17:43:42 +0000 2018,Read @xrpsymbol’s thoughtful piece in @Forbes outlining specifically why he launched the movement to create a new s… https://t.co/rpWgc8cH3w,170,0.6369,0.708,0.0,0.292
-570,@Ripple,Thu May 10 20:04:18 +0000 2018,There is a community movement for a unique #XRP symbol. We agree! XRP is independent of Ripple. Submit your idea no… https://t.co/eVFNGFlDsZ,171,0.4199,0.872,0.0,0.128
-571,@Ripple,Thu May 10 13:02:55 +0000 2018,RT @ashgoblue: The first #xRapid pilot results are in: financial institutions saved 40-70% and payments took 2-3 mins (vs. 2-3 days). Read…,172,0.4215,0.882,0.0,0.118
-572,@Ripple,Wed May 09 20:31:57 +0000 2018,Join the #XRPCommunity movement and share an idea for a new #XRP symbol! https://t.co/64VOoNjdo2,173,0.5707,0.701,0.0,0.299
-573,@Ripple,Wed May 09 18:33:33 +0000 2018,"""Payments is the baseline use case for unlocking the value in #blockchain."" 
--@ashgoblue's keynote at… https://t.co/aBKkGQ1nzb",174,0.34,0.862,0.0,0.138
-574,@Ripple,Wed May 09 17:53:02 +0000 2018,RT @ericvanm: Had a great time chatting with @wendyrlh about how @Ripple is removing friction from global payments at #BSLChile2018 this mo…,175,0.6249,0.83,0.0,0.17
-575,@Ripple,Wed May 09 14:22:57 +0000 2018,.@ericvanm took the stage at #BSLChile2018 for @BlockSummitLA to discuss how Ripple’s #blockchain solutions are tra… https://t.co/scNUyVyf8P,176,0.1779,0.904,0.0,0.096
-576,@Ripple,Wed May 09 01:06:24 +0000 2018,.@coinone_info is launching “Cross” a new remittance service powered by #xCurrent that will service critical paymen… https://t.co/k8qyIzhZk0,177,-0.3182,0.867,0.133,0.0
-577,@Ripple,Wed May 09 00:02:46 +0000 2018,"Recommended reading for those of you interested in #XRPFact, not fiction 1) Our 3-Part Product Strategy:… https://t.co/PpjfV4ZPov",178,0.5423,0.769,0.0,0.231
-578,@Ripple,Tue May 08 00:59:20 +0000 2018,".@JoelKatz talks #blockchain and digital assets with @jdrive, @samcassatt and Mark David Bakacs on a panel moderate… https://t.co/gVnDgypkJ8",179,0.1779,0.904,0.0,0.096
-579,@Ripple,Mon May 07 23:59:57 +0000 2018,“At its core Ripple is a technology company leveraging digital assets to solve a global payments problem. We believ… https://t.co/JC4pPVIhlD,180,-0.0516,0.708,0.127,0.165
-580,@Ripple,Sat May 05 00:13:42 +0000 2018,RT @clairearthurs: One does not simply knock it out of the park like @KhunSanchez did with his memetastic take on settlement cost - congrat…,181,0.3612,0.898,0.0,0.102
-581,@Ripple,Sat May 05 00:10:59 +0000 2018,RT @clairearthurs: There’s no turning back… @mhschmidt2 out memed the competition with her nod to #InternetofValue - congrats! https://t.co…,182,0.3595,0.731,0.1,0.169
-582,@Ripple,Sat May 05 00:06:19 +0000 2018,RT @clairearthurs: Thank you to all in the #XRPCommunity who participated in our make the meme contest! Shout out to runners up: @TallGlass…,183,0.4199,0.887,0.0,0.113
-583,@Ripple,Sat May 05 00:05:15 +0000 2018,It's time for @clairearthurs to reveal our favorite memes and the final 2 winners of tickets to #XRPCommunity Night!,184,0.75,0.715,0.0,0.285
-584,@Ripple,Fri May 04 17:49:37 +0000 2018,#Blockchain is reducing friction in cross-border payments and addressing growing demand in emerging markets. Read m… https://t.co/PlSTdiRkRL,185,0.0516,0.824,0.082,0.093
-585,@Ripple,Fri May 04 14:26:58 +0000 2018,"From all of us at Team Ripple, happy #StarWarsDay #MayTheFourthBeWithYou https://t.co/VLEGD6PpuY",186,0.5719,0.73,0.0,0.27
-586,@Ripple,Thu May 03 16:33:41 +0000 2018,You have 8 more hours to submit your meme captions. Submissions to win tickets to #XRPCommunity Night close at 4pm… https://t.co/JjAtmehKEV,187,0.5859,0.833,0.0,0.167
-587,@Ripple,Thu May 03 00:03:54 +0000 2018,"For a more in-depth look at our stance on thoughtful regulation following the @UKParliament hearing, read this piec… https://t.co/HISaiPUIEj",188,0.3818,0.867,0.0,0.133
-588,@Ripple,Wed May 02 23:10:03 +0000 2018,Go forth and create! You have 24 hours to submit your meme captions! #XRPCommunity https://t.co/iJnehrgYa8,189,0.3987,0.839,0.0,0.161
-589,@Ripple,Wed May 02 23:08:25 +0000 2018,"P2: Use this image and ""cost"" #XRPCommunity. https://t.co/Tmc4Sbce00",190,0.0,1.0,0.0,0.0
-590,@Ripple,Wed May 02 23:07:16 +0000 2018,"P1: Use this image and ""Internet of Value"" #XRPCommunity. https://t.co/LumV0seKEE",191,0.34,0.789,0.0,0.211
-591,@Ripple,Wed May 02 23:03:00 +0000 2018,"We're about to start Make the Meme. Remember: To win, you must include @Ripple, #XRPCommunity, ""P1"" or ""P2,"" and yo… https://t.co/4H6wm4KhO1",192,0.5859,0.84,0.0,0.16
-592,@Ripple,Wed May 02 17:25:14 +0000 2018,"RT @RyanZagone: A few key high points from the evidence session:
-1. Ripple’s work: 10:14:16
-2. Dispelling myths, highlighting benefits digi…",193,0.3818,0.88,0.0,0.12
-593,@Ripple,Wed May 02 16:32:33 +0000 2018,.@ashgoblue is giving a webinar on #blockchain and building the #InternetofValue with @sharespost at 10am PST today… https://t.co/Xnia1w1pyG,194,0.34,0.87,0.0,0.13
-594,@Ripple,Tue May 01 22:59:27 +0000 2018,"RT @BankDhofar: #BankDhofar First Bank in Oman to Join RippleNet for Instant Blockchain Payments, this step will enable BankDhofar to provi…",195,0.296,0.901,0.0,0.099
-595,@Ripple,Tue May 01 19:37:04 +0000 2018,Don’t forget Make the Meme contest starts tomorrow at 4pm (PST). Winners will get a ticket to #XRPCommunity Night a… https://t.co/NlNWUYMAuI,196,0.296,0.783,0.083,0.135
-596,@Ripple,Tue May 01 17:08:48 +0000 2018,Missed @bgarlinghouse and @CoryTV's livestream last week? Watch them discuss the status of #xRapid pilots and the p… https://t.co/dgIluxbc2L,197,-0.296,0.891,0.109,0.0
-597,@Ripple,Mon Apr 30 21:38:07 +0000 2018,We're at @NACHAOnline #PAYMENTS2018 this week in San Diego! Swing by our booth and say hello! https://t.co/zlWokzLDpb,198,0.0,1.0,0.0,0.0
-598,@Ripple,Mon Apr 30 16:51:15 +0000 2018,"Make the Meme contest begins at 4pm PST this Wednesday, 5/2. Win the final 2 tickets to #XRPCommunity Night featuri… https://t.co/JABLNYnNBv",199,0.5859,0.833,0.0,0.167
-599,@Ripple,Fri Apr 27 23:28:16 +0000 2018,Congrats again to winners! Tune in next Wednesday for another chance to play: https://t.co/iJnehrgYa8,200,0.8805,0.472,0.0,0.528
+👩‍💻 Developers encouraged to atte… https://t.co/AQnxRP8USs",66,0.4199,0.866,0.0,0.134
+466,0xProject,Mon Jul 30 18:41:51 +0000 2018,Interested in turning a crypto obsession into a career? Check out our new Careers page! https://t.co/nCH6VKZ0Ib https://t.co/UXpfcjcHVB,67,0.1511,0.707,0.13,0.163
+467,0xProject,Sat Jul 28 01:18:06 +0000 2018,0x will be @Tsinghua_Uni SEM in Beijing hosted by @amino_capital! Join us to learn more about developing on 0x and… https://t.co/q6CzwxpMBj,68,0.3595,0.889,0.0,0.111
+468,0xProject,Sat Jul 28 00:38:54 +0000 2018,"0x and imToken is hosting a meetup with @ethfans in Hangzhou on Sunday 7/29! Come learn more about:
+
+🔄 DEX
+👩‍💻 0x v… https://t.co/Itpa1H7vy6",69,0.0,1.0,0.0,0.0
+469,0xProject,Wed Jul 25 07:02:34 +0000 2018,"Find the 0x table in ""The Battleground"" room if you have questions or running into any issues!",70,-0.4574,0.842,0.158,0.0
+470,0xProject,Wed Jul 25 03:43:08 +0000 2018,Thanks to those who attended the Building Marketplaces on 0x workshop at @nifty_hacks. You can find @dekz's slides… https://t.co/fKHqGvx30n,71,0.4404,0.861,0.0,0.139
+471,0xProject,Tue Jul 24 23:44:57 +0000 2018,"RT @willwarren89: 1) PSA to Facebook, Amazon, Netflix, Google and AirBnb employees: blockchains will completely reshape human civilization…",72,0.1779,0.909,0.0,0.091
+472,0xProject,Tue Jul 24 00:49:18 +0000 2018,"RT @ERCdEX: No Fees on ERC dEX! In support of The Paros Olympiad trading competition our Aqueduct partner, Melonport (@Melonport), has put…",73,0.2003,0.794,0.087,0.119
+473,0xProject,Thu Jul 19 20:23:12 +0000 2018,Find @dekz @tomhschmidt @BChillman  and @aqxu at https://t.co/HNB8qfFjdZ next week in HK 🇭🇰 😸. 0x will be hosting a… https://t.co/5C0ztSOKd5,74,0.0,1.0,0.0,0.0
+474,0xProject,Thu Jul 19 00:01:05 +0000 2018,Planning out the redesign for our SF office 🛋️💺! We're looking for more talented folks to join the 0x core team in… https://t.co/5OhW5Bnhff,75,0.7257,0.775,0.0,0.225
+475,0xProject,Tue Jul 17 18:16:07 +0000 2018,"Introducing the new 0x Portal
+https://t.co/uldd5J9UAs",76,0.0,1.0,0.0,0.0
+476,0xProject,Tue Jul 17 18:02:18 +0000 2018,Relayer Report #6 is out! Read more about NFTs + DEX with special guest @Flynnjamm + updates across the 0x ecosyste… https://t.co/u16Q8gGfoo,77,0.4574,0.864,0.0,0.136
+477,0xProject,Mon Jul 16 20:23:02 +0000 2018,We are excited to announce that Chris Kalani has joined the 0x core team as Director of Design! Join us in extendin… https://t.co/MN8HCCx67M,78,0.5983,0.811,0.0,0.189
+478,0xProject,Mon Jul 16 19:17:45 +0000 2018,"4) Learn 🔍
+
+Homepage: https://t.co/Wa2QtWSLMr
+Blog: https://t.co/REJ3KW0eKG
+Reddit: https://t.co/6al49VrdEM
+Chat:… https://t.co/a2BjI6fAVW",79,0.0,1.0,0.0,0.0
+479,0xProject,Mon Jul 16 19:17:45 +0000 2018,"3) 0x uses a modular system of Ethereum smart contracts that can be upgraded through governance ⚖️
+https://t.co/BDCenV8j69",80,0.4019,0.856,0.0,0.144
+480,0xProject,Mon Jul 16 19:17:45 +0000 2018,"2) Our mission is to create a tokenized world where all value can flow freely 🌏 
+https://t.co/Db3pu2utxM",81,0.7506,0.619,0.0,0.381
+481,0xProject,Mon Jul 16 19:17:44 +0000 2018,1) Welcome to the 0x twitter page 👋 0x is an open protocol that facilitates peer-to-peer exchange of digital assets… https://t.co/bhn2c9w3U9,82,0.4588,0.864,0.0,0.136
+482,0xProject,Thu Jul 12 20:56:38 +0000 2018,"0x developer community, please take 5 minutes to fill out our first Developer Feedback survey. Your feedback will h… https://t.co/ZFJtPQdkjU",83,0.3182,0.887,0.0,0.113
+483,0xProject,Thu Jul 12 20:43:33 +0000 2018,"Any developer or team keen on buidling a relayer for @AugurProject, please join https://t.co/13SvtAAgyN and reach o… https://t.co/o0eJuoaGh0",84,0.7269,0.616,0.0,0.384
+484,0xProject,Tue Jul 10 19:18:28 +0000 2018,We are excited to announce the addition of Peter Zeitz to the 0x core team! Peter will be researching on decentrali… https://t.co/1mgY3y1vmU,85,0.4003,0.886,0.0,0.114
+485,0xProject,Tue Jul 03 19:57:51 +0000 2018,Create a tokenized world where all value can flow freely 🌏 #orderswithoutborders https://t.co/yIeyhiFKCW,86,0.7506,0.519,0.0,0.481
+486,0xProject,Tue Jul 03 17:33:29 +0000 2018,"June development updates:
+⚖️ Mission &amp; Values
+📞 June dev call
+🚀 Version 2 deployed to Kovan
+🧠 New team members
+🙏 Th… https://t.co/I39p34yAvL",87,0.4019,0.87,0.0,0.13
+487,0xProject,Tue Jul 03 16:29:05 +0000 2018,We are thrilled to announce that @_alexbrowne has joined the 0x core team! Join us in extending Alex a warm welcome… https://t.co/TKohAQi5Dq,88,0.7424,0.712,0.0,0.288
+488,0xProject,Mon Jul 02 17:55:51 +0000 2018,"Relayer Report #5 is out! Read more about 0x's V2 Kovan Launch, Governance &amp; Token Value Conversations, and updates… https://t.co/jjZsrm76Tv",89,0.4003,0.876,0.0,0.124
+489,0xProject,Thu Jun 28 21:22:51 +0000 2018,Developing on 0x or interested in using 0x v2 in the future? Join our Developer mailing list for the latest 0x prot… https://t.co/UIdXb4WJiY,90,0.5994,0.811,0.0,0.189
+490,0xProject,Thu Jun 28 18:41:18 +0000 2018,"0x protocol v2 is live on Kovan! 🚀
+https://t.co/rRSC2x17e6",91,0.0,1.0,0.0,0.0
+491,0xProject,Wed Jun 27 20:36:31 +0000 2018,"As a community, we must focus on long term impact 🛠️ @TheOceanTrade https://t.co/NyagAgrCLE",92,0.0,1.0,0.0,0.0
+492,0xProject,Wed Jun 27 00:59:29 +0000 2018,"@andupotorac @RadarRelay We are here to serve, not profit: 
+https://t.co/V7UEU5lJG4",93,-0.3412,0.789,0.211,0.0
+493,0xProject,Tue Jun 26 21:31:10 +0000 2018,Congrats to @RadarRelay for completing beta and putting up some impressive stats 🚀 https://t.co/AMv0g4a56V,94,0.7717,0.621,0.0,0.379
+494,0xProject,Tue Jun 26 17:24:47 +0000 2018,We have a long ways to go for dApps to be user friendly. @FetchTrading has some great ideas! https://t.co/EkN6PkrrxV,95,0.8221,0.678,0.0,0.322
+495,0xProject,Mon Jun 25 17:29:11 +0000 2018,RT @ledgerdex: We are very excited to announce that LedgerDex Beta is live! You can now access LedgerDex's web app (Beta version) from our…,96,0.4561,0.885,0.0,0.115
+496,0xProject,Fri Jun 22 19:22:09 +0000 2018,Please join us in welcoming Mel Oberto to the 0x team! We are thrilled to have Mel manage daily operations and help… https://t.co/UNkDfIoXsF,97,0.8622,0.642,0.0,0.358
+497,0xProject,Thu Jun 21 21:36:07 +0000 2018,"@mihaithoracic @etherscan @ethplorer @RadarRelay @ddex_io @myetherwallet No problems with our contract, but maybe t… https://t.co/nWRPUOoaCD",98,-0.3506,0.79,0.21,0.0
+498,0xProject,Tue Jun 19 15:11:07 +0000 2018,RT @RadarRelay: The Radar Relay beta is complete. Learn more about what this means and see some stats from our beta over on Medium: https:/…,99,0.0,1.0,0.0,0.0
+499,0xProject,Mon Jun 18 16:05:52 +0000 2018,RT @ledgerdex: LedgerDex is the next generation ERC20 token manager and decentralized exchange (DEX) built on top of the @0xProject. Stay t…,100,0.2023,0.921,0.0,0.079
